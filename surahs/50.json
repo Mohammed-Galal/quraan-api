@@ -1,0 +1,1499 @@
+
+    {
+      "id": 50,
+      "name": {
+        "AR": "ق",
+        "EN": ["Qaaf", "The letter Qaaf"]
+      },
+      "versesLength": 45,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قٓ وَٱلْقُرْءَانِ ٱلْمَجِيدِ",
+            "tafseer": "(ق) سبق الكلام على الحروف المقطَّعة في أول سورة البقرة. أقسم الله تعالى بالقرآن الكريم ذي المجد والشرف.",
+            "EN_text": "Qaf. By the honored Qur'an...",
+            "tajweed": [{
+            "from": 39,
+            "to": 41,
+            "rule": "madd_6"
+          },{
+            "from": 44,
+            "to": 45,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 57,
+            "to": 58,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 64,
+            "to": 65,
+            "rule": "madd_246"
+          },{
+            "from": 65,
+            "to": 66,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "بَلْ عَجِبُوٓا۟ أَن جَآءَهُم مُّنذِرٌ مِّنْهُمْ فَقَالَ ٱلْكَٰفِرُونَ هَٰذَا شَىْءٌ عَجِيبٌ",
+            "tafseer": "بل عجب المكذبون للرسول صلى الله عليه وسلم أن جاءهم منذر منهم ينذرهم عقاب الله، فقال الكافرون بالله ورسوله: هذا شيء مستغرب يتعجب منه.",
+            "EN_text": "But they wonder that there has come to them a warner from among themselves, and the disbelievers say, 'This is an amazing thing.",
+            "tajweed": [{
+            "from": 11,
+            "to": 13,
+            "rule": "madd_munfasil"
+          },{
+            "from": 13,
+            "to": 15,
+            "rule": "silent"
+          },{
+            "from": 18,
+            "to": 22,
+            "rule": "ikhfa"
+          },{
+            "from": 22,
+            "to": 24,
+            "rule": "madd_muttasil"
+          },{
+            "from": 28,
+            "to": 33,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 33,
+            "to": 36,
+            "rule": "ikhfa"
+          },{
+            "from": 37,
+            "to": 42,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 57,
+            "to": 58,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 62,
+            "to": 63,
+            "rule": "madd_2"
+          },{
+            "from": 73,
+            "to": 74,
+            "rule": "madd_2"
+          },{
+            "from": 89,
+            "to": 90,
+            "rule": "madd_246"
+          },{
+            "from": 90,
+            "to": 91,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "أَءِذَا مِتْنَا وَكُنَّا تُرَابًا ذَٰلِكَ رَجْعٌۢ بَعِيدٌ",
+            "tafseer": "أإذا متنا وصِرْنا ترابًا، كيف يمكن الرجوع بعد ذلك إلى ما كنا عليه؟ ذلك رجع بعيد الوقوع.",
+            "EN_text": "When we have died and have become dust, [we will return to life]? That is a distant return.'",
+            "tajweed": [{
+            "from": 20,
+            "to": 23,
+            "rule": "ghunnah"
+          },{
+            "from": 31,
+            "to": 36,
+            "rule": "ikhfa"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "madd_2"
+          },{
+            "from": 44,
+            "to": 46,
+            "rule": "qalqalah"
+          },{
+            "from": 47,
+            "to": 51,
+            "rule": "iqlab"
+          },{
+            "from": 54,
+            "to": 55,
+            "rule": "madd_246"
+          },{
+            "from": 55,
+            "to": 56,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "قَدْ عَلِمْنَا مَا تَنقُصُ ٱلْأَرْضُ مِنْهُمْ وَعِندَنَا كِتَٰبٌ حَفِيظٌۢ",
+            "tafseer": "قد علمنا ما تنقص الأرض وتُفني من أجسامهم، وعندنا كتاب محفوظ من التغيير والتبديل، بكل ما يجري عليهم في حياتهم وبعد مماتهم.",
+            "EN_text": "We know what the earth diminishes of them, and with Us is a retaining record.",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "qalqalah"
+          },{
+            "from": 21,
+            "to": 24,
+            "rule": "ikhfa"
+          },{
+            "from": 27,
+            "to": 28,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 50,
+            "to": 53,
+            "rule": "ikhfa"
+          },{
+            "from": 61,
+            "to": 62,
+            "rule": "madd_2"
+          },{
+            "from": 69,
+            "to": 70,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "بَلْ كَذَّبُوا۟ بِٱلْحَقِّ لَمَّا جَآءَهُمْ فَهُمْ فِىٓ أَمْرٍ مَّرِيجٍ",
+            "tafseer": "بل كذَّب هؤلاء المشركون بالقرآن حين جاءهم، فهم في أمر مضطرب مختلط، لا يثبتون على شيء، ولا يستقر لهم قرار.",
+            "EN_text": "But they denied the truth when it came to them, so they are in a confused condition.",
+            "tajweed": [{
+            "from": 13,
+            "to": 15,
+            "rule": "silent"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 29,
+            "to": 32,
+            "rule": "ghunnah"
+          },{
+            "from": 36,
+            "to": 38,
+            "rule": "madd_muttasil"
+          },{
+            "from": 54,
+            "to": 56,
+            "rule": "madd_munfasil"
+          },{
+            "from": 62,
+            "to": 67,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 69,
+            "to": 70,
+            "rule": "madd_246"
+          },{
+            "from": 70,
+            "to": 71,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "أَفَلَمْ يَنظُرُوٓا۟ إِلَى ٱلسَّمَآءِ فَوْقَهُمْ كَيْفَ بَنَيْنَٰهَا وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٍ",
+            "tafseer": "أغَفَلوا حين كفروا بالبعث، فلم ينظروا إلى السماء فوقهم، كيف بنيناها مستوية الأرجاء، ثابتة البناء، وزيناها بالنجوم، وما لها من شقوق وفتوق، فهي سليمة من التفاوت والعيوب؟",
+            "EN_text": "Have they not looked at the heaven above them - how We structured it and adorned it and [how] it has no rifts?",
+            "tajweed": [{
+            "from": 11,
+            "to": 14,
+            "rule": "ikhfa"
+          },{
+            "from": 16,
+            "to": 18,
+            "rule": "madd_munfasil"
+          },{
+            "from": 18,
+            "to": 20,
+            "rule": "silent"
+          },{
+            "from": 27,
+            "to": 28,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 34,
+            "to": 36,
+            "rule": "madd_muttasil"
+          },{
+            "from": 65,
+            "to": 66,
+            "rule": "madd_2"
+          },{
+            "from": 77,
+            "to": 80,
+            "rule": "ghunnah"
+          },{
+            "from": 80,
+            "to": 81,
+            "rule": "madd_2"
+          },{
+            "from": 99,
+            "to": 103,
+            "rule": "ikhfa"
+          },{
+            "from": 105,
+            "to": 106,
+            "rule": "madd_246"
+          },{
+            "from": 106,
+            "to": 107,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ زَوْجٍۭ بَهِيجٍ",
+            "tafseer": "والأرض وسَّعْناها وفرشناها، وجعلنا فيها جبالا ثوابت؛ لئلا تميل بأهلها، وأنبتنا فيها من كل نوع حسن المنظر نافع، يَسُرُّ ويبهج الناظر إليه.",
+            "EN_text": "And the earth - We spread it out and cast therein firmly set mountains and made grow therein [something] of every beautiful kind,",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 16,
+            "to": 18,
+            "rule": "qalqalah"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "madd_2"
+          },{
+            "from": 50,
+            "to": 51,
+            "rule": "madd_2"
+          },{
+            "from": 61,
+            "to": 63,
+            "rule": "iqlab"
+          },{
+            "from": 79,
+            "to": 83,
+            "rule": "ikhfa"
+          },{
+            "from": 92,
+            "to": 96,
+            "rule": "iqlab"
+          },{
+            "from": 99,
+            "to": 100,
+            "rule": "madd_246"
+          },{
+            "from": 100,
+            "to": 101,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "تَبْصِرَةً وَذِكْرَىٰ لِكُلِّ عَبْدٍ مُّنِيبٍ",
+            "tafseer": "خلق الله السموات والأرض وما فيهما من الآيات العظيمة عبرة يُتبصر بها مِن عمى الجهل، وذكرى لكل عبد خاضع خائف وَجِل، رجَّاع إلى الله عز وجل.",
+            "EN_text": "Giving insight and a reminder for every servant who turns [to Allah].",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "qalqalah"
+          },{
+            "from": 9,
+            "to": 13,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 32,
+            "to": 34,
+            "rule": "qalqalah"
+          },{
+            "from": 35,
+            "to": 40,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "madd_246"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَنَزَّلْنَا مِنَ ٱلسَّمَآءِ مَآءً مُّبَٰرَكًا فَأَنۢبَتْنَا بِهِۦ جَنَّٰتٍ وَحَبَّ ٱلْحَصِيدِ",
+            "tafseer": "ونزَّلنا من السماء مطرًا كثير المنافع، فأنبتنا به بساتين كثيرة الأشجار، وحب الزرع المحصود.",
+            "EN_text": "And We have sent down blessed rain from the sky and made grow thereby gardens and grain from the harvest",
+            "tajweed": [{
+            "from": 18,
+            "to": 19,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 25,
+            "to": 27,
+            "rule": "madd_muttasil"
+          },{
+            "from": 32,
+            "to": 34,
+            "rule": "madd_muttasil"
+          },{
+            "from": 35,
+            "to": 40,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "madd_2"
+          },{
+            "from": 46,
+            "to": 51,
+            "rule": "ikhfa"
+          },{
+            "from": 54,
+            "to": 56,
+            "rule": "iqlab"
+          },{
+            "from": 67,
+            "to": 68,
+            "rule": "madd_2"
+          },{
+            "from": 71,
+            "to": 74,
+            "rule": "ghunnah"
+          },{
+            "from": 74,
+            "to": 75,
+            "rule": "madd_2"
+          },{
+            "from": 76,
+            "to": 80,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 86,
+            "to": 87,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 93,
+            "to": 94,
+            "rule": "madd_246"
+          },{
+            "from": 94,
+            "to": 95,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَٱلنَّخْلَ بَاسِقَٰتٍ لَّهَا طَلْعٌ نَّضِيدٌ",
+            "tafseer": "وأنبتنا النخل طِوالا لها طلع متراكب بعضه فوق بعضٍ.",
+            "EN_text": "And lofty palm trees having fruit arranged in layers -",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 3,
+            "to": 4,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 4,
+            "to": 7,
+            "rule": "ghunnah"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "madd_2"
+          },{
+            "from": 21,
+            "to": 26,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 35,
+            "to": 40,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "madd_246"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "رِّزْقًا لِّلْعِبَادِ وَأَحْيَيْنَا بِهِۦ بَلْدَةً مَّيْتًا كَذَٰلِكَ ٱلْخُرُوجُ",
+            "tafseer": "أنبتنا ذلك رزقًا للعباد يقتاتون به حسب حاجاتهم، وأحيينا بهذا الماء الذي أنزلناه من السماء بلدة قد أجدبت وقحطت، فلا زرع فيها ولا نبات، كما أحيينا بذلك الماء الأرض الميتة نخرجكم يوم القيامة أحياء بعد الموت.",
+            "EN_text": "As provision for the servants, and We have given life thereby to a dead land. Thus is the resurrection.",
+            "tajweed": [{
+            "from": 6,
+            "to": 12,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_2"
+          },{
+            "from": 49,
+            "to": 54,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 57,
+            "to": 62,
+            "rule": "ikhfa"
+          },{
+            "from": 64,
+            "to": 65,
+            "rule": "madd_2"
+          },{
+            "from": 70,
+            "to": 71,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 77,
+            "to": 78,
+            "rule": "madd_246"
+          },{
+            "from": 78,
+            "to": 79,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَٰبُ ٱلرَّسِّ وَثَمُودُ",
+            "tafseer": "كذَّبت قبل هؤلاء المشركين من قريش قومُ نوح وأصحاب البئر وثمود، وعاد وفرعون وقوم لوط، وأصحاب الأيكة قومُ شعيب، وقوم تُبَّع الحِمْيَري، كل هؤلاء الأقوام كذَّبوا رسلهم، فحق عليهم الوعيد الذي توعدهم الله به على كفرهم.",
+            "EN_text": "The people of Noah denied before them, and the companions of the well and Thamud",
+            "tajweed": [{
+            "from": 12,
+            "to": 14,
+            "rule": "qalqalah"
+          },{
+            "from": 32,
+            "to": 36,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "madd_2"
+          },{
+            "from": 46,
+            "to": 47,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 47,
+            "to": 48,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 61,
+            "to": 62,
+            "rule": "madd_246"
+          },{
+            "from": 62,
+            "to": 63,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَعَادٌ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍ",
+            "tafseer": "كذَّبت قبل هؤلاء المشركين من قريش قومُ نوح وأصحاب البئر وثمود، وعاد وفرعون وقوم لوط، وأصحاب الأيكة قومُ شعيب، وقوم تُبَّع الحِمْيَري، كل هؤلاء الأقوام كذَّبوا رسلهم، فحق عليهم الوعيد الذي توعدهم الله به على كفرهم.",
+            "EN_text": "And 'Aad and Pharaoh and the brothers of Lot",
+            "tajweed": [{
+            "from": 6,
+            "to": 10,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 29,
+            "to": 30,
+            "rule": "madd_2"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "madd_246"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَأَصْحَٰبُ ٱلْأَيْكَةِ وَقَوْمُ تُبَّعٍ كُلٌّ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+            "tafseer": "كذَّبت قبل هؤلاء المشركين من قريش قومُ نوح وأصحاب البئر وثمود، وعاد وفرعون وقوم لوط، وأصحاب الأيكة قومُ شعيب، وقوم تُبَّع الحِمْيَري، كل هؤلاء الأقوام كذَّبوا رسلهم، فحق عليهم الوعيد الذي توعدهم الله به على كفرهم.",
+            "EN_text": "And the companions of the thicket and the people of Tubba'. All denied the messengers, so My threat was justly fulfilled.",
+            "tajweed": [{
+            "from": 8,
+            "to": 9,
+            "rule": "madd_2"
+          },{
+            "from": 12,
+            "to": 13,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 39,
+            "to": 43,
+            "rule": "ikhfa"
+          },{
+            "from": 45,
+            "to": 49,
+            "rule": "ikhfa"
+          },{
+            "from": 55,
+            "to": 56,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 56,
+            "to": 57,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 77,
+            "to": 78,
+            "rule": "madd_246"
+          },{
+            "from": 78,
+            "to": 79,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "أَفَعَيِينَا بِٱلْخَلْقِ ٱلْأَوَّلِ بَلْ هُمْ فِى لَبْسٍ مِّنْ خَلْقٍ جَدِيدٍ",
+            "tafseer": "أفَعَجَزْنا عن ابتداع الخلق الأول الذي خلقناه ولم يكن شيئًا، فنعجز عن إعادتهم خلقًا جديدًا بعد فنائهم؟ لا يعجزنا ذلك، بل نحن عليه قادرون، ولكنهم في حَيْرة وشك من أمر البعث والنشور.",
+            "EN_text": "Did We fail in the first creation? But they are in confusion over a new creation.",
+            "tajweed": [{
+            "from": 15,
+            "to": 16,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 25,
+            "to": 26,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 52,
+            "to": 54,
+            "rule": "qalqalah"
+          },{
+            "from": 55,
+            "to": 60,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 68,
+            "to": 72,
+            "rule": "ikhfa"
+          },{
+            "from": 74,
+            "to": 75,
+            "rule": "madd_246"
+          },{
+            "from": 75,
+            "to": 76,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ",
+            "tafseer": "ولقد خلقنا الإنسان، ونعلم ما تُحَدِّث به نفسه، ونحن أقرب إليه من حبل الوريد (وهو عِرْق في العنق متصل بالقلب).",
+            "EN_text": "And We have already created man and know what his soul whispers to him, and We are closer to him than [his] jugular vein",
+            "tajweed": [{
+            "from": 6,
+            "to": 8,
+            "rule": "qalqalah"
+          },{
+            "from": 13,
+            "to": 15,
+            "rule": "qalqalah"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 24,
+            "to": 27,
+            "rule": "ikhfa"
+          },{
+            "from": 27,
+            "to": 28,
+            "rule": "madd_2"
+          },{
+            "from": 61,
+            "to": 62,
+            "rule": "madd_2"
+          },{
+            "from": 71,
+            "to": 72,
+            "rule": "madd_2"
+          },{
+            "from": 84,
+            "to": 86,
+            "rule": "qalqalah"
+          },{
+            "from": 107,
+            "to": 109,
+            "rule": "qalqalah"
+          },{
+            "from": 112,
+            "to": 113,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 119,
+            "to": 120,
+            "rule": "madd_246"
+          },{
+            "from": 120,
+            "to": 121,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "إِذْ يَتَلَقَّى ٱلْمُتَلَقِّيَانِ عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٌ",
+            "tafseer": "حين يكتب المَلَكان المترصدان عن يمينه وعن شماله أعماله. فالذي عن اليمين يكتب الحسنات، والذي عن الشمال يكتب السيئات.",
+            "EN_text": "When the two receivers receive, seated on the right and on the left.",
+            "tajweed": [{
+            "from": 16,
+            "to": 17,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 39,
+            "to": 40,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 57,
+            "to": 58,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 58,
+            "to": 59,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 72,
+            "to": 73,
+            "rule": "madd_246"
+          },{
+            "from": 73,
+            "to": 74,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "مَّا يَلْفِظُ مِن قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ",
+            "tafseer": "ما يلفظ من قول فيتكلم به إلا لديه مَلَك يرقب قوله، ويكتبه، وهو مَلَك حاضر مُعَدٌّ لذلك.",
+            "EN_text": "Man does not utter any word except that with him is an observer prepared [to record].",
+            "tajweed": [{
+            "from": 16,
+            "to": 20,
+            "rule": "ikhfa"
+          },{
+            "from": 53,
+            "to": 54,
+            "rule": "madd_246"
+          },{
+            "from": 54,
+            "to": 55,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَجَآءَتْ سَكْرَةُ ٱلْمَوْتِ بِٱلْحَقِّ ذَٰلِكَ مَا كُنتَ مِنْهُ تَحِيدُ",
+            "tafseer": "وجاءت شدة الموت وغَمْرته بالحق الذي لا مردَّ له ولا مناص، ذلك ما كنت منه - أيها الإنسان - تهرب وتروغ.",
+            "EN_text": "And the intoxication of death will bring the truth; that is what you were trying to avoid.",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "madd_muttasil"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 32,
+            "to": 33,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "madd_2"
+          },{
+            "from": 55,
+            "to": 58,
+            "rule": "ikhfa"
+          },{
+            "from": 70,
+            "to": 71,
+            "rule": "madd_246"
+          },{
+            "from": 71,
+            "to": 72,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَنُفِخَ فِى ٱلصُّورِ ذَٰلِكَ يَوْمُ ٱلْوَعِيدِ",
+            "tafseer": "ونُفخ في 'القرن' نفخة البعث الثانية، ذلك النفخ في يوم وقوع الوعيد الذي توعَّد الله به الكفار.",
+            "EN_text": "And the Horn will be blown. That is the Day of [carrying out] the threat.",
+            "tajweed": [{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 24,
+            "to": 25,
+            "rule": "madd_2"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 44,
+            "to": 45,
+            "rule": "madd_246"
+          },{
+            "from": 45,
+            "to": 46,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَجَآءَتْ كُلُّ نَفْسٍ مَّعَهَا سَآئِقٌ وَشَهِيدٌ",
+            "tafseer": "وجاءت كل نفس معها مَلَكان، أحدهما يسوقها إلى المحشر، والآخر يشهد عليها بما عملت في الدنيا من خير وشر.",
+            "EN_text": "And every soul will come, with it a driver and a witness.",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "madd_muttasil"
+          },{
+            "from": 22,
+            "to": 27,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 35,
+            "to": 37,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 44,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 48,
+            "to": 49,
+            "rule": "madd_246"
+          },{
+            "from": 49,
+            "to": 50,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "لَّقَدْ كُنتَ فِى غَفْلَةٍ مِّنْ هَٰذَا فَكَشَفْنَا عَنكَ غِطَآءَكَ فَبَصَرُكَ ٱلْيَوْمَ حَدِيدٌ",
+            "tafseer": "لقد كنت في غفلة من هذا الذي عاينت اليوم أيها الإنسان، فكشفنا عنك غطاءك الذي غطَّى قلبك، فزالت الغفلة عنك، فبصرك اليوم فيما تشهد قوي شديد.",
+            "EN_text": "[It will be said], 'You were certainly in unmindfulness of this, and We have removed from you your cover, so your sight, this Day, is sharp.'",
+            "tajweed": [{
+            "from": 5,
+            "to": 7,
+            "rule": "qalqalah"
+          },{
+            "from": 10,
+            "to": 13,
+            "rule": "ikhfa"
+          },{
+            "from": 25,
+            "to": 30,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "madd_2"
+          },{
+            "from": 54,
+            "to": 57,
+            "rule": "ikhfa"
+          },{
+            "from": 62,
+            "to": 64,
+            "rule": "madd_muttasil"
+          },{
+            "from": 80,
+            "to": 81,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 94,
+            "to": 95,
+            "rule": "madd_246"
+          },{
+            "from": 95,
+            "to": 96,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَىَّ عَتِيدٌ",
+            "tafseer": "وقال المَلَك الكاتب الشهيد عليه: هذا ما عندي من ديوان عمله، وهو لديَّ مُعَدٌّ محفوظ حاضر.",
+            "EN_text": "And his companion, [the angel], will say, 'This [record] is what is with me, prepared.'",
+            "tajweed": [{
+            "from": 17,
+            "to": 18,
+            "rule": "madd_2"
+          },{
+            "from": 21,
+            "to": 22,
+            "rule": "madd_2"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "madd_246"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ",
+            "tafseer": "يقول الله للمَلَكين السائق والشهيد بعد أن يفصل بين الخلائق: ألقيا في جهنم كل جاحد أن الله هو الإلهُ الحقُّ، كثيرِ الكفر والتكذيب معاند للحق، منَّاع لأداء ما عليه من الحقوق في ماله، مُعْتدٍ على عباد الله وعلى حدوده، شاكٍّ في وعده ووعيده، الذي أشرك بالله، فعبد معه معبودًا آخر مِن خلقه، فألقياه في عذاب جهنم الشديد.",
+            "EN_text": "[Allah will say], 'Throw into Hell every obstinate disbeliever,",
+            "tajweed": [{
+            "from": 18,
+            "to": 21,
+            "rule": "ghunnah"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "madd_246"
+          },{
+            "from": 44,
+            "to": 45,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ",
+            "tafseer": "يقول الله للمَلَكين السائق والشهيد بعد أن يفصل بين الخلائق: ألقيا في جهنم كل جاحد أن الله هو الإلهُ الحقُّ، كثيرِ الكفر والتكذيب معاند للحق، منَّاع لأداء ما عليه من الحقوق في ماله، مُعْتدٍ على عباد الله وعلى حدوده، شاكٍّ في وعده ووعيده، الذي أشرك بالله، فعبد معه معبودًا آخر مِن خلقه، فألقياه في عذاب جهنم الشديد.",
+            "EN_text": "Preventer of good, aggressor, and doubter,",
+            "tajweed": [{
+            "from": 3,
+            "to": 6,
+            "rule": "ghunnah"
+          },{
+            "from": 8,
+            "to": 13,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 29,
+            "to": 34,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "madd_246"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "ٱلَّذِى جَعَلَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَأَلْقِيَاهُ فِى ٱلْعَذَابِ ٱلشَّدِيدِ",
+            "tafseer": "يقول الله للمَلَكين السائق والشهيد بعد أن يفصل بين الخلائق: ألقيا في جهنم كل جاحد أن الله هو الإلهُ الحقُّ، كثيرِ الكفر والتكذيب معاند للحق، منَّاع لأداء ما عليه من الحقوق في ماله، مُعْتدٍ على عباد الله وعلى حدوده، شاكٍّ في وعده ووعيده، الذي أشرك بالله، فعبد معه معبودًا آخر مِن خلقه، فألقياه في عذاب جهنم الشديد.",
+            "EN_text": "Who made [as equal] with Allah another deity; then throw him into the severe punishment.'",
+            "tajweed": [{
+            "from": 20,
+            "to": 21,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 32,
+            "to": 33,
+            "rule": "madd_2"
+          },{
+            "from": 63,
+            "to": 64,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 74,
+            "to": 75,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 75,
+            "to": 76,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 81,
+            "to": 82,
+            "rule": "madd_246"
+          },{
+            "from": 82,
+            "to": 83,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطْغَيْتُهُۥ وَلَٰكِن كَانَ فِى ضَلَٰلٍۭ بَعِيدٍ",
+            "tafseer": "قال شيطانه الذي كان معه في الدنيا: ربنا ما أضللته، ولكن كان في طريق بعيد عن سبيل الهدى.",
+            "EN_text": "His [devil] companion will say, 'Our Lord, I did not make him transgress, but he [himself] was in extreme error.'",
+            "tajweed": [{
+            "from": 15,
+            "to": 16,
+            "rule": "madd_2"
+          },{
+            "from": 28,
+            "to": 30,
+            "rule": "madd_munfasil"
+          },{
+            "from": 33,
+            "to": 35,
+            "rule": "qalqalah"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "madd_2"
+          },{
+            "from": 49,
+            "to": 50,
+            "rule": "madd_2"
+          },{
+            "from": 52,
+            "to": 56,
+            "rule": "ikhfa"
+          },{
+            "from": 68,
+            "to": 69,
+            "rule": "madd_2"
+          },{
+            "from": 70,
+            "to": 74,
+            "rule": "iqlab"
+          },{
+            "from": 77,
+            "to": 78,
+            "rule": "madd_246"
+          },{
+            "from": 78,
+            "to": 79,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "قَالَ لَا تَخْتَصِمُوا۟ لَدَىَّ وَقَدْ قَدَّمْتُ إِلَيْكُم بِٱلْوَعِيدِ",
+            "tafseer": "قال الله تعالى: لا تختصموا لديَّ اليوم في موقف الجزاء والحساب؛ إذ لا فائدة من ذلك، وقد قَدَّمْتُ إليكم في الدنيا بالوعيد لمن كفر بي وعصاني.",
+            "EN_text": "[Allah] will say, 'Do not dispute before Me, while I had already presented to you the warning.",
+            "tajweed": [{
+            "from": 21,
+            "to": 23,
+            "rule": "silent"
+          },{
+            "from": 36,
+            "to": 38,
+            "rule": "qalqalah"
+          },{
+            "from": 57,
+            "to": 61,
+            "rule": "ikhfa_shafawi"
+          },{
+            "from": 61,
+            "to": 62,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 68,
+            "to": 69,
+            "rule": "madd_246"
+          },{
+            "from": 69,
+            "to": 70,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "مَا يُبَدَّلُ ٱلْقَوْلُ لَدَىَّ وَمَآ أَنَا۠ بِظَلَّٰمٍ لِّلْعَبِيدِ",
+            "tafseer": "ما يُغيَّر القول لديَّ، ولست أعذِّب أحدًا بذنب أحد، فلا أعذِّب أحدًا إلا بذنبه بعد قيام الحجة عليه.",
+            "EN_text": "The word will not be changed with Me, and never will I be unjust to the servants.'",
+            "tajweed": [{
+            "from": 14,
+            "to": 15,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 36,
+            "to": 38,
+            "rule": "madd_munfasil"
+          },{
+            "from": 53,
+            "to": 54,
+            "rule": "madd_2"
+          },{
+            "from": 55,
+            "to": 60,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 66,
+            "to": 67,
+            "rule": "madd_246"
+          },{
+            "from": 67,
+            "to": 68,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمْتَلَأْتِ وَتَقُولُ هَلْ مِن مَّزِيدٍ",
+            "tafseer": "اذكر -أيها الرسول- لقومك يوم نقول لجهنم يوم القيامة: هل امتلأت؟ وتقول جهنم: هل من زيادة من الجن والإنس؟ فيضع الرب -جل جلاله- قدمه فيها، فينزوي بعضها على بعض، وتقول: قط، قط.",
+            "EN_text": "On the Day We will say to Hell, 'Have you been filled?' and it will say, 'Are there some more,'",
+            "tajweed": [{
+            "from": 21,
+            "to": 24,
+            "rule": "ghunnah"
+          },{
+            "from": 32,
+            "to": 33,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 61,
+            "to": 66,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 68,
+            "to": 69,
+            "rule": "madd_246"
+          },{
+            "from": 69,
+            "to": 70,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَأُزْلِفَتِ ٱلْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ",
+            "tafseer": "وقُرِّبت الجنة للمتقين مكانًا غير بعيد منهم، فهم يشاهدونها زيادة في المسرَّة لهم.",
+            "EN_text": "And Paradise will be brought near to the righteous, not far,",
+            "tajweed": [{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 18,
+            "to": 21,
+            "rule": "ghunnah"
+          },{
+            "from": 50,
+            "to": 51,
+            "rule": "madd_246"
+          },{
+            "from": 51,
+            "to": 52,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ",
+            "tafseer": "يقال لهم: هذا الذي كنتم توعدون به - أيها المتقون - لكل تائب مِن ذنوبه، حافظ لكل ما قَرَّبه إلى ربه، من الفرائض والطاعات، مَن خاف الله في الدنيا ولقيه يوم القيامة بقلب تائب من ذنوبه.",
+            "EN_text": "[It will be said], 'This is what you were promised - for every returner [to Allah] and keeper [of His covenant]",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "madd_2"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "مَّنْ خَشِىَ ٱلرَّحْمَٰنَ بِٱلْغَيْبِ وَجَآءَ بِقَلْبٍ مُّنِيبٍ",
+            "tafseer": "يقال لهم: هذا الذي كنتم توعدون به - أيها المتقون - لكل تائب مِن ذنوبه، حافظ لكل ما قَرَّبه إلى ربه، من الفرائض والطاعات، مَن خاف الله في الدنيا ولقيه يوم القيامة بقلب تائب من ذنوبه.",
+            "EN_text": "Who feared the Most Merciful unseen and came with a heart returning [in repentance].",
+            "tajweed": [{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 22,
+            "to": 23,
+            "rule": "madd_2"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 42,
+            "to": 44,
+            "rule": "madd_muttasil"
+          },{
+            "from": 54,
+            "to": 59,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 61,
+            "to": 62,
+            "rule": "madd_246"
+          },{
+            "from": 62,
+            "to": 63,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "ٱدْخُلُوهَا بِسَلَٰمٍ ذَٰلِكَ يَوْمُ ٱلْخُلُودِ",
+            "tafseer": "ويقال لهؤلاء المؤمنين: ادخلوا الجنة دخولا مقرونًا بالسلامة من الآفات والشرور، مأمونًا فيه جميع المكاره، ذلك هو يوم الخلود بلا انقطاع.",
+            "EN_text": "Enter it in peace. This is the Day of Eternity.'",
+            "tajweed": [{
+            "from": 1,
+            "to": 3,
+            "rule": "qalqalah"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "madd_2"
+          },{
+            "from": 20,
+            "to": 24,
+            "rule": "ikhfa"
+          },{
+            "from": 24,
+            "to": 25,
+            "rule": "madd_2"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 44,
+            "to": 45,
+            "rule": "madd_246"
+          },{
+            "from": 45,
+            "to": 46,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ",
+            "tafseer": "لهؤلاء المؤمنين في الجنة ما يريدون، ولدينا على ما أعطيناهم زيادة نعيم، أعظَمُه النظر إلى وجه الله الكريم.",
+            "EN_text": "They will have whatever they wish therein, and with Us is more.",
+            "tajweed": [{
+            "from": 4,
+            "to": 9,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 46,
+            "to": 47,
+            "rule": "madd_246"
+          },{
+            "from": 47,
+            "to": 48,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَكَمْ أَهْلَكْنَا قَبْلَهُم مِّن قَرْنٍ هُمْ أَشَدُّ مِنْهُم بَطْشًا فَنَقَّبُوا۟ فِى ٱلْبِلَٰدِ هَلْ مِن مَّحِيصٍ",
+            "tafseer": "وأهلكنا قبل هؤلاء المشركين من قريش أممًا كثيرة، كانوا أشد منهم قوة وسطوة، فطوَّفوا في البلاد وعمَّروا ودمَّروا فيها، هل من مهرب من عذاب الله حين جاءهم؟",
+            "EN_text": "And how many a generation before them did We destroy who were greater than them in [striking] power and had explored throughout the lands. Is there any place of escape?",
+            "tajweed": [{
+            "from": 21,
+            "to": 23,
+            "rule": "qalqalah"
+          },{
+            "from": 27,
+            "to": 32,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 32,
+            "to": 36,
+            "rule": "ikhfa"
+          },{
+            "from": 60,
+            "to": 64,
+            "rule": "ikhfa_shafawi"
+          },{
+            "from": 64,
+            "to": 66,
+            "rule": "qalqalah"
+          },{
+            "from": 67,
+            "to": 72,
+            "rule": "ikhfa"
+          },{
+            "from": 80,
+            "to": 82,
+            "rule": "silent"
+          },{
+            "from": 87,
+            "to": 88,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 94,
+            "to": 95,
+            "rule": "madd_2"
+          },{
+            "from": 105,
+            "to": 110,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 112,
+            "to": 113,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "إِنَّ فِى ذَٰلِكَ لَذِكْرَىٰ لِمَن كَانَ لَهُۥ قَلْبٌ أَوْ أَلْقَى ٱلسَّمْعَ وَهُوَ شَهِيدٌ",
+            "tafseer": "إن في إهلاك القرون الماضية لعبرة لمن كان له قلب يعقل به، أو أصغى السمع، وهو حاضر بقلبه، غير غافل ولا ساهٍ.",
+            "EN_text": "Indeed in that is a reminder for whoever has a heart or who listens while he is present [in mind].",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 12,
+            "to": 13,
+            "rule": "madd_2"
+          },{
+            "from": 33,
+            "to": 37,
+            "rule": "ikhfa"
+          },{
+            "from": 45,
+            "to": 46,
+            "rule": "madd_2"
+          },{
+            "from": 67,
+            "to": 68,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 68,
+            "to": 69,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 88,
+            "to": 89,
+            "rule": "madd_246"
+          },{
+            "from": 89,
+            "to": 90,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَلَقَدْ خَلَقْنَا ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ وَمَا بَيْنَهُمَا فِى سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِن لُّغُوبٍ",
+            "tafseer": "ولقد خلقنا السموات السبع والأرض وما بينهما من أصناف المخلوقات في ستة أيام، وما أصابنا من ذلك الخلق تعب ولا نَصَب. وفي هذه القدرة العظيمة دليل على قدرته -سبحانه - على إحياء الموتى من باب أولى.",
+            "EN_text": "And We did certainly create the heavens and earth and what is between them in six days, and there touched Us no weariness.",
+            "tajweed": [{
+            "from": 6,
+            "to": 8,
+            "rule": "qalqalah"
+          },{
+            "from": 13,
+            "to": 15,
+            "rule": "qalqalah"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 26,
+            "to": 27,
+            "rule": "madd_2"
+          },{
+            "from": 29,
+            "to": 30,
+            "rule": "madd_2"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 82,
+            "to": 86,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 101,
+            "to": 106,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 108,
+            "to": 109,
+            "rule": "madd_246"
+          },{
+            "from": 109,
+            "to": 110,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "فَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ ٱلشَّمْسِ وَقَبْلَ ٱلْغُرُوبِ",
+            "tafseer": "فاصبر -أيها الرسول- على ما يقوله المكذبون، فإن الله لهم بالمرصاد، وصلِّ لربك حامدًا له صلاة الصبح قبل طلوع الشمس وصلاة العصر قبل الغروب، وصلِّ من الليل، وسبِّحْ بحمد ربك عقب الصلوات.",
+            "EN_text": "So be patient, [O Muhammad], over what they say and exalt [Allah] with praise of your Lord before the rising of the sun and before its setting,",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 61,
+            "to": 63,
+            "rule": "qalqalah"
+          },{
+            "from": 74,
+            "to": 75,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 75,
+            "to": 76,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 88,
+            "to": 90,
+            "rule": "qalqalah"
+          },{
+            "from": 93,
+            "to": 94,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 100,
+            "to": 101,
+            "rule": "madd_246"
+          },{
+            "from": 101,
+            "to": 102,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَأَدْبَٰرَ ٱلسُّجُودِ",
+            "tafseer": "فاصبر -أيها الرسول- على ما يقوله المكذبون، فإن الله لهم بالمرصاد، وصلِّ لربك حامدًا له صلاة الصبح قبل طلوع الشمس وصلاة العصر قبل الغروب، وصلِّ من الليل، وسبِّحْ بحمد ربك عقب الصلوات.",
+            "EN_text": "And [in part] of the night exalt Him and after prostration.",
+            "tajweed": [{
+            "from": 7,
+            "to": 8,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 32,
+            "to": 34,
+            "rule": "qalqalah"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "madd_2"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 41,
+            "to": 42,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 47,
+            "to": 48,
+            "rule": "madd_246"
+          },{
+            "from": 48,
+            "to": 49,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَٱسْتَمِعْ يَوْمَ يُنَادِ ٱلْمُنَادِ مِن مَّكَانٍ قَرِيبٍ",
+            "tafseer": "واستمع -أيها الرسول- يوم ينادي المَلَك بنفخه في 'القرن' من مكان قريب، يوم يسمعون صيحة البعث بالحق الذي لا شك فيه ولا امتراء، ذلك يوم خروج أهل القبور من قبورهم.",
+            "EN_text": "And listen on the Day when the Caller will call out from a place that is near -",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 27,
+            "to": 28,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 40,
+            "to": 45,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 49,
+            "to": 53,
+            "rule": "ikhfa"
+          },{
+            "from": 55,
+            "to": 56,
+            "rule": "madd_246"
+          },{
+            "from": 56,
+            "to": 57,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "يَوْمَ يَسْمَعُونَ ٱلصَّيْحَةَ بِٱلْحَقِّ ذَٰلِكَ يَوْمُ ٱلْخُرُوجِ",
+            "tafseer": "واستمع -أيها الرسول- يوم ينادي المَلَك بنفخه في 'القرن' من مكان قريب، يوم يسمعون صيحة البعث بالحق الذي لا شك فيه ولا امتراء، ذلك يوم خروج أهل القبور من قبورهم.",
+            "EN_text": "The Day they will hear the blast [of the Horn] in truth. That is the Day of Emergence [from the graves].",
+            "tajweed": [{
+            "from": 19,
+            "to": 20,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 33,
+            "to": 34,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 44,
+            "to": 45,
+            "rule": "madd_2"
+          },{
+            "from": 57,
+            "to": 58,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 64,
+            "to": 65,
+            "rule": "madd_246"
+          },{
+            "from": 65,
+            "to": 66,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "إِنَّا نَحْنُ نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ",
+            "tafseer": "إنَّا نحن نحيي الخلق ونميتهم في الدنيا، وإلينا مصيرهم جميعًا يوم القيامة للحساب والجزاء، يوم تتصدع الأرض عن الموتى المقبورين بها، فيخرجون مسرعين إلى الداعي، ذلك الجمع في موقف الحساب علينا سهل يسير.",
+            "EN_text": "Indeed, it is We who give life and cause death, and to Us is the destination",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "madd_2"
+          },{
+            "from": 44,
+            "to": 45,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 51,
+            "to": 52,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يَوْمَ تَشَقَّقُ ٱلْأَرْضُ عَنْهُمْ سِرَاعًا ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ",
+            "tafseer": "إنَّا نحن نحيي الخلق ونميتهم في الدنيا، وإلينا مصيرهم جميعًا يوم القيامة للحساب والجزاء، يوم تتصدع الأرض عن الموتى المقبورين بها، فيخرجون مسرعين إلى الداعي، ذلك الجمع في موقف الحساب علينا سهل يسير.",
+            "EN_text": "On the Day the earth breaks away from them [and they emerge] rapidly; that is a gathering easy for Us.",
+            "tajweed": [{
+            "from": 17,
+            "to": 18,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 42,
+            "to": 47,
+            "rule": "ikhfa"
+          },{
+            "from": 47,
+            "to": 48,
+            "rule": "madd_2"
+          },{
+            "from": 74,
+            "to": 75,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "نَّحْنُ أَعْلَمُ بِمَا يَقُولُونَ وَمَآ أَنتَ عَلَيْهِم بِجَبَّارٍ فَذَكِّرْ بِٱلْقُرْءَانِ مَن يَخَافُ وَعِيدِ",
+            "tafseer": "نحن أعلم بما يقول هؤلاء المشركون مِن افتراء على الله وتكذيب بآياته، وما أنت -أيها الرسول- عليهم بمسلَّط؛ لتجبرهم على الإسلام، وإنما بُعِثْتَ مبلِّغًا، فذكِّر بالقرآن من يخشى وعيدي؛ لأن مَن لا يخاف الوعيد لا يذَّكر.",
+            "EN_text": "We are most knowing of what they say, and you are not over them a tyrant. But remind by the Qur'an whoever fears My threat.",
+            "tajweed": [{
+            "from": 38,
+            "to": 40,
+            "rule": "madd_munfasil"
+          },{
+            "from": 43,
+            "to": 46,
+            "rule": "ikhfa"
+          },{
+            "from": 55,
+            "to": 59,
+            "rule": "ikhfa_shafawi"
+          },{
+            "from": 66,
+            "to": 70,
+            "rule": "ikhfa"
+          },{
+            "from": 80,
+            "to": 81,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 95,
+            "to": 99,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 109,
+            "to": 110,
+            "rule": "madd_246"
+          },{
+            "from": 110,
+            "to": 111,
+            "rule": "qalqalah"
+          }]
+          }]
+    }

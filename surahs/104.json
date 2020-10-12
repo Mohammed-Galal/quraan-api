@@ -1,0 +1,127 @@
+
+    {
+      "id": 104,
+      "name": {
+        "AR": "الهمزة",
+        "EN": ["Al-Humaza", "The Traducer"]
+      },
+      "versesLength": 9,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+            "tafseer": "شر وهلاك لكل مغتاب للناس، طعان فيهم.",
+            "EN_text": "Woe to every scorner and mocker",
+            "tajweed": [{
+            "from": 44,
+            "to": 49,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 62,
+            "to": 67,
+            "rule": "idghaam_no_ghunnah"
+          }]
+          },{
+            "AR_text": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+            "tafseer": "الذي كان همُّه جمع المال وتعداده.",
+            "EN_text": "Who collects wealth and [continuously] counts it.",
+            "tajweed": [{
+            "from": 19,
+            "to": 24,
+            "rule": "idghaam_ghunnah"
+          }]
+          },{
+            "AR_text": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+            "tafseer": "يظن أنه ضَمِنَ لنفسه بهذا المال الذي جمعه، الخلود في الدنيا والإفلات من الحساب.",
+            "EN_text": "He thinks that his wealth will make him immortal.",
+            "tajweed": [{
+            "from": 11,
+            "to": 14,
+            "rule": "ghunnah"
+          },{
+            "from": 22,
+            "to": 24,
+            "rule": "madd_munfasil"
+          }]
+          },{
+            "AR_text": "كَلَّا لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+            "tafseer": "ليس الأمر كما ظن، ليُطرحنَّ في النار التي تهشم كل ما يُلْقى فيها.",
+            "EN_text": "No! He will surely be thrown into the Crusher.",
+            "tajweed": [{
+            "from": 12,
+            "to": 14,
+            "rule": "iqlab"
+          },{
+            "from": 17,
+            "to": 20,
+            "rule": "ghunnah"
+          },{
+            "from": 25,
+            "to": 26,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+            "tafseer": "وما أدراك -أيها الرسول- ما حقيقة النار؟",
+            "EN_text": "And what can make you know what is the Crusher?",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "madd_munfasil"
+          },{
+            "from": 9,
+            "to": 11,
+            "rule": "qalqalah"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "madd_2"
+          },{
+            "from": 22,
+            "to": 23,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+            "tafseer": "إنها نار الله الموقدة التي من شدتها تنفُذ من الأجسام إلى القلوب.",
+            "EN_text": "It is the fire of Allah, [eternally] fueled,",
+            "tajweed": [{
+            "from": 6,
+            "to": 7,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+            "tafseer": "إنها نار الله الموقدة التي من شدتها تنفُذ من الأجسام إلى القلوب.",
+            "EN_text": "Which mounts directed at the hearts.",
+            "tajweed": [{
+            "from": 24,
+            "to": 25,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+            "tafseer": "إنها عليهم مطبَقة في سلاسل وأغلال مطوَّلة؛ لئلا يخرجوا منها.",
+            "EN_text": "Indeed, Hellfire will be closed down upon them",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 17,
+            "to": 22,
+            "rule": "idghaam_shafawi"
+          }]
+          },{
+            "AR_text": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+            "tafseer": "إنها عليهم مطبَقة في سلاسل وأغلال مطوَّلة؛ لئلا يخرجوا منها.",
+            "EN_text": "In extended columns.",
+            "tajweed": [{
+            "from": 9,
+            "to": 14,
+            "rule": "idghaam_ghunnah"
+          }]
+          }]
+    }

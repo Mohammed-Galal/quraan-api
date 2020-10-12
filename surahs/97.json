@@ -1,0 +1,131 @@
+
+    {
+      "id": 97,
+      "name": {
+        "AR": "القدر",
+        "EN": ["Al-Qadr", "The Power, Fate"]
+      },
+      "versesLength": 5,
+      "verses": [{
+            "AR_text": "بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+            "tafseer": "إنا أنزلنا القرآن في ليلة الشرف والفضل، وهي إحدى ليالي شهر رمضان.",
+            "EN_text": "Indeed, We sent the Qur'an down during the Night of Decree.",
+            "tajweed": [{
+            "from": 42,
+            "to": 45,
+            "rule": "ghunnah"
+          },{
+            "from": 45,
+            "to": 47,
+            "rule": "madd_munfasil"
+          },{
+            "from": 50,
+            "to": 53,
+            "rule": "ikhfa"
+          },{
+            "from": 57,
+            "to": 58,
+            "rule": "madd_2"
+          },{
+            "from": 74,
+            "to": 75,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 79,
+            "to": 81,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+            "tafseer": "وما أدراك -أيها النبي- ما ليلة القدر والشرف؟",
+            "EN_text": "And what can make you know what is the Night of Decree?",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "madd_munfasil"
+          },{
+            "from": 9,
+            "to": 11,
+            "rule": "qalqalah"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "madd_2"
+          },{
+            "from": 31,
+            "to": 32,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 36,
+            "to": 38,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+            "tafseer": "ليلة القدر ليلة مباركة، فَضْلُها خير من فضل ألف شهر ليس فيها ليلة قدر.",
+            "EN_text": "The Night of Decree is better than a thousand months.",
+            "tajweed": [{
+            "from": 9,
+            "to": 10,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 14,
+            "to": 16,
+            "rule": "qalqalah"
+          },{
+            "from": 24,
+            "to": 29,
+            "rule": "idghaam_ghunnah"
+          }]
+          },{
+            "AR_text": "تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+            "tafseer": "يكثر نزول الملائكة وجبريل عليه السلام فيها، بإذن ربهم من كل أمر قضاه في تلك السنة.",
+            "EN_text": "The angels and the Spirit descend therein by permission of their Lord for every matter.",
+            "tajweed": [{
+            "from": 10,
+            "to": 11,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 17,
+            "to": 19,
+            "rule": "madd_muttasil"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 29,
+            "to": 30,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 60,
+            "to": 65,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 65,
+            "to": 69,
+            "rule": "ikhfa"
+          }]
+          },{
+            "AR_text": "سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+            "tafseer": "هي أمن كلها، لا شرَّ فيها إلى مطلع الفجر.",
+            "EN_text": "Peace it is until the emergence of dawn.",
+            "tajweed": [{
+            "from": 4,
+            "to": 5,
+            "rule": "madd_2"
+          },{
+            "from": 23,
+            "to": 25,
+            "rule": "qalqalah"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 35,
+            "to": 37,
+            "rule": "qalqalah"
+          }]
+          }]
+    }

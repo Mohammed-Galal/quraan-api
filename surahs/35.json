@@ -1,0 +1,2707 @@
+
+    {
+      "id": 35,
+      "name": {
+        "AR": "فاطر",
+        "EN": ["Faatir", "The Originator"]
+      },
+      "versesLength": 45,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْحَمْدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ جَاعِلِ ٱلْمَلَٰٓئِكَةِ رُسُلًا أُو۟لِىٓ أَجْنِحَةٍ مَّثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ يَزِيدُ فِى ٱلْخَلْقِ مَا يَشَآءُ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "tafseer": "الثناء على الله بصفاته التي كلُّها أوصاف كمال، وبنعمه الظاهرة والباطنة، الدينية والدنيوية، خالق السماوات والأرض ومبدعهما، جاعل الملائكة رسلا إلى مَن يشاء من عباده، وفيما شاء من أمره ونهيه، ومِن عظيم قدرة الله أن جعل الملائكة أصحاب أجنحة مثنى وثلاث ورباع تطير بها؛ لتبليغ ما أمر الله به، يزيد الله في خلقه ما يشاء. إن الله على كل شيء قدير، لا يستعصي عليه شيء.",
+            "EN_text": "[All] praise is [due] to Allah, Creator of the heavens and the earth, [who] made the angels messengers having wings, two or three or four. He increases in creation what He wills. Indeed, Allah is over all things competent.",
+            "tajweed": [{
+            "from": 65,
+            "to": 66,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 66,
+            "to": 67,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 72,
+            "to": 73,
+            "rule": "madd_2"
+          },{
+            "from": 75,
+            "to": 76,
+            "rule": "madd_2"
+          },{
+            "from": 81,
+            "to": 82,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 99,
+            "to": 100,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 106,
+            "to": 108,
+            "rule": "madd_muttasil"
+          },{
+            "from": 125,
+            "to": 127,
+            "rule": "silent"
+          },{
+            "from": 129,
+            "to": 131,
+            "rule": "madd_munfasil"
+          },{
+            "from": 134,
+            "to": 136,
+            "rule": "qalqalah"
+          },{
+            "from": 141,
+            "to": 146,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 159,
+            "to": 160,
+            "rule": "madd_2"
+          },{
+            "from": 169,
+            "to": 170,
+            "rule": "madd_2"
+          },{
+            "from": 185,
+            "to": 186,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 203,
+            "to": 205,
+            "rule": "madd_muttasil"
+          },{
+            "from": 210,
+            "to": 213,
+            "rule": "ghunnah"
+          },{
+            "from": 214,
+            "to": 215,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 240,
+            "to": 244,
+            "rule": "ikhfa"
+          },{
+            "from": 246,
+            "to": 247,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "مَّا يَفْتَحِ ٱللَّهُ لِلنَّاسِ مِن رَّحْمَةٍ فَلَا مُمْسِكَ لَهَا وَمَا يُمْسِكْ فَلَا مُرْسِلَ لَهُۥ مِنۢ بَعْدِهِۦ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+            "tafseer": "ما يفتح الله للناس من رزق ومطر وصحة وعلم وغير ذلك من النعم، فلا أحد يقدر أن يمسك هذه الرحمة، وما يمسك منها فلا أحد يستطيع أن يرسلها بعده سبحانه وتعالى. وهو العزيز القاهر لكل شيء، الحكيم الذي يرسل الرحمة ويمسكها وَفْق حكمته.",
+            "EN_text": "Whatever Allah grants to people of mercy - none can withhold it; and whatever He withholds - none can release it thereafter. And He is the Exalted in Might, the Wise.",
+            "tajweed": [{
+            "from": 14,
+            "to": 15,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 24,
+            "to": 25,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 25,
+            "to": 28,
+            "rule": "ghunnah"
+          },{
+            "from": 34,
+            "to": 39,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 44,
+            "to": 48,
+            "rule": "ikhfa"
+          },{
+            "from": 101,
+            "to": 102,
+            "rule": "madd_2"
+          },{
+            "from": 106,
+            "to": 109,
+            "rule": "iqlab"
+          },{
+            "from": 116,
+            "to": 117,
+            "rule": "madd_2"
+          },{
+            "from": 125,
+            "to": 126,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 136,
+            "to": 137,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 143,
+            "to": 144,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ هَلْ مِنْ خَٰلِقٍ غَيْرُ ٱللَّهِ يَرْزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلْأَرْضِ لَآ إِلَٰهَ إِلَّا هُوَ فَأَنَّىٰ تُؤْفَكُونَ",
+            "tafseer": "يا أيها الناس اذكروا نعمة الله عليكم بقلوبكم وألسنتكم وجوارحكم، فلا خالق لكم غير الله يرزقكم من السماء بالمطر، ومن الأرض بالماء والمعادن وغير ذلك. لا إله إلا هو وحده لا شريك له، فكيف تُصْرَفون عن توحيده وعبادته؟",
+            "EN_text": "O mankind, remember the favor of Allah upon you. Is there any creator other than Allah who provides for you from the heaven and earth? There is no deity except Him, so how are you deluded?",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "madd_munfasil"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 15,
+            "to": 18,
+            "rule": "ghunnah"
+          },{
+            "from": 22,
+            "to": 23,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 30,
+            "to": 32,
+            "rule": "silent"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 73,
+            "to": 74,
+            "rule": "madd_2"
+          },{
+            "from": 86,
+            "to": 87,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 104,
+            "to": 109,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 112,
+            "to": 113,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 113,
+            "to": 114,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 119,
+            "to": 121,
+            "rule": "madd_muttasil"
+          },{
+            "from": 126,
+            "to": 127,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 138,
+            "to": 140,
+            "rule": "madd_munfasil"
+          },{
+            "from": 145,
+            "to": 146,
+            "rule": "madd_2"
+          },{
+            "from": 165,
+            "to": 168,
+            "rule": "ghunnah"
+          },{
+            "from": 179,
+            "to": 180,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَإِن يُكَذِّبُوكَ فَقَدْ كُذِّبَتْ رُسُلٌ مِّن قَبْلِكَ وَإِلَى ٱللَّهِ تُرْجَعُ ٱلْأُمُورُ",
+            "tafseer": "وإن يكذبك قومك -أيها الرسول- فقد كُذِّب رسل مِن قبلك، وإلى الله تصير الأمور في الآخرة، فيجازي كلا بما يستحق. وفي هذا تسلية للرسول صلى الله عليه وسلم.",
+            "EN_text": "And if they deny you, [O Muhammad] - already were messengers denied before you. And to Allah are returned [all] matters.",
+            "tajweed": [{
+            "from": 4,
+            "to": 8,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 23,
+            "to": 25,
+            "rule": "qalqalah"
+          },{
+            "from": 41,
+            "to": 46,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 46,
+            "to": 50,
+            "rule": "ikhfa"
+          },{
+            "from": 50,
+            "to": 52,
+            "rule": "qalqalah"
+          },{
+            "from": 65,
+            "to": 66,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 82,
+            "to": 83,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 89,
+            "to": 90,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ فَلَا تَغُرَّنَّكُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلْغَرُورُ",
+            "tafseer": "يا أيها الناس إن وعد الله بالبعث والثواب والعقاب حق ثابت، فلا تخدعنَّكم الحياة الدنيا بشهواتها ومطالبها، ولا يخدعنَّكم بالله الشيطان. إن الشيطان لبني آدم عدو، فاتخذوه عدوًّا ولا تطيعوه، إنما يدعو أتباعه إلى الضلال؛ ليكونوا من أصحاب النار الموقدة.",
+            "EN_text": "O mankind, indeed the promise of Allah is truth, so let not the worldly life delude you and be not deceived about Allah by the Deceiver.",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "madd_munfasil"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 15,
+            "to": 18,
+            "rule": "ghunnah"
+          },{
+            "from": 24,
+            "to": 27,
+            "rule": "ghunnah"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 47,
+            "to": 51,
+            "rule": "ikhfa"
+          },{
+            "from": 62,
+            "to": 65,
+            "rule": "ghunnah"
+          },{
+            "from": 70,
+            "to": 71,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 77,
+            "to": 78,
+            "rule": "silent"
+          },{
+            "from": 78,
+            "to": 79,
+            "rule": "madd_2"
+          },{
+            "from": 82,
+            "to": 83,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 83,
+            "to": 84,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 106,
+            "to": 109,
+            "rule": "ghunnah"
+          },{
+            "from": 111,
+            "to": 115,
+            "rule": "ikhfa_shafawi"
+          },{
+            "from": 115,
+            "to": 116,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 123,
+            "to": 124,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 130,
+            "to": 131,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "إِنَّ ٱلشَّيْطَٰنَ لَكُمْ عَدُوٌّ فَٱتَّخِذُوهُ عَدُوًّا إِنَّمَا يَدْعُوا۟ حِزْبَهُۥ لِيَكُونُوا۟ مِنْ أَصْحَٰبِ ٱلسَّعِيرِ",
+            "tafseer": "يا أيها الناس إن وعد الله بالبعث والثواب والعقاب حق ثابت، فلا تخدعنَّكم الحياة الدنيا بشهواتها ومطالبها، ولا يخدعنَّكم بالله الشيطان. إن الشيطان لبني آدم عدو، فاتخذوه عدوًّا ولا تطيعوه، إنما يدعو أتباعه إلى الضلال؛ ليكونوا من أصحاب النار الموقدة.",
+            "EN_text": "Indeed, Satan is an enemy to you; so take him as an enemy. He only invites his party to be among the companions of the Blaze.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 6,
+            "to": 7,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 7,
+            "to": 8,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "madd_2"
+          },{
+            "from": 32,
+            "to": 36,
+            "rule": "ikhfa"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 59,
+            "to": 62,
+            "rule": "ghunnah"
+          },{
+            "from": 68,
+            "to": 70,
+            "rule": "qalqalah"
+          },{
+            "from": 73,
+            "to": 75,
+            "rule": "silent"
+          },{
+            "from": 84,
+            "to": 85,
+            "rule": "madd_2"
+          },{
+            "from": 96,
+            "to": 98,
+            "rule": "silent"
+          },{
+            "from": 110,
+            "to": 111,
+            "rule": "madd_2"
+          },{
+            "from": 114,
+            "to": 115,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 115,
+            "to": 116,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 121,
+            "to": 122,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ٱلَّذِينَ كَفَرُوا۟ لَهُمْ عَذَابٌ شَدِيدٌ وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ لَهُم مَّغْفِرَةٌ وَأَجْرٌ كَبِيرٌ",
+            "tafseer": "الذين جحدوا أن الله هو وحده الإله الحق وجحدوا ما جاءت به رسله لهم عذاب شديد في الآخرة، والذين صدَّقوا الله ورسوله وعملوا الصالحات لهم عفو من ربهم وتجاوز عن ذنوبهم بعد سترها عليهم، ولهم أجر كبير، وهو الجنة.",
+            "EN_text": "Those who disbelieve will have a severe punishment, and those who believe and do righteous deeds will have forgiveness and great reward.",
+            "tajweed": [{
+            "from": 17,
+            "to": 19,
+            "rule": "silent"
+          },{
+            "from": 33,
+            "to": 37,
+            "rule": "ikhfa"
+          },{
+            "from": 41,
+            "to": 45,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 45,
+            "to": 46,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 63,
+            "to": 65,
+            "rule": "silent"
+          },{
+            "from": 75,
+            "to": 77,
+            "rule": "silent"
+          },{
+            "from": 78,
+            "to": 79,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 79,
+            "to": 80,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 83,
+            "to": 84,
+            "rule": "madd_2"
+          },{
+            "from": 88,
+            "to": 89,
+            "rule": "madd_2"
+          },{
+            "from": 96,
+            "to": 101,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 108,
+            "to": 112,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 114,
+            "to": 116,
+            "rule": "qalqalah"
+          },{
+            "from": 117,
+            "to": 121,
+            "rule": "ikhfa"
+          },{
+            "from": 123,
+            "to": 124,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "أَفَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ فَرَءَاهُ حَسَنًا فَإِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَٰتٍ إِنَّ ٱللَّهَ عَلِيمٌۢ بِمَا يَصْنَعُونَ",
+            "tafseer": "أفمن حسَّن له الشيطان أعماله السيئة من معاصي الله والكفر وعبادة ما دونه من الآلهة والأوثان فرآه حسنًا جميلا كمَن هداه الله تعالى، فرأى الحسن حسنًا والسيئ سيئًا؟ فإن الله يضل من يشاء من عباده، ويهدي من يشاء، فلا تُهْلك نفسك حزنًا على كفر هؤلاء الضالين، إن الله عليم بقبائحهم وسيجازيهم عليها أسوأ الجزاء.",
+            "EN_text": "Then is one to whom the evil of his deed has been made attractive so he considers it good [like one rightly guided]? For indeed, Allah sends astray whom He wills and guides whom He wills. So do not let yourself perish over them in regret. Indeed, Allah is Knowing of what they do.",
+            "tajweed": [{
+            "from": 6,
+            "to": 10,
+            "rule": "ikhfa"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "madd_2"
+          },{
+            "from": 24,
+            "to": 26,
+            "rule": "madd_muttasil"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "madd_2"
+          },{
+            "from": 54,
+            "to": 59,
+            "rule": "ikhfa"
+          },{
+            "from": 61,
+            "to": 64,
+            "rule": "ghunnah"
+          },{
+            "from": 65,
+            "to": 66,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 83,
+            "to": 87,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 89,
+            "to": 91,
+            "rule": "madd_muttasil"
+          },{
+            "from": 106,
+            "to": 110,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 112,
+            "to": 114,
+            "rule": "madd_muttasil"
+          },{
+            "from": 129,
+            "to": 131,
+            "rule": "qalqalah"
+          },{
+            "from": 158,
+            "to": 159,
+            "rule": "madd_2"
+          },{
+            "from": 164,
+            "to": 167,
+            "rule": "ghunnah"
+          },{
+            "from": 168,
+            "to": 169,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 182,
+            "to": 186,
+            "rule": "iqlab"
+          },{
+            "from": 199,
+            "to": 200,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَٱللَّهُ ٱلَّذِىٓ أَرْسَلَ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَسُقْنَٰهُ إِلَىٰ بَلَدٍ مَّيِّتٍ فَأَحْيَيْنَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَا كَذَٰلِكَ ٱلنُّشُورُ",
+            "tafseer": "واللهُ هو الذي أرسل الرياح فتحرك سحابًا، فسقناه إلى بلد جدب، فينزل الماء فأحيينا به الأرض بعد يُبْسها فتخضر بالنبات، مثل ذلك الإحياء يحيي الله الموتى يوم القيامة.",
+            "EN_text": "And it is Allah who sends the winds, and they stir the clouds, and We drive them to a dead land and give life thereby to the earth after its lifelessness. Thus is the resurrection.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 10,
+            "to": 11,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 16,
+            "to": 18,
+            "rule": "madd_munfasil"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 29,
+            "to": 30,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "madd_2"
+          },{
+            "from": 55,
+            "to": 60,
+            "rule": "ikhfa"
+          },{
+            "from": 62,
+            "to": 64,
+            "rule": "qalqalah"
+          },{
+            "from": 66,
+            "to": 67,
+            "rule": "madd_2"
+          },{
+            "from": 82,
+            "to": 87,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 91,
+            "to": 95,
+            "rule": "ikhfa"
+          },{
+            "from": 112,
+            "to": 113,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 143,
+            "to": 144,
+            "rule": "madd_2"
+          },{
+            "from": 149,
+            "to": 150,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 150,
+            "to": 151,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 151,
+            "to": 154,
+            "rule": "ghunnah"
+          },{
+            "from": 156,
+            "to": 157,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "مَن كَانَ يُرِيدُ ٱلْعِزَّةَ فَلِلَّهِ ٱلْعِزَّةُ جَمِيعًا إِلَيْهِ يَصْعَدُ ٱلْكَلِمُ ٱلطَّيِّبُ وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ وَٱلَّذِينَ يَمْكُرُونَ ٱلسَّيِّـَٔاتِ لَهُمْ عَذَابٌ شَدِيدٌ وَمَكْرُ أُو۟لَٰٓئِكَ هُوَ يَبُورُ",
+            "tafseer": "من كان يطلب عزة في الدنيا أو الآخرة فليطلبها من الله، ولا تُنال إلا بطاعته، فلله العزة جميعًا، فمن اعتز بالمخلوق أذلَّه الله، ومن اعتز بالخالق أعزه الله، إليه سبحانه يصعد ذكره والعمل الصالح يرفعه. والذين يكتسبون السيئات لهم عذاب شديد، ومكر أولئك يَهْلك ويَفْسُد، ولا يفيدهم شيئًا.",
+            "EN_text": "Whoever desires honor [through power] - then to Allah belongs all honor. To Him ascends good speech, and righteous work raises it. But they who plot evil deeds will have a severe punishment, and the plotting of those - it will perish.",
+            "tajweed": [{
+            "from": 2,
+            "to": 6,
+            "rule": "ikhfa"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 39,
+            "to": 40,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 77,
+            "to": 78,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 87,
+            "to": 88,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 88,
+            "to": 89,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 100,
+            "to": 101,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 110,
+            "to": 111,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 111,
+            "to": 112,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 115,
+            "to": 116,
+            "rule": "madd_2"
+          },{
+            "from": 131,
+            "to": 132,
+            "rule": "madd_2"
+          },{
+            "from": 135,
+            "to": 136,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 157,
+            "to": 158,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 158,
+            "to": 159,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 185,
+            "to": 189,
+            "rule": "ikhfa"
+          },{
+            "from": 193,
+            "to": 197,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 206,
+            "to": 208,
+            "rule": "silent"
+          },{
+            "from": 210,
+            "to": 212,
+            "rule": "madd_muttasil"
+          },{
+            "from": 226,
+            "to": 227,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَٱللَّهُ خَلَقَكُم مِّن تُرَابٍ ثُمَّ مِن نُّطْفَةٍ ثُمَّ جَعَلَكُمْ أَزْوَٰجًا وَمَا تَحْمِلُ مِنْ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِۦ وَمَا يُعَمَّرُ مِن مُّعَمَّرٍ وَلَا يُنقَصُ مِنْ عُمُرِهِۦٓ إِلَّا فِى كِتَٰبٍ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٌ",
+            "tafseer": "واللهُ خلق أباكم آدم من تراب، ثم جعل نسله من سلالة من ماء مهين، ثم جعلكم رجالا ونساءً. وما تحمل من أنثى ولا تضع إلا بعلمه، وما يعمَّر من مُعَمَّر، فيطول عمره، ولا يُنْقَص من عمره إلا في كتاب عنده، وهو اللوح المحفوظ، قبل أن تحمل به أمُّه وقبل أن تضعه. قد أحصى الله ذلك كله، وعلمه قبل أن يخلقه، لا يُزاد فيما كتب له ولا يُنْقَص. إن خَلْقكم وعِلْم أحوالكم وكتابتها في اللوح المحفوظ سهل يسير على الله.",
+            "EN_text": "And Allah created you from dust, then from a sperm-drop; then He made you mates. And no female conceives nor does she give birth except with His knowledge. And no aged person is granted [additional] life nor is his lifespan lessened but that it is in a register. Indeed, that for Allah is easy.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 18,
+            "to": 23,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 23,
+            "to": 27,
+            "rule": "ikhfa"
+          },{
+            "from": 31,
+            "to": 35,
+            "rule": "ikhfa"
+          },{
+            "from": 35,
+            "to": 38,
+            "rule": "ghunnah"
+          },{
+            "from": 41,
+            "to": 46,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 46,
+            "to": 48,
+            "rule": "qalqalah"
+          },{
+            "from": 51,
+            "to": 55,
+            "rule": "ikhfa"
+          },{
+            "from": 55,
+            "to": 58,
+            "rule": "ghunnah"
+          },{
+            "from": 76,
+            "to": 77,
+            "rule": "madd_2"
+          },{
+            "from": 78,
+            "to": 83,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 103,
+            "to": 106,
+            "rule": "ikhfa"
+          },{
+            "from": 139,
+            "to": 140,
+            "rule": "madd_2"
+          },{
+            "from": 151,
+            "to": 154,
+            "rule": "ghunnah"
+          },{
+            "from": 159,
+            "to": 164,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 166,
+            "to": 169,
+            "rule": "ghunnah"
+          },{
+            "from": 170,
+            "to": 174,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 180,
+            "to": 183,
+            "rule": "ikhfa"
+          },{
+            "from": 199,
+            "to": 201,
+            "rule": "madd_munfasil"
+          },{
+            "from": 217,
+            "to": 218,
+            "rule": "madd_2"
+          },{
+            "from": 223,
+            "to": 226,
+            "rule": "ghunnah"
+          },{
+            "from": 229,
+            "to": 230,
+            "rule": "madd_2"
+          },{
+            "from": 241,
+            "to": 242,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 253,
+            "to": 254,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَمَا يَسْتَوِى ٱلْبَحْرَانِ هَٰذَا عَذْبٌ فُرَاتٌ سَآئِغٌ شَرَابُهُۥ وَهَٰذَا مِلْحٌ أُجَاجٌ وَمِن كُلٍّ تَأْكُلُونَ لَحْمًا طَرِيًّا وَتَسْتَخْرِجُونَ حِلْيَةً تَلْبَسُونَهَا وَتَرَى ٱلْفُلْكَ فِيهِ مَوَاخِرَ لِتَبْتَغُوا۟ مِن فَضْلِهِۦ وَلَعَلَّكُمْ تَشْكُرُونَ",
+            "tafseer": "وما يستوي البحران: هذا عذب شديد العذوبة، سَهْلٌ مروره في الحلق يزيل العطش، وهذا ملح شديد الملوحة، ومن كل من البحرين تأكلون سمكًا طريًّا شهيَّ الطَّعم، وتستخرجون زينة هي اللؤلؤ والمَرْجان تَلْبَسونها، وترى السفن فيه شاقات المياه؛ لتبتغوا من فضله من التجارة وغيرها. وفي هذا دلالة على قدرة الله ووحدانيته؛ ولعلكم تشكرون لله على هذه النعم التي أنعم بها عليكم.",
+            "EN_text": "And not alike are the two bodies of water. One is fresh and sweet, palatable for drinking, and one is salty and bitter. And from each you eat tender meat and extract ornaments which you wear, and you see the ships plowing through [them] that you might seek of His bounty; and perhaps you will be grateful.",
+            "tajweed": [{
+            "from": 16,
+            "to": 17,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 31,
+            "to": 32,
+            "rule": "madd_2"
+          },{
+            "from": 41,
+            "to": 45,
+            "rule": "ikhfa"
+          },{
+            "from": 49,
+            "to": 53,
+            "rule": "ikhfa"
+          },{
+            "from": 53,
+            "to": 55,
+            "rule": "madd_muttasil"
+          },{
+            "from": 58,
+            "to": 62,
+            "rule": "ikhfa"
+          },{
+            "from": 69,
+            "to": 70,
+            "rule": "madd_2"
+          },{
+            "from": 75,
+            "to": 76,
+            "rule": "madd_2"
+          },{
+            "from": 93,
+            "to": 97,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 99,
+            "to": 103,
+            "rule": "ikhfa"
+          },{
+            "from": 105,
+            "to": 109,
+            "rule": "ikhfa"
+          },{
+            "from": 124,
+            "to": 129,
+            "rule": "ikhfa"
+          },{
+            "from": 133,
+            "to": 138,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 161,
+            "to": 165,
+            "rule": "ikhfa"
+          },{
+            "from": 186,
+            "to": 187,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 216,
+            "to": 218,
+            "rule": "qalqalah"
+          },{
+            "from": 223,
+            "to": 225,
+            "rule": "silent"
+          },{
+            "from": 228,
+            "to": 232,
+            "rule": "ikhfa"
+          },{
+            "from": 238,
+            "to": 239,
+            "rule": "madd_2"
+          },{
+            "from": 262,
+            "to": 263,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَسَخَّرَ ٱلشَّمْسَ وَٱلْقَمَرَ كُلٌّ يَجْرِى لِأَجَلٍ مُّسَمًّى ذَٰلِكُمُ ٱللَّهُ رَبُّكُمْ لَهُ ٱلْمُلْكُ وَٱلَّذِينَ تَدْعُونَ مِن دُونِهِۦ مَا يَمْلِكُونَ مِن قِطْمِيرٍ",
+            "tafseer": "واللهُ يدخل من ساعات الليل في النهار، فيزيد النهار بقَدْر ما نقص من الليل، ويُدخل من ساعات النهار في الليل، فيزيد الليل بقَدْر ما نقص من النهار، وذلل الشمس والقمر، يجريان لوقت معلوم، ذلكم الذي فعل هذا هو الله ربكم له الملك كله، والذين تعبدون من دون الله ما يملكون مِن قطمير، وهي القشرة الرقيقة البيضاء تكون على النَّواة.",
+            "EN_text": "He causes the night to enter the day, and He causes the day to enter the night and has subjected the sun and the moon - each running [its course] for a specified term. That is Allah, your Lord; to Him belongs sovereignty. And those whom you invoke other than Him do not possess [as much as] the membrane of a date seed.",
+            "tajweed": [{
+            "from": 8,
+            "to": 9,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 21,
+            "to": 22,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 22,
+            "to": 23,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 23,
+            "to": 26,
+            "rule": "ghunnah"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 44,
+            "to": 47,
+            "rule": "ghunnah"
+          },{
+            "from": 57,
+            "to": 58,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 76,
+            "to": 77,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 77,
+            "to": 78,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 88,
+            "to": 89,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 102,
+            "to": 106,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 106,
+            "to": 108,
+            "rule": "qalqalah"
+          },{
+            "from": 119,
+            "to": 124,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 126,
+            "to": 129,
+            "rule": "ghunnah"
+          },{
+            "from": 128,
+            "to": 133,
+            "rule": "ikhfa"
+          },{
+            "from": 133,
+            "to": 134,
+            "rule": "madd_2"
+          },{
+            "from": 141,
+            "to": 142,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 164,
+            "to": 165,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 176,
+            "to": 177,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 188,
+            "to": 190,
+            "rule": "qalqalah"
+          },{
+            "from": 198,
+            "to": 202,
+            "rule": "ikhfa"
+          },{
+            "from": 207,
+            "to": 208,
+            "rule": "madd_2"
+          },{
+            "from": 227,
+            "to": 231,
+            "rule": "ikhfa"
+          },{
+            "from": 231,
+            "to": 233,
+            "rule": "qalqalah"
+          },{
+            "from": 235,
+            "to": 236,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "إِن تَدْعُوهُمْ لَا يَسْمَعُوا۟ دُعَآءَكُمْ وَلَوْ سَمِعُوا۟ مَا ٱسْتَجَابُوا۟ لَكُمْ وَيَوْمَ ٱلْقِيَٰمَةِ يَكْفُرُونَ بِشِرْكِكُمْ وَلَا يُنَبِّئُكَ مِثْلُ خَبِيرٍ",
+            "tafseer": "إن تدعوا -أيها الناس- هذه المعبودات من دون الله لا يسمعوا دعاءكم، ولو سمعوا على سبيل الفرض ما أجابوكم، ويوم القيامة يتبرؤون منكم، ولا أحد يخبرك -أيها الرسول- أصدق من الله العليم الخبير.",
+            "EN_text": "If you invoke them, they do not hear your supplication; and if they heard, they would not respond to you. And on the Day of Resurrection they will deny your association. And none can inform you like [one] Acquainted [with all matters].",
+            "tajweed": [{
+            "from": 2,
+            "to": 6,
+            "rule": "ikhfa"
+          },{
+            "from": 6,
+            "to": 8,
+            "rule": "qalqalah"
+          },{
+            "from": 29,
+            "to": 31,
+            "rule": "silent"
+          },{
+            "from": 36,
+            "to": 38,
+            "rule": "madd_muttasil"
+          },{
+            "from": 59,
+            "to": 61,
+            "rule": "silent"
+          },{
+            "from": 66,
+            "to": 67,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 77,
+            "to": 79,
+            "rule": "silent"
+          },{
+            "from": 96,
+            "to": 97,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 103,
+            "to": 104,
+            "rule": "madd_2"
+          },{
+            "from": 163,
+            "to": 164,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يَٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ ٱلْفُقَرَآءُ إِلَى ٱللَّهِ وَٱللَّهُ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ",
+            "tafseer": "يا أيها الناس أنتم المحتاجون إلى الله في كل شيء، لا تستغنون عنه طرفة عين، وهو سبحانه الغنيُّ عن الناس وعن كل شيء من مخلوقاته، الحميد في ذاته وأسمائه وصفاته، المحمود على نعمه؛ فإن كل نعمة بالناس فمنه، فله الحمد والشكر على كلِّ حال.",
+            "EN_text": "O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy.",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "madd_munfasil"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 15,
+            "to": 18,
+            "rule": "ghunnah"
+          },{
+            "from": 24,
+            "to": 27,
+            "rule": "ikhfa"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 39,
+            "to": 41,
+            "rule": "madd_muttasil"
+          },{
+            "from": 50,
+            "to": 51,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 60,
+            "to": 61,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 73,
+            "to": 74,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 84,
+            "to": 85,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 91,
+            "to": 92,
+            "rule": "madd_246"
+          },{
+            "from": 92,
+            "to": 93,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ",
+            "tafseer": "إن يشأ الله يهلكُّم أيها الناس، ويأت بقوم آخرين يطيعونه ويعبدونه وحده.",
+            "EN_text": "If He wills, He can do away with you and bring forth a new creation.",
+            "tajweed": [{
+            "from": 2,
+            "to": 6,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 17,
+            "to": 19,
+            "rule": "qalqalah"
+          },{
+            "from": 40,
+            "to": 44,
+            "rule": "ikhfa"
+          },{
+            "from": 46,
+            "to": 47,
+            "rule": "madd_246"
+          },{
+            "from": 47,
+            "to": 48,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍ",
+            "tafseer": "وما إهلاككم والإتيان بخلق سواكم على الله بممتنع، بل ذلك على الله سهل يسير.",
+            "EN_text": "And that is for Allah not difficult.",
+            "tajweed": [{
+            "from": 8,
+            "to": 9,
+            "rule": "madd_2"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 34,
+            "to": 35,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ وَإِن تَدْعُ مُثْقَلَةٌ إِلَىٰ حِمْلِهَا لَا يُحْمَلْ مِنْهُ شَىْءٌ وَلَوْ كَانَ ذَا قُرْبَىٰٓ إِنَّمَا تُنذِرُ ٱلَّذِينَ يَخْشَوْنَ رَبَّهُم بِٱلْغَيْبِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَمَن تَزَكَّىٰ فَإِنَّمَا يَتَزَكَّىٰ لِنَفْسِهِۦ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+            "tafseer": "ولا تحمل نفس مذنبة ذنب نفس أخرى، وإن تَسْأل نفسٌ مثقَلَة بالخطايا مَن يحمل عنها من ذنوبها لم تجد من يَحمل عنها شيئًا، ولو كان الذي سألتْه ذا قرابة منها من أب أو أخ ونحوهما. إنما تحذِّر -أيها الرسول- الذين يخافون عذاب ربهم بالغيب، وأدَّوا الصلاة حق أدائها. ومن تطهر من الشرك وغيره من المعاصي فإنما يتطهر لنفسه. وإلى الله سبحانه مآل الخلائق ومصيرهم، فيجازي كلا بما يستحق.",
+            "EN_text": "And no bearer of burdens will bear the burden of another. And if a heavily laden soul calls [another] to [carry some of] its load, nothing of it will be carried, even if he should be a close relative. You can only warn those who fear their Lord unseen and have established prayer. And whoever purifies himself only purifies himself for [the benefit of] his soul. And to Allah is the [final] destination.",
+            "tajweed": [{
+            "from": 21,
+            "to": 25,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 43,
+            "to": 47,
+            "rule": "ikhfa"
+          },{
+            "from": 47,
+            "to": 49,
+            "rule": "qalqalah"
+          },{
+            "from": 105,
+            "to": 109,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 130,
+            "to": 133,
+            "rule": "madd_munfasil"
+          },{
+            "from": 136,
+            "to": 139,
+            "rule": "ghunnah"
+          },{
+            "from": 145,
+            "to": 148,
+            "rule": "ikhfa"
+          },{
+            "from": 151,
+            "to": 152,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 179,
+            "to": 183,
+            "rule": "ikhfa_shafawi"
+          },{
+            "from": 183,
+            "to": 184,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 203,
+            "to": 205,
+            "rule": "silent"
+          },{
+            "from": 206,
+            "to": 207,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 207,
+            "to": 208,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 213,
+            "to": 214,
+            "rule": "silent"
+          },{
+            "from": 214,
+            "to": 215,
+            "rule": "madd_2"
+          },{
+            "from": 222,
+            "to": 226,
+            "rule": "ikhfa"
+          },{
+            "from": 238,
+            "to": 241,
+            "rule": "ghunnah"
+          },{
+            "from": 267,
+            "to": 268,
+            "rule": "madd_2"
+          },{
+            "from": 277,
+            "to": 278,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 285,
+            "to": 286,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 292,
+            "to": 293,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ",
+            "tafseer": "وما يستوي الأعمى عن دين الله، والبصير الذي أبصر طريق الحق واتبعه، وما تستوي ظلمات الكفر ونور الإيمان، ولا الظل ولا الريح الحارة، وما يستوي أحياء القلوب بالإيمان، وأموات القلوب بالكفر. إن الله يسمع مَن يشاء سماع فَهْم وقَبول، وما أنت -أيها الرسول- بمسمع مَن في القبور، فكما لا تُسمع الموتى في قبورهم فكذلك لا تُسمع هؤلاء الكفار لموت قلوبهم، إن أنت إلا نذير لهم غضب الله وعقابه. إنا أرسلناك بالحق، وهو الإيمان بالله وشرائع الدين، مبشرًا بالجنة مَن صدَّقك وعمل بهديك، ومحذرًا مَن كذَّبك وعصاك النار. وما من أمة من الأمم إلا جاءها نذير يحذرها عاقبة كفرها وضلالها.",
+            "EN_text": "Not equal are the blind and the seeing,",
+            "tajweed": [{
+            "from": 16,
+            "to": 17,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَلَا ٱلظُّلُمَٰتُ وَلَا ٱلنُّورُ",
+            "tafseer": "وما يستوي الأعمى عن دين الله، والبصير الذي أبصر طريق الحق واتبعه، وما تستوي ظلمات الكفر ونور الإيمان، ولا الظل ولا الريح الحارة، وما يستوي أحياء القلوب بالإيمان، وأموات القلوب بالكفر. إن الله يسمع مَن يشاء سماع فَهْم وقَبول، وما أنت -أيها الرسول- بمسمع مَن في القبور، فكما لا تُسمع الموتى في قبورهم فكذلك لا تُسمع هؤلاء الكفار لموت قلوبهم، إن أنت إلا نذير لهم غضب الله وعقابه. إنا أرسلناك بالحق، وهو الإيمان بالله وشرائع الدين، مبشرًا بالجنة مَن صدَّقك وعمل بهديك، ومحذرًا مَن كذَّبك وعصاك النار. وما من أمة من الأمم إلا جاءها نذير يحذرها عاقبة كفرها وضلالها.",
+            "EN_text": "Nor are the darknesses and the light,",
+            "tajweed": [{
+            "from": 6,
+            "to": 7,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 7,
+            "to": 8,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "madd_2"
+          },{
+            "from": 25,
+            "to": 26,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 26,
+            "to": 27,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 27,
+            "to": 30,
+            "rule": "ghunnah"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَلَا ٱلظِّلُّ وَلَا ٱلْحَرُورُ",
+            "tafseer": "وما يستوي الأعمى عن دين الله، والبصير الذي أبصر طريق الحق واتبعه، وما تستوي ظلمات الكفر ونور الإيمان، ولا الظل ولا الريح الحارة، وما يستوي أحياء القلوب بالإيمان، وأموات القلوب بالكفر. إن الله يسمع مَن يشاء سماع فَهْم وقَبول، وما أنت -أيها الرسول- بمسمع مَن في القبور، فكما لا تُسمع الموتى في قبورهم فكذلك لا تُسمع هؤلاء الكفار لموت قلوبهم، إن أنت إلا نذير لهم غضب الله وعقابه. إنا أرسلناك بالحق، وهو الإيمان بالله وشرائع الدين، مبشرًا بالجنة مَن صدَّقك وعمل بهديك، ومحذرًا مَن كذَّبك وعصاك النار. وما من أمة من الأمم إلا جاءها نذير يحذرها عاقبة كفرها وضلالها.",
+            "EN_text": "Nor are the shade and the heat,",
+            "tajweed": [{
+            "from": 6,
+            "to": 7,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 7,
+            "to": 8,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 21,
+            "to": 22,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَمَا يَسْتَوِى ٱلْأَحْيَآءُ وَلَا ٱلْأَمْوَٰتُ إِنَّ ٱللَّهَ يُسْمِعُ مَن يَشَآءُ وَمَآ أَنتَ بِمُسْمِعٍ مَّن فِى ٱلْقُبُورِ",
+            "tafseer": "وما يستوي الأعمى عن دين الله، والبصير الذي أبصر طريق الحق واتبعه، وما تستوي ظلمات الكفر ونور الإيمان، ولا الظل ولا الريح الحارة، وما يستوي أحياء القلوب بالإيمان، وأموات القلوب بالكفر. إن الله يسمع مَن يشاء سماع فَهْم وقَبول، وما أنت -أيها الرسول- بمسمع مَن في القبور، فكما لا تُسمع الموتى في قبورهم فكذلك لا تُسمع هؤلاء الكفار لموت قلوبهم، إن أنت إلا نذير لهم غضب الله وعقابه. إنا أرسلناك بالحق، وهو الإيمان بالله وشرائع الدين، مبشرًا بالجنة مَن صدَّقك وعمل بهديك، ومحذرًا مَن كذَّبك وعصاك النار. وما من أمة من الأمم إلا جاءها نذير يحذرها عاقبة كفرها وضلالها.",
+            "EN_text": "And not equal are the living and the dead. Indeed, Allah causes to hear whom He wills, but you cannot make hear those in the graves.",
+            "tajweed": [{
+            "from": 16,
+            "to": 17,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 25,
+            "to": 27,
+            "rule": "madd_muttasil"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 45,
+            "to": 46,
+            "rule": "madd_2"
+          },{
+            "from": 51,
+            "to": 54,
+            "rule": "ghunnah"
+          },{
+            "from": 55,
+            "to": 56,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 74,
+            "to": 78,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 80,
+            "to": 82,
+            "rule": "madd_muttasil"
+          },{
+            "from": 89,
+            "to": 91,
+            "rule": "madd_munfasil"
+          },{
+            "from": 94,
+            "to": 97,
+            "rule": "ikhfa"
+          },{
+            "from": 107,
+            "to": 112,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 112,
+            "to": 116,
+            "rule": "ikhfa"
+          },{
+            "from": 118,
+            "to": 119,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 125,
+            "to": 126,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "إِنْ أَنتَ إِلَّا نَذِيرٌ",
+            "tafseer": "وما يستوي الأعمى عن دين الله، والبصير الذي أبصر طريق الحق واتبعه، وما تستوي ظلمات الكفر ونور الإيمان، ولا الظل ولا الريح الحارة، وما يستوي أحياء القلوب بالإيمان، وأموات القلوب بالكفر. إن الله يسمع مَن يشاء سماع فَهْم وقَبول، وما أنت -أيها الرسول- بمسمع مَن في القبور، فكما لا تُسمع الموتى في قبورهم فكذلك لا تُسمع هؤلاء الكفار لموت قلوبهم، إن أنت إلا نذير لهم غضب الله وعقابه. إنا أرسلناك بالحق، وهو الإيمان بالله وشرائع الدين، مبشرًا بالجنة مَن صدَّقك وعمل بهديك، ومحذرًا مَن كذَّبك وعصاك النار. وما من أمة من الأمم إلا جاءها نذير يحذرها عاقبة كفرها وضلالها.",
+            "EN_text": "You, [O Muhammad], are not but a warner.",
+            "tajweed": [{
+            "from": 7,
+            "to": 10,
+            "rule": "ikhfa"
+          },{
+            "from": 22,
+            "to": 23,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "إِنَّآ أَرْسَلْنَٰكَ بِٱلْحَقِّ بَشِيرًا وَنَذِيرًا وَإِن مِّنْ أُمَّةٍ إِلَّا خَلَا فِيهَا نَذِيرٌ",
+            "tafseer": "وما يستوي الأعمى عن دين الله، والبصير الذي أبصر طريق الحق واتبعه، وما تستوي ظلمات الكفر ونور الإيمان، ولا الظل ولا الريح الحارة، وما يستوي أحياء القلوب بالإيمان، وأموات القلوب بالكفر. إن الله يسمع مَن يشاء سماع فَهْم وقَبول، وما أنت -أيها الرسول- بمسمع مَن في القبور، فكما لا تُسمع الموتى في قبورهم فكذلك لا تُسمع هؤلاء الكفار لموت قلوبهم، إن أنت إلا نذير لهم غضب الله وعقابه. إنا أرسلناك بالحق، وهو الإيمان بالله وشرائع الدين، مبشرًا بالجنة مَن صدَّقك وعمل بهديك، ومحذرًا مَن كذَّبك وعصاك النار. وما من أمة من الأمم إلا جاءها نذير يحذرها عاقبة كفرها وضلالها.",
+            "EN_text": "Indeed, We have sent you with the truth as a bringer of good tidings and a warner. And there was no nation but that there had passed within it a warner.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 5,
+            "to": 7,
+            "rule": "madd_munfasil"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "madd_2"
+          },{
+            "from": 24,
+            "to": 25,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 39,
+            "to": 44,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 50,
+            "to": 55,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 57,
+            "to": 62,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 67,
+            "to": 70,
+            "rule": "ghunnah"
+          },{
+            "from": 97,
+            "to": 98,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَ ٱلَّذِينَ مِن قَبْلِهِمْ جَآءَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَٰتِ وَبِٱلزُّبُرِ وَبِٱلْكِتَٰبِ ٱلْمُنِيرِ",
+            "tafseer": "وإن يكذبك هؤلاء المشركون فقد كذَّب الذين مِن قبلهم رسلهم الذين جاؤوهم بالمعجزات الواضحات الدالة على نبوتهم، وجاؤوهم بالكتب المجموع فيها كثير من الأحكام، وبالكتاب المنير الموضح لطريق الخير والشر.",
+            "EN_text": "And if they deny you - then already have those before them denied. Their messengers came to them with clear proofs and written ordinances and with the enlightening Scripture.",
+            "tajweed": [{
+            "from": 4,
+            "to": 8,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 23,
+            "to": 25,
+            "rule": "qalqalah"
+          },{
+            "from": 34,
+            "to": 35,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 46,
+            "to": 50,
+            "rule": "ikhfa"
+          },{
+            "from": 50,
+            "to": 52,
+            "rule": "qalqalah"
+          },{
+            "from": 61,
+            "to": 63,
+            "rule": "madd_muttasil"
+          },{
+            "from": 80,
+            "to": 84,
+            "rule": "ikhfa_shafawi"
+          },{
+            "from": 84,
+            "to": 85,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 94,
+            "to": 95,
+            "rule": "madd_2"
+          },{
+            "from": 102,
+            "to": 103,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 103,
+            "to": 104,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 116,
+            "to": 117,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 123,
+            "to": 124,
+            "rule": "madd_2"
+          },{
+            "from": 127,
+            "to": 128,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 134,
+            "to": 135,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ثُمَّ أَخَذْتُ ٱلَّذِينَ كَفَرُوا۟ فَكَيْفَ كَانَ نَكِيرِ",
+            "tafseer": "ثم أخَذْت الذين كفروا بأنواع العذاب، فانظر كيف كان إنكاري لعملهم وحلول عقوبتي بهم؟",
+            "EN_text": "Then I seized the ones who disbelieved, and how [terrible] was My reproach.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 32,
+            "to": 34,
+            "rule": "silent"
+          },{
+            "from": 54,
+            "to": 55,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ ثَمَرَٰتٍ مُّخْتَلِفًا أَلْوَٰنُهَا وَمِنَ ٱلْجِبَالِ جُدَدٌۢ بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَٰنُهَا وَغَرَابِيبُ سُودٌ",
+            "tafseer": "ألم تر أن الله أنزل من السماء ماء، فسقينا به أشجارًا في الأرض، فأخرجنا من تلك الأشجار ثمرات مختلفًا ألوانها، منها الأحمر ومنها الأسود والأصفر وغير ذلك؟ وخَلَقْنا من الجبال طرائق بيضًا وحمرًا مختلفًا ألوانها، وخلقنا من الجبال جبالا شديدة السواد.",
+            "EN_text": "Do you not see that Allah sends down rain from the sky, and We produce thereby fruits of varying colors? And in the mountains are tracts, white and red of varying shades and [some] extremely black.",
+            "tajweed": [{
+            "from": 14,
+            "to": 17,
+            "rule": "ghunnah"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 28,
+            "to": 31,
+            "rule": "ikhfa"
+          },{
+            "from": 39,
+            "to": 40,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 46,
+            "to": 48,
+            "rule": "madd_muttasil"
+          },{
+            "from": 53,
+            "to": 55,
+            "rule": "madd_muttasil"
+          },{
+            "from": 56,
+            "to": 60,
+            "rule": "ikhfa"
+          },{
+            "from": 66,
+            "to": 68,
+            "rule": "qalqalah"
+          },{
+            "from": 76,
+            "to": 77,
+            "rule": "madd_2"
+          },{
+            "from": 84,
+            "to": 85,
+            "rule": "madd_2"
+          },{
+            "from": 86,
+            "to": 91,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 107,
+            "to": 108,
+            "rule": "madd_2"
+          },{
+            "from": 121,
+            "to": 122,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 137,
+            "to": 141,
+            "rule": "iqlab"
+          },{
+            "from": 144,
+            "to": 148,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 153,
+            "to": 158,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 173,
+            "to": 174,
+            "rule": "madd_2"
+          },{
+            "from": 195,
+            "to": 196,
+            "rule": "madd_246"
+          },{
+            "from": 196,
+            "to": 197,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ إِنَّمَا يَخْشَى ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَٰٓؤُا۟ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ",
+            "tafseer": "وخلقنا من الناس والدواب والإبل والبقر والغنم ما هو مختلف ألوانه كذلك، فمن ذلك الأحمر والأبيض والأسود وغير ذلك كاختلاف ألوان الثمار والجبال. إنما يخشى اللهَ ويتقي عقابه بطاعته واجتناب معصيته العلماءُ به سبحانه، وبصفاته، وبشرعه، وقدرته على كل شيء، ومنها اختلاف هذه المخلوقات مع اتحاد سببها، ويتدبرون ما فيها من عظات وعبر. إن الله عزيز قويٌّ لا يغالَب، غفور يثيب أهل الطاعة، ويعفو عنهم.",
+            "EN_text": "And among people and moving creatures and grazing livestock are various colors similarly. Only those fear Allah, from among His servants, who have knowledge. Indeed, Allah is Exalted in Might and Forgiving.",
+            "tajweed": [{
+            "from": 7,
+            "to": 8,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 8,
+            "to": 9,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 9,
+            "to": 12,
+            "rule": "ghunnah"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 25,
+            "to": 27,
+            "rule": "madd_6"
+          },{
+            "from": 33,
+            "to": 34,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "madd_2"
+          },{
+            "from": 63,
+            "to": 64,
+            "rule": "madd_2"
+          },{
+            "from": 68,
+            "to": 69,
+            "rule": "madd_2"
+          },{
+            "from": 74,
+            "to": 75,
+            "rule": "madd_2"
+          },{
+            "from": 82,
+            "to": 85,
+            "rule": "ghunnah"
+          },{
+            "from": 97,
+            "to": 98,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 120,
+            "to": 121,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 129,
+            "to": 131,
+            "rule": "madd_muttasil"
+          },{
+            "from": 133,
+            "to": 135,
+            "rule": "silent"
+          },{
+            "from": 138,
+            "to": 141,
+            "rule": "ghunnah"
+          },{
+            "from": 142,
+            "to": 143,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 162,
+            "to": 163,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "إِنَّ ٱلَّذِينَ يَتْلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقْنَٰهُمْ سِرًّا وَعَلَانِيَةً يَرْجُونَ تِجَٰرَةً لَّن تَبُورَ",
+            "tafseer": "إن الذين يقرؤون القرآن، ويعملون به، وداوموا على الصلاة في أوقاتها، وأنفقوا مما رزقناهم من أنواع النفقات الواجبة والمستحبة سرًّا وجهرًا، هؤلاء يرجون بذلك تجارة لن تكسد ولن تهلك، ألا وهي رضا ربهم، والفوز بجزيل ثوابه؛ ليوفيهم الله تعالى ثواب أعمالهم كاملا غير منقوص، ويضاعف لهم الحسنات من فضله، إن الله غفور لسيئاتهم، شكور لحسناتهم، يثيبهم عليها الجزيل من الثواب.",
+            "EN_text": "Indeed, those who recite the Book of Allah and establish prayer and spend [in His cause] out of what We have provided them, secretly and publicly, [can] expect a profit that will never perish -",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 6,
+            "to": 7,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "madd_2"
+          },{
+            "from": 34,
+            "to": 35,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 52,
+            "to": 54,
+            "rule": "silent"
+          },{
+            "from": 55,
+            "to": 56,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 56,
+            "to": 57,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 62,
+            "to": 63,
+            "rule": "silent"
+          },{
+            "from": 63,
+            "to": 64,
+            "rule": "madd_2"
+          },{
+            "from": 71,
+            "to": 74,
+            "rule": "ikhfa"
+          },{
+            "from": 77,
+            "to": 79,
+            "rule": "silent"
+          },{
+            "from": 82,
+            "to": 85,
+            "rule": "ghunnah"
+          },{
+            "from": 91,
+            "to": 93,
+            "rule": "qalqalah"
+          },{
+            "from": 95,
+            "to": 96,
+            "rule": "madd_2"
+          },{
+            "from": 105,
+            "to": 110,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 120,
+            "to": 124,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 136,
+            "to": 137,
+            "rule": "madd_2"
+          },{
+            "from": 140,
+            "to": 145,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 145,
+            "to": 149,
+            "rule": "ikhfa"
+          },{
+            "from": 151,
+            "to": 152,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "لِيُوَفِّيَهُمْ أُجُورَهُمْ وَيَزِيدَهُم مِّن فَضْلِهِۦٓ إِنَّهُۥ غَفُورٌ شَكُورٌ",
+            "tafseer": "إن الذين يقرؤون القرآن، ويعملون به، وداوموا على الصلاة في أوقاتها، وأنفقوا مما رزقناهم من أنواع النفقات الواجبة والمستحبة سرًّا وجهرًا، هؤلاء يرجون بذلك تجارة لن تكسد ولن تهلك، ألا وهي رضا ربهم، والفوز بجزيل ثوابه؛ ليوفيهم الله تعالى ثواب أعمالهم كاملا غير منقوص، ويضاعف لهم الحسنات من فضله، إن الله غفور لسيئاتهم، شكور لحسناتهم، يثيبهم عليها الجزيل من الثواب.",
+            "EN_text": "That He may give them in full their rewards and increase for them of His bounty. Indeed, He is Forgiving and Appreciative.",
+            "tajweed": [{
+            "from": 39,
+            "to": 44,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 44,
+            "to": 48,
+            "rule": "ikhfa"
+          },{
+            "from": 54,
+            "to": 56,
+            "rule": "madd_munfasil"
+          },{
+            "from": 59,
+            "to": 62,
+            "rule": "ghunnah"
+          },{
+            "from": 64,
+            "to": 65,
+            "rule": "madd_2"
+          },{
+            "from": 72,
+            "to": 76,
+            "rule": "ikhfa"
+          },{
+            "from": 78,
+            "to": 79,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ مِنَ ٱلْكِتَٰبِ هُوَ ٱلْحَقُّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ إِنَّ ٱللَّهَ بِعِبَادِهِۦ لَخَبِيرٌۢ بَصِيرٌ",
+            "tafseer": "والذي أنزلناه إليك -أيها الرسول- من القرآن هو الحق المصدِّق للكتب التي أنزلها الله على رسله قبلك. إن الله لخبير بشؤون عباده، بصير بأعمالهم، وسيجازيهم عليها.",
+            "EN_text": "And that which We have revealed to you, [O Muhammad], of the Book is the truth, confirming what was before it. Indeed, Allah, of His servants, is Acquainted and Seeing.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 8,
+            "to": 10,
+            "rule": "madd_munfasil"
+          },{
+            "from": 21,
+            "to": 23,
+            "rule": "madd_munfasil"
+          },{
+            "from": 38,
+            "to": 39,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 45,
+            "to": 46,
+            "rule": "madd_2"
+          },{
+            "from": 54,
+            "to": 55,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 71,
+            "to": 77,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 99,
+            "to": 102,
+            "rule": "ghunnah"
+          },{
+            "from": 103,
+            "to": 104,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 122,
+            "to": 123,
+            "rule": "madd_2"
+          },{
+            "from": 132,
+            "to": 136,
+            "rule": "iqlab"
+          },{
+            "from": 139,
+            "to": 140,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ثُمَّ أَوْرَثْنَا ٱلْكِتَٰبَ ٱلَّذِينَ ٱصْطَفَيْنَا مِنْ عِبَادِنَا فَمِنْهُمْ ظَالِمٌ لِّنَفْسِهِۦ وَمِنْهُم مُّقْتَصِدٌ وَمِنْهُمْ سَابِقٌۢ بِٱلْخَيْرَٰتِ بِإِذْنِ ٱللَّهِ ذَٰلِكَ هُوَ ٱلْفَضْلُ ٱلْكَبِيرُ",
+            "tafseer": "ثم أعطينا -بعد هلاك الأمم- القرآن مَن اخترناهم من أمة محمد صلى الله عليه وسلم: فمنهم ظالم لنفسه بفعل بعض المعاصي، ومنهم مقتصد، وهو المؤدي للواجبات المجتنب للمحرمات، ومنهم سابق بالخيرات بإذن الله، أي مسارع مجتهد في الأعمال الصالحة، فَرْضِها ونفلها، ذلك الإعطاء للكتاب واصطفاء هذه الأمة هو الفضل الكبير.",
+            "EN_text": "Then we caused to inherit the Book those We have chosen of Our servants; and among them is he who wrongs himself, and among them is he who is moderate, and among them is he who is foremost in good deeds by permission of Allah. That [inheritance] is what is the great bounty.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 25,
+            "to": 26,
+            "rule": "madd_2"
+          },{
+            "from": 29,
+            "to": 30,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 39,
+            "to": 40,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 85,
+            "to": 90,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 98,
+            "to": 99,
+            "rule": "madd_2"
+          },{
+            "from": 108,
+            "to": 113,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 113,
+            "to": 115,
+            "rule": "qalqalah"
+          },{
+            "from": 120,
+            "to": 124,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 139,
+            "to": 143,
+            "rule": "iqlab"
+          },{
+            "from": 144,
+            "to": 145,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 153,
+            "to": 154,
+            "rule": "madd_2"
+          },{
+            "from": 166,
+            "to": 167,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 176,
+            "to": 177,
+            "rule": "madd_2"
+          },{
+            "from": 187,
+            "to": 188,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 197,
+            "to": 198,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 204,
+            "to": 205,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "جَنَّٰتُ عَدْنٍ يَدْخُلُونَهَا يُحَلَّوْنَ فِيهَا مِنْ أَسَاوِرَ مِن ذَهَبٍ وَلُؤْلُؤًا وَلِبَاسُهُمْ فِيهَا حَرِيرٌ",
+            "tafseer": "جنات إقامة دائمة للذين أورثهم الله كتابه يُحلَّون فيها الأساور من الذهب واللؤلؤ، ولباسهم المعتاد في الجنة حرير أي: ثياب رقيقة. وقالوا حين دخلوا الجنة: الحمد لله الذي أذهب عنا كل حَزَن، إن ربنا لغفور؛ حيث غفر لنا الزلات، شكور؛ حيث قبل منا الحسنات وضاعفها. وهو الذي أنزلَنا دار الجنة من فضله، لا يمسنا فيها تعب ولا إعياء.",
+            "EN_text": "[For them are] gardens of perpetual residence which they will enter. They will be adorned therein with bracelets of gold and pearls, and their garments therein will be silk.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 5,
+            "to": 6,
+            "rule": "madd_2"
+          },{
+            "from": 11,
+            "to": 13,
+            "rule": "qalqalah"
+          },{
+            "from": 14,
+            "to": 18,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 18,
+            "to": 20,
+            "rule": "qalqalah"
+          },{
+            "from": 67,
+            "to": 71,
+            "rule": "ikhfa"
+          },{
+            "from": 74,
+            "to": 78,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 85,
+            "to": 90,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 113,
+            "to": 114,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَقَالُوا۟ ٱلْحَمْدُ لِلَّهِ ٱلَّذِىٓ أَذْهَبَ عَنَّا ٱلْحَزَنَ إِنَّ رَبَّنَا لَغَفُورٌ شَكُورٌ",
+            "tafseer": "جنات إقامة دائمة للذين أورثهم الله كتابه يُحلَّون فيها الأساور من الذهب واللؤلؤ، ولباسهم المعتاد في الجنة حرير أي: ثياب رقيقة. وقالوا حين دخلوا الجنة: الحمد لله الذي أذهب عنا كل حَزَن، إن ربنا لغفور؛ حيث غفر لنا الزلات، شكور؛ حيث قبل منا الحسنات وضاعفها. وهو الذي أنزلَنا دار الجنة من فضله، لا يمسنا فيها تعب ولا إعياء.",
+            "EN_text": "And they will say, 'Praise to Allah, who has removed from us [all] sorrow. Indeed, our Lord is Forgiving and Appreciative -",
+            "tajweed": [{
+            "from": 8,
+            "to": 10,
+            "rule": "silent"
+          },{
+            "from": 11,
+            "to": 12,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 29,
+            "to": 30,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 35,
+            "to": 37,
+            "rule": "madd_munfasil"
+          },{
+            "from": 49,
+            "to": 52,
+            "rule": "ghunnah"
+          },{
+            "from": 54,
+            "to": 55,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 66,
+            "to": 69,
+            "rule": "ghunnah"
+          },{
+            "from": 87,
+            "to": 91,
+            "rule": "ikhfa"
+          },{
+            "from": 93,
+            "to": 94,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ٱلَّذِىٓ أَحَلَّنَا دَارَ ٱلْمُقَامَةِ مِن فَضْلِهِۦ لَا يَمَسُّنَا فِيهَا نَصَبٌ وَلَا يَمَسُّنَا فِيهَا لُغُوبٌ",
+            "tafseer": "جنات إقامة دائمة للذين أورثهم الله كتابه يُحلَّون فيها الأساور من الذهب واللؤلؤ، ولباسهم المعتاد في الجنة حرير أي: ثياب رقيقة. وقالوا حين دخلوا الجنة: الحمد لله الذي أذهب عنا كل حَزَن، إن ربنا لغفور؛ حيث غفر لنا الزلات، شكور؛ حيث قبل منا الحسنات وضاعفها. وهو الذي أنزلَنا دار الجنة من فضله، لا يمسنا فيها تعب ولا إعياء.",
+            "EN_text": "He who has settled us in the home of duration out of His bounty. There touches us not in it any fatigue, and there touches us not in it weariness [of mind].'",
+            "tajweed": [{
+            "from": 6,
+            "to": 8,
+            "rule": "madd_munfasil"
+          },{
+            "from": 26,
+            "to": 27,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 41,
+            "to": 45,
+            "rule": "ikhfa"
+          },{
+            "from": 51,
+            "to": 52,
+            "rule": "madd_2"
+          },{
+            "from": 80,
+            "to": 84,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 110,
+            "to": 111,
+            "rule": "madd_246"
+          },{
+            "from": 111,
+            "to": 112,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَٱلَّذِينَ كَفَرُوا۟ لَهُمْ نَارُ جَهَنَّمَ لَا يُقْضَىٰ عَلَيْهِمْ فَيَمُوتُوا۟ وَلَا يُخَفَّفُ عَنْهُم مِّنْ عَذَابِهَا كَذَٰلِكَ نَجْزِى كُلَّ كَفُورٍ",
+            "tafseer": "والذين كفروا بالله ورسوله لهم نار جهنم الموقدة، لا يُقْضى عليهم بالموت، فيموتوا ويستريحوا، ولا يُخَفَّف عنهم مِن عذابها، ومثل ذلك الجزاء يجزي الله كلَّ متمادٍ في الكفر مُصِرٍّ عليه.",
+            "EN_text": "And for those who disbelieve will be the fire of Hell. [Death] is not decreed for them so they may die, nor will its torment be lightened for them. Thus do we recompense every ungrateful one.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 19,
+            "to": 21,
+            "rule": "silent"
+          },{
+            "from": 39,
+            "to": 42,
+            "rule": "ghunnah"
+          },{
+            "from": 51,
+            "to": 53,
+            "rule": "qalqalah"
+          },{
+            "from": 79,
+            "to": 81,
+            "rule": "silent"
+          },{
+            "from": 104,
+            "to": 109,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 127,
+            "to": 128,
+            "rule": "madd_2"
+          },{
+            "from": 135,
+            "to": 137,
+            "rule": "qalqalah"
+          },{
+            "from": 151,
+            "to": 152,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَهُمْ يَصْطَرِخُونَ فِيهَا رَبَّنَآ أَخْرِجْنَا نَعْمَلْ صَٰلِحًا غَيْرَ ٱلَّذِى كُنَّا نَعْمَلُ أَوَلَمْ نُعَمِّرْكُم مَّا يَتَذَكَّرُ فِيهِ مَن تَذَكَّرَ وَجَآءَكُمُ ٱلنَّذِيرُ فَذُوقُوا۟ فَمَا لِلظَّٰلِمِينَ مِن نَّصِيرٍ",
+            "tafseer": "وهؤلاء الكفار يَصْرُخون من شدة العذاب في نار جهنم مستغيثين: ربنا أخرجنا من نار جهنم، وردَّنا إلى الدنيا نعمل صالحًا غير الذي كنا نعمله في حياتنا الدنيا، فنؤمن بدل الكفر، فيقول لهم: أولم نُمْهلكم في الحياة قَدْرًا وافيًا من العُمُر، يتعظ فيه من اتعظ، وجاءكم النبي صلى الله عليه وسلم، ومع ذلك لم تتذكروا ولم تتعظوا؟ فذوقوا عذاب جهنم، فليس للكافرين من ناصر ينصرهم من عذاب الله.",
+            "EN_text": "And they will cry out therein, 'Our Lord, remove us; we will do righteousness - other than what we were doing!' But did We not grant you life enough for whoever would remember therein to remember, and the warner had come to you? So taste [the punishment], for there is not for the wrongdoers any helper.",
+            "tajweed": [{
+            "from": 35,
+            "to": 37,
+            "rule": "madd_munfasil"
+          },{
+            "from": 44,
+            "to": 46,
+            "rule": "qalqalah"
+          },{
+            "from": 61,
+            "to": 62,
+            "rule": "madd_2"
+          },{
+            "from": 75,
+            "to": 76,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 85,
+            "to": 88,
+            "rule": "ghunnah"
+          },{
+            "from": 112,
+            "to": 115,
+            "rule": "ghunnah"
+          },{
+            "from": 119,
+            "to": 124,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 146,
+            "to": 150,
+            "rule": "ikhfa"
+          },{
+            "from": 162,
+            "to": 164,
+            "rule": "madd_muttasil"
+          },{
+            "from": 171,
+            "to": 172,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 172,
+            "to": 173,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 173,
+            "to": 176,
+            "rule": "ghunnah"
+          },{
+            "from": 190,
+            "to": 192,
+            "rule": "silent"
+          },{
+            "from": 201,
+            "to": 202,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 205,
+            "to": 206,
+            "rule": "madd_2"
+          },{
+            "from": 216,
+            "to": 221,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 223,
+            "to": 224,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "إِنَّ ٱللَّهَ عَٰلِمُ غَيْبِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ إِنَّهُۥ عَلِيمٌۢ بِذَاتِ ٱلصُّدُورِ",
+            "tafseer": "إن الله مطَّلع على كل غائب في السماوات والأرض، وإنه عليم بخفايا الصدور، فاتقوه أن يطَّلع عليكم، وأنتم تُضْمِرون الشك أو الشرك في وحدانيته، أو في نبوة محمد صلى الله عليه وسلم، أو أن تَعْصوه بما دون ذلك.",
+            "EN_text": "Indeed, Allah is Knower of the unseen [aspects] of the heavens and earth. Indeed, He is Knowing of that within the breasts.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 6,
+            "to": 7,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 16,
+            "to": 17,
+            "rule": "madd_2"
+          },{
+            "from": 29,
+            "to": 30,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "madd_2"
+          },{
+            "from": 39,
+            "to": 40,
+            "rule": "madd_2"
+          },{
+            "from": 45,
+            "to": 46,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 57,
+            "to": 60,
+            "rule": "ghunnah"
+          },{
+            "from": 62,
+            "to": 63,
+            "rule": "madd_2"
+          },{
+            "from": 70,
+            "to": 74,
+            "rule": "iqlab"
+          },{
+            "from": 81,
+            "to": 82,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 82,
+            "to": 83,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 88,
+            "to": 89,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "هُوَ ٱلَّذِى جَعَلَكُمْ خَلَٰٓئِفَ فِى ٱلْأَرْضِ فَمَن كَفَرَ فَعَلَيْهِ كُفْرُهُۥ وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ عِندَ رَبِّهِمْ إِلَّا مَقْتًا وَلَا يَزِيدُ ٱلْكَٰفِرِينَ كُفْرُهُمْ إِلَّا خَسَارًا",
+            "tafseer": "الله هو الذي جعلكم -أيها الناس- يَخْلُف بعضكم بعضًا في الأرض، فمن جحد وحدانية الله منكم فعلى نفسه ضرره وكفره ولا يزيد الكافرين كفرهم عند ربهم إلا بغضًا وغضبًا، ولا يزيدهم كفرهم بالله إلا ضلالا وهلاكًا.",
+            "EN_text": "It is He who has made you successors upon the earth. And whoever disbelieves - upon him will be [the consequence of] his disbelief. And the disbelief of the disbelievers does not increase them in the sight of their Lord except in hatred; and the disbelief of the disbelievers does not increase them except in loss.",
+            "tajweed": [{
+            "from": 5,
+            "to": 6,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 28,
+            "to": 30,
+            "rule": "madd_muttasil"
+          },{
+            "from": 39,
+            "to": 40,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 53,
+            "to": 57,
+            "rule": "ikhfa"
+          },{
+            "from": 81,
+            "to": 82,
+            "rule": "madd_2"
+          },{
+            "from": 97,
+            "to": 98,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 102,
+            "to": 103,
+            "rule": "madd_2"
+          },{
+            "from": 124,
+            "to": 127,
+            "rule": "ikhfa"
+          },{
+            "from": 147,
+            "to": 149,
+            "rule": "qalqalah"
+          },{
+            "from": 150,
+            "to": 155,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 167,
+            "to": 168,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 172,
+            "to": 173,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "قُلْ أَرَءَيْتُمْ شُرَكَآءَكُمُ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ أَرُونِى مَاذَا خَلَقُوا۟ مِنَ ٱلْأَرْضِ أَمْ لَهُمْ شِرْكٌ فِى ٱلسَّمَٰوَٰتِ أَمْ ءَاتَيْنَٰهُمْ كِتَٰبًا فَهُمْ عَلَىٰ بَيِّنَتٍ مِّنْهُ بَلْ إِن يَعِدُ ٱلظَّٰلِمُونَ بَعْضُهُم بَعْضًا إِلَّا غُرُورًا",
+            "tafseer": "قل -أيها الرسول- للمشركين: أخبروني أيَّ شيء خَلَق شركاؤكم من الأرض، أم أن لشركائكم الذين تعبدونهم من دون الله شركًا مع الله في خلق السماوات، أم أعطيناهم كتابًا فهم على حجة منه؟ بل ما يَعِدُ الكافرون بعضهم بعضًا إلا غرورًا وخداعًا.",
+            "EN_text": "Say, 'Have you considered your 'partners' whom you invoke besides Allah? Show me what they have created from the earth, or have they partnership [with Him] in the heavens? Or have We given them a book so they are [standing] on evidence therefrom? [No], rather, the wrongdoers do not promise each other except delusion.'",
+            "tajweed": [{
+            "from": 24,
+            "to": 26,
+            "rule": "madd_muttasil"
+          },{
+            "from": 33,
+            "to": 34,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 45,
+            "to": 47,
+            "rule": "qalqalah"
+          },{
+            "from": 55,
+            "to": 59,
+            "rule": "ikhfa"
+          },{
+            "from": 63,
+            "to": 64,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 94,
+            "to": 96,
+            "rule": "silent"
+          },{
+            "from": 102,
+            "to": 103,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 129,
+            "to": 133,
+            "rule": "ikhfa"
+          },{
+            "from": 135,
+            "to": 136,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 136,
+            "to": 137,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 142,
+            "to": 143,
+            "rule": "madd_2"
+          },{
+            "from": 145,
+            "to": 146,
+            "rule": "madd_2"
+          },{
+            "from": 163,
+            "to": 164,
+            "rule": "madd_2"
+          },{
+            "from": 173,
+            "to": 174,
+            "rule": "madd_2"
+          },{
+            "from": 175,
+            "to": 180,
+            "rule": "ikhfa"
+          },{
+            "from": 200,
+            "to": 205,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 217,
+            "to": 221,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 226,
+            "to": 227,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 227,
+            "to": 228,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 231,
+            "to": 232,
+            "rule": "madd_2"
+          },{
+            "from": 248,
+            "to": 252,
+            "rule": "ikhfa_shafawi"
+          }]
+          },{
+            "AR_text": "إِنَّ ٱللَّهَ يُمْسِكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ أَن تَزُولَا وَلَئِن زَالَتَآ إِنْ أَمْسَكَهُمَا مِنْ أَحَدٍ مِّنۢ بَعْدِهِۦٓ إِنَّهُۥ كَانَ حَلِيمًا غَفُورًا",
+            "tafseer": "إن الله يمسك السماوات والأرض أن تزولا عن مكانهما، ولئن زالت السماوات والأرض عن مكانهما ما يمسكهما من أحد من بعده. إن الله كان حليمًا في تأخير العقوبة عن الكافرين والعصاة، غفورًا لمن تاب من ذنبه ورجع إليه.",
+            "EN_text": "Indeed, Allah holds the heavens and the earth, lest they cease. And if they should cease, no one could hold them [in place] after Him. Indeed, He is Forbearing and Forgiving.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 6,
+            "to": 7,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 23,
+            "to": 24,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 24,
+            "to": 25,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "madd_2"
+          },{
+            "from": 33,
+            "to": 34,
+            "rule": "madd_2"
+          },{
+            "from": 39,
+            "to": 40,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 51,
+            "to": 55,
+            "rule": "ikhfa"
+          },{
+            "from": 68,
+            "to": 72,
+            "rule": "ikhfa"
+          },{
+            "from": 77,
+            "to": 79,
+            "rule": "madd_munfasil"
+          },{
+            "from": 109,
+            "to": 114,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 115,
+            "to": 118,
+            "rule": "iqlab"
+          },{
+            "from": 125,
+            "to": 127,
+            "rule": "madd_munfasil"
+          },{
+            "from": 130,
+            "to": 133,
+            "rule": "ghunnah"
+          },{
+            "from": 135,
+            "to": 136,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "وَأَقْسَمُوا۟ بِٱللَّهِ جَهْدَ أَيْمَٰنِهِمْ لَئِن جَآءَهُمْ نَذِيرٌ لَّيَكُونُنَّ أَهْدَىٰ مِنْ إِحْدَى ٱلْأُمَمِ فَلَمَّا جَآءَهُمْ نَذِيرٌ مَّا زَادَهُمْ إِلَّا نُفُورًا",
+            "tafseer": "وأقسم كفار قريش بالله أشد الأَيْمان: لئن جاءهم رسول من عند الله يخوِّفهم عقاب الله ليكونُنَّ أكثر استقامة واتباعًا للحق من اليهود والنصارى وغيرهم، فلما جاءهم محمد صلى الله عليه وسلم ما زادهم ذلك إلا بُعْدًا عن الحق ونفورًا منه.",
+            "EN_text": "And they swore by Allah their strongest oaths that if a warner came to them, they would be more guided than [any] one of the [previous] nations. But when a warner came to them, it did not increase them except in aversion.",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "qalqalah"
+          },{
+            "from": 11,
+            "to": 13,
+            "rule": "silent"
+          },{
+            "from": 16,
+            "to": 17,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "madd_2"
+          },{
+            "from": 49,
+            "to": 53,
+            "rule": "ikhfa"
+          },{
+            "from": 53,
+            "to": 55,
+            "rule": "madd_muttasil"
+          },{
+            "from": 68,
+            "to": 73,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 80,
+            "to": 83,
+            "rule": "ghunnah"
+          },{
+            "from": 106,
+            "to": 107,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 120,
+            "to": 123,
+            "rule": "ghunnah"
+          },{
+            "from": 127,
+            "to": 129,
+            "rule": "madd_muttasil"
+          },{
+            "from": 142,
+            "to": 147,
+            "rule": "idghaam_ghunnah"
+          }]
+          },{
+            "AR_text": "ٱسْتِكْبَارًا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًا وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا",
+            "tafseer": "ليس إقسامهم لقَصْد حسن وطلبًا للحق، وإنما هو استكبار في الأرض على الخلق، يريدون به المكر السيِّئ والخداع والباطل، ولا يحيق المكر السيِّئ إلا بأهله، فهل ينتظر المستكبرون الماكرون إلا العذاب الذي نزل بأمثالهم الذين سبقوهم، فلن تجد لطريقة الله تبديلا ولا تحويلا فلا يستطيع أحد أن يُبَدِّل، ولا أن يُحَوِّل العذاب عن نفسه أو غيره.",
+            "EN_text": "[Due to] arrogance in the land and plotting of evil; but the evil plot does not encompass except its own people. Then do they await except the way of the former peoples? But you will never find in the way of Allah any change, and you will never find in the way of Allah any alteration.",
+            "tajweed": [{
+            "from": 11,
+            "to": 16,
+            "rule": "ikhfa"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 38,
+            "to": 39,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 62,
+            "to": 63,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 72,
+            "to": 73,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 73,
+            "to": 74,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 100,
+            "to": 101,
+            "rule": "madd_2"
+          },{
+            "from": 111,
+            "to": 114,
+            "rule": "ikhfa"
+          },{
+            "from": 129,
+            "to": 132,
+            "rule": "ghunnah"
+          },{
+            "from": 135,
+            "to": 136,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 153,
+            "to": 157,
+            "rule": "ikhfa"
+          },{
+            "from": 166,
+            "to": 169,
+            "rule": "ghunnah"
+          },{
+            "from": 172,
+            "to": 173,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 182,
+            "to": 184,
+            "rule": "qalqalah"
+          },{
+            "from": 188,
+            "to": 193,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 195,
+            "to": 199,
+            "rule": "ikhfa"
+          },{
+            "from": 208,
+            "to": 211,
+            "rule": "ghunnah"
+          },{
+            "from": 214,
+            "to": 215,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "أَوَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَكَانُوٓا۟ أَشَدَّ مِنْهُمْ قُوَّةً وَمَا كَانَ ٱللَّهُ لِيُعْجِزَهُۥ مِن شَىْءٍ فِى ٱلسَّمَٰوَٰتِ وَلَا فِى ٱلْأَرْضِ إِنَّهُۥ كَانَ عَلِيمًا قَدِيرًا",
+            "tafseer": "أولم يَسِرْ كفار 'مكة' في الأرض، فينظروا كيف كان عاقبة الذين من قبلهم كعاد وثمود وأمثالهم، وما حلَّ بهم من الدمار، وبديارهم من الخراب، حين كذبوا الرسل، وكان أولئك الكفرة أشد قوة وبطشًا من كفار 'مكة'؟ وما كان الله تعالى ليعجزه ويفوته من شيء في السماوات ولا في الأرض، إنه كان عليمًا بأفعالهم، قديرًا على إهلاكهم.",
+            "EN_text": "Have they not traveled through the land and observed how was the end of those before them? And they were greater than them in power. But Allah is not to be caused failure by anything in the heavens or on the earth. Indeed, He is ever Knowing and Competent.",
+            "tajweed": [{
+            "from": 17,
+            "to": 19,
+            "rule": "silent"
+          },{
+            "from": 24,
+            "to": 25,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 38,
+            "to": 41,
+            "rule": "ikhfa"
+          },{
+            "from": 44,
+            "to": 46,
+            "rule": "silent"
+          },{
+            "from": 62,
+            "to": 63,
+            "rule": "madd_2"
+          },{
+            "from": 70,
+            "to": 71,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 82,
+            "to": 86,
+            "rule": "ikhfa"
+          },{
+            "from": 86,
+            "to": 88,
+            "rule": "qalqalah"
+          },{
+            "from": 102,
+            "to": 104,
+            "rule": "madd_munfasil"
+          },{
+            "from": 104,
+            "to": 106,
+            "rule": "silent"
+          },{
+            "from": 130,
+            "to": 134,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 144,
+            "to": 145,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 164,
+            "to": 165,
+            "rule": "madd_2"
+          },{
+            "from": 168,
+            "to": 172,
+            "rule": "ikhfa"
+          },{
+            "from": 175,
+            "to": 179,
+            "rule": "ikhfa"
+          },{
+            "from": 181,
+            "to": 182,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 182,
+            "to": 183,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 188,
+            "to": 189,
+            "rule": "madd_2"
+          },{
+            "from": 191,
+            "to": 192,
+            "rule": "madd_2"
+          },{
+            "from": 205,
+            "to": 206,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 217,
+            "to": 220,
+            "rule": "ghunnah"
+          },{
+            "from": 222,
+            "to": 223,
+            "rule": "madd_2"
+          },{
+            "from": 236,
+            "to": 241,
+            "rule": "ikhfa"
+          }]
+          },{
+            "AR_text": "وَلَوْ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِمَا كَسَبُوا۟ مَا تَرَكَ عَلَىٰ ظَهْرِهَا مِن دَآبَّةٍ وَلَٰكِن يُؤَخِّرُهُمْ إِلَىٰٓ أَجَلٍ مُّسَمًّى فَإِذَا جَآءَ أَجَلُهُمْ فَإِنَّ ٱللَّهَ كَانَ بِعِبَادِهِۦ بَصِيرًۢا",
+            "tafseer": "ولو يعاقب الله الناس بما عملوا من الذنوب والمعاصي ما ترك على ظهر الأرض من دابة تَدِبُّ عليها، ولكن يُمْهلهم ويؤخر عقابهم إلى وقت معلوم عنده، فإذا جاء وقت عقابهم فإن الله كان بعباده بصيرًا، لا يخفى عليه أحد منهم، ولا يعزب عنه علم شيء من أمورهم، وسيجازيهم بما عملوا من خير أو شر.",
+            "EN_text": "And if Allah were to impose blame on the people for what they have earned, He would not leave upon the earth any creature. But He defers them for a specified term. And when their time comes, then indeed Allah has ever been, of His servants, Seeing.",
+            "tajweed": [{
+            "from": 17,
+            "to": 18,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 25,
+            "to": 26,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 26,
+            "to": 27,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 27,
+            "to": 30,
+            "rule": "ghunnah"
+          },{
+            "from": 47,
+            "to": 49,
+            "rule": "silent"
+          },{
+            "from": 80,
+            "to": 84,
+            "rule": "ikhfa"
+          },{
+            "from": 84,
+            "to": 86,
+            "rule": "madd_6"
+          },{
+            "from": 90,
+            "to": 94,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 96,
+            "to": 97,
+            "rule": "madd_2"
+          },{
+            "from": 99,
+            "to": 103,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 119,
+            "to": 122,
+            "rule": "madd_munfasil"
+          },{
+            "from": 128,
+            "to": 133,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 135,
+            "to": 138,
+            "rule": "ghunnah"
+          },{
+            "from": 137,
+            "to": 142,
+            "rule": "ikhfa"
+          },{
+            "from": 150,
+            "to": 152,
+            "rule": "madd_muttasil"
+          },{
+            "from": 170,
+            "to": 173,
+            "rule": "ghunnah"
+          },{
+            "from": 174,
+            "to": 175,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 199,
+            "to": 200,
+            "rule": "madd_2"
+          }]
+          }]
+    }

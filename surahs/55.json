@@ -1,0 +1,1596 @@
+
+    {
+      "id": 55,
+      "name": {
+        "AR": "الرحمن",
+        "EN": ["Ar-Rahmaan", "The Beneficent"]
+      },
+      "versesLength": 78,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلرَّحْمَٰنُ",
+            "tafseer": "الرحمن علَّم الإنسان القرآن؛ بتيسير تلاوته وحفظه وفهم معانيه.",
+            "EN_text": "The Most Merciful",
+            "tajweed": [{
+            "from": 40,
+            "to": 41,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 48,
+            "to": 49,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "عَلَّمَ ٱلْقُرْءَانَ",
+            "tafseer": "الرحمن علَّم الإنسان القرآن؛ بتيسير تلاوته وحفظه وفهم معانيه.",
+            "EN_text": "Taught the Qur'an,",
+            "tajweed": [{
+            "from": 8,
+            "to": 9,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 17,
+            "to": 18,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "خَلَقَ ٱلْإِنسَٰنَ",
+            "tafseer": "خلق الإنسان، علَّمه البيان عمَّا في نفسه تمييزًا له عن غيره.",
+            "EN_text": "Created man,",
+            "tajweed": [{
+            "from": 7,
+            "to": 8,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 12,
+            "to": 15,
+            "rule": "ikhfa"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "عَلَّمَهُ ٱلْبَيَانَ",
+            "tafseer": "خلق الإنسان، علَّمه البيان عمَّا في نفسه تمييزًا له عن غيره.",
+            "EN_text": "[And] taught him eloquence.",
+            "tajweed": [{
+            "from": 10,
+            "to": 11,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 17,
+            "to": 18,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+            "tafseer": "الشمس والقمر يجريان متعاقبَين بحساب متقن، لا يختلف ولا يضطرب.",
+            "EN_text": "The sun and the moon [move] by precise calculation,",
+            "tajweed": [{
+            "from": 1,
+            "to": 2,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 12,
+            "to": 13,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+            "tafseer": "والنجم الذي في السماء وأشجار الأرض، تعرف ربها وتسجد له، وتنقاد لما سخرَّها له مِن مصالح عباده ومنافعهم.",
+            "EN_text": "And the stars and trees prostrate.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 3,
+            "to": 4,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 4,
+            "to": 7,
+            "rule": "ghunnah"
+          },{
+            "from": 7,
+            "to": 9,
+            "rule": "qalqalah"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 32,
+            "to": 33,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+            "tafseer": "والسماء رفعها فوق الأرض، ووضع في الأرض العدل الذي أمر به وشرعه لعباده.",
+            "EN_text": "And the heaven He raised and imposed the balance",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 3,
+            "to": 4,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 9,
+            "to": 11,
+            "rule": "madd_muttasil"
+          },{
+            "from": 33,
+            "to": 34,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 41,
+            "to": 42,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+            "tafseer": "لئلا تعتدوا وتخونوا مَن وَزَنتم له، وأقيموا الوزن بالعدل، ولا تُنْقِصوا الميزان إذا وَزَنتم للناس.",
+            "EN_text": "That you not transgress within the balance.",
+            "tajweed": [{
+            "from": 9,
+            "to": 11,
+            "rule": "qalqalah"
+          },{
+            "from": 15,
+            "to": 17,
+            "rule": "silent"
+          },{
+            "from": 22,
+            "to": 23,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+            "tafseer": "لئلا تعتدوا وتخونوا مَن وَزَنتم له، وأقيموا الوزن بالعدل، ولا تُنْقِصوا الميزان إذا وَزَنتم للناس.",
+            "EN_text": "And establish weight in justice and do not make deficient the balance.",
+            "tajweed": [{
+            "from": 10,
+            "to": 12,
+            "rule": "silent"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 25,
+            "to": 26,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 50,
+            "to": 52,
+            "rule": "silent"
+          },{
+            "from": 53,
+            "to": 54,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 61,
+            "to": 62,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+            "tafseer": "والأرض وضعها ومهَّدها؛ ليستقر عليها الخلق. فيها فاكهة النخل ذات الأوعية التي يكون منها الثمر، وفيها الحب ذو القشر؛ رزقًا لكم ولأنعامكم، وفيها كل نبت طيب الرائحة.",
+            "EN_text": "And the earth He laid [out] for the creatures.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فِيهَا فَٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+            "tafseer": "والأرض وضعها ومهَّدها؛ ليستقر عليها الخلق. فيها فاكهة النخل ذات الأوعية التي يكون منها الثمر، وفيها الحب ذو القشر؛ رزقًا لكم ولأنعامكم، وفيها كل نبت طيب الرائحة.",
+            "EN_text": "Therein is fruit and palm trees having sheaths [of dates]",
+            "tajweed": [{
+            "from": 9,
+            "to": 10,
+            "rule": "madd_2"
+          },{
+            "from": 15,
+            "to": 19,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 21,
+            "to": 24,
+            "rule": "ghunnah"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 44,
+            "to": 45,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+            "tafseer": "والأرض وضعها ومهَّدها؛ ليستقر عليها الخلق. فيها فاكهة النخل ذات الأوعية التي يكون منها الثمر، وفيها الحب ذو القشر؛ رزقًا لكم ولأنعامكم، وفيها كل نبت طيب الرائحة.",
+            "EN_text": "And grain having husks and scented plants.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 27,
+            "to": 28,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما الدينية والدنيوية- يا معشر الجن والإنس- تكذِّبان؟ وما أحسن جواب الجن حين تلا عليهم النبي صلى الله عليه وسلم هذه السورة، فكلما مر بهذه الآية، قالوا: 'ولا بشيء من آلائك ربَّنا نكذب، فلك الحمد'، وهكذا ينبغي للعبد إذا تليت عليه نعم الله وآلاؤه، أن يُقرَّ بها، ويشكر الله ويحمده عليها.",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "خَلَقَ ٱلْإِنسَٰنَ مِن صَلْصَٰلٍ كَٱلْفَخَّارِ",
+            "tafseer": "خلق أبا الإنسان، وهو آدم من طين يابس كالفَخَّار، وخلق إبليس، وهو من الجن من لهب النار المختلط بعضه ببعض.",
+            "EN_text": "He created man from clay like [that of] pottery.",
+            "tajweed": [{
+            "from": 7,
+            "to": 8,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 12,
+            "to": 15,
+            "rule": "ikhfa"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "madd_2"
+          },{
+            "from": 21,
+            "to": 25,
+            "rule": "ikhfa"
+          },{
+            "from": 29,
+            "to": 30,
+            "rule": "madd_2"
+          },{
+            "from": 31,
+            "to": 35,
+            "rule": "ikhfa"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+            "tafseer": "خلق أبا الإنسان، وهو آدم من طين يابس كالفَخَّار، وخلق إبليس، وهو من الجن من لهب النار المختلط بعضه ببعض.",
+            "EN_text": "And He created the jinn from a smokeless flame of fire.",
+            "tajweed": [{
+            "from": 9,
+            "to": 10,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 14,
+            "to": 16,
+            "rule": "madd_6"
+          },{
+            "from": 16,
+            "to": 19,
+            "rule": "ghunnah"
+          },{
+            "from": 22,
+            "to": 27,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 31,
+            "to": 36,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 36,
+            "to": 41,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 41,
+            "to": 42,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما- يا معشر الإنس والجن- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+            "tafseer": "هو سبحانه وتعالى ربُّ مشرقَي الشمس في الشتاء والصيف، ورب مغربَيها فيهما، فالجميع تحت تدبيره وربوبيته.",
+            "EN_text": "[He is] Lord of the two sunrises and Lord of the two sunsets.",
+            "tajweed": [{
+            "from": 6,
+            "to": 7,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 41,
+            "to": 42,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما- أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+            "tafseer": "خلط الله ماء البحرين - العذب والملح- يلتقيان. بينهما حاجز، فلا يطغى أحدهما على الآخر، ويذهب بخصائصه، بل يبقى العذب عذبًا، والملح ملحًا مع تلاقيهما.",
+            "EN_text": "He released the two seas, meeting [side by side];",
+            "tajweed": [{
+            "from": 7,
+            "to": 8,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 31,
+            "to": 32,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+            "tafseer": "خلط الله ماء البحرين - العذب والملح- يلتقيان. بينهما حاجز، فلا يطغى أحدهما على الآخر، ويذهب بخصائصه، بل يبقى العذب عذبًا، والملح ملحًا مع تلاقيهما.",
+            "EN_text": "Between them is a barrier [so] neither of them transgresses.",
+            "tajweed": [{
+            "from": 19,
+            "to": 24,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 28,
+            "to": 30,
+            "rule": "qalqalah"
+          },{
+            "from": 34,
+            "to": 35,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما- أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+            "tafseer": "يخرج من البحرين بقدرة الله اللؤلؤ والمَرْجان.",
+            "EN_text": "From both of them emerge pearl and coral.",
+            "tajweed": [{
+            "from": 19,
+            "to": 20,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 33,
+            "to": 34,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما- أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَٰمِ",
+            "tafseer": "وله سبحانه وتعالى السفن الضخمة التي تجري في البحر بمنافع الناس، رافعة قلاعها وأشرعتها كالجبال.",
+            "EN_text": "And to Him belong the ships [with sails] elevated in the sea like mountains.",
+            "tajweed": [{
+            "from": 7,
+            "to": 8,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 23,
+            "to": 26,
+            "rule": "ikhfa"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 49,
+            "to": 50,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 58,
+            "to": 59,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما- أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+            "tafseer": "كل مَن على وجه الأرض مِن الخلق هالك، ويبقى وجه ربك ذو العظمة والكبرياء والفضل والجود. وفي الآية إثبات صفة الوجه لله تعالى بما يليق به سبحانه، دون تشبيه ولا تكييف.",
+            "EN_text": "Everyone upon the earth will perish,",
+            "tajweed": [{
+            "from": 23,
+            "to": 24,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+            "tafseer": "كل مَن على وجه الأرض مِن الخلق هالك، ويبقى وجه ربك ذو العظمة والكبرياء والفضل والجود. وفي الآية إثبات صفة الوجه لله تعالى بما يليق به سبحانه، دون تشبيه ولا تكييف.",
+            "EN_text": "And there will remain the Face of your Lord, Owner of Majesty and Honor.",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "qalqalah"
+          },{
+            "from": 13,
+            "to": 15,
+            "rule": "qalqalah"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "madd_2"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 52,
+            "to": 53,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+            "tafseer": "يسأله مَن في السموات والأرض حاجاتهم، فلا غنى لأحد منهم عنه سبحانه. كل يوم هو في شأن: يُعِزُّ ويُذِلُّ، ويعطي ويَمْنع.",
+            "EN_text": "Whoever is within the heavens and earth asks Him; every day He is bringing about a matter.",
+            "tajweed": [{
+            "from": 11,
+            "to": 12,
+            "rule": "madd_2"
+          },{
+            "from": 15,
+            "to": 19,
+            "rule": "ikhfa"
+          },{
+            "from": 21,
+            "to": 22,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 22,
+            "to": 23,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "madd_2"
+          },{
+            "from": 31,
+            "to": 32,
+            "rule": "madd_2"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+            "tafseer": "سنفرُغ لحسابكم ومجازاتكم بأعمالكما التي عملتموهما في الدنيا، أيها الثقلان- الإنس والجن-، فنعاقب أهل المعاصي، ونُثيب أهل الطاعة.",
+            "EN_text": "We will attend to you, O prominent beings.",
+            "tajweed": [{
+            "from": 26,
+            "to": 27,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 27,
+            "to": 28,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأيِّ نِعَم ربكما- أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يَٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ لَا تَنفُذُونَ إِلَّا بِسُلْطَٰنٍ",
+            "tafseer": "يا معشر الجن والإنس، إن قَدَرْتم على النفاذ من أمر الله وحكمه هاربين من أطراف السموات والأرض فافعلوا، ولستم قادرين على ذلك إلا بقوة وحجة، وأمر من الله تعالى (وأنَّى لكم ذلك وأنتم لا تملكون لأنفسكم نفعًا ولا ضرًا؟). فبأي نِعَم ربكما - أيها الثقلان- تكذِّبان؟",
+            "EN_text": "O company of jinn and mankind, if you are able to pass beyond the regions of the heavens and the earth, then pass. You will not pass except by authority [from Allah].",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "madd_2"
+          },{
+            "from": 12,
+            "to": 13,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 17,
+            "to": 20,
+            "rule": "ghunnah"
+          },{
+            "from": 23,
+            "to": 24,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 28,
+            "to": 31,
+            "rule": "ikhfa"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 53,
+            "to": 57,
+            "rule": "ikhfa"
+          },{
+            "from": 57,
+            "to": 60,
+            "rule": "ikhfa"
+          },{
+            "from": 63,
+            "to": 65,
+            "rule": "silent"
+          },{
+            "from": 73,
+            "to": 75,
+            "rule": "qalqalah"
+          },{
+            "from": 81,
+            "to": 82,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 82,
+            "to": 83,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 88,
+            "to": 89,
+            "rule": "madd_2"
+          },{
+            "from": 91,
+            "to": 92,
+            "rule": "madd_2"
+          },{
+            "from": 97,
+            "to": 98,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 109,
+            "to": 110,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 110,
+            "to": 113,
+            "rule": "ikhfa"
+          },{
+            "from": 116,
+            "to": 118,
+            "rule": "silent"
+          },{
+            "from": 125,
+            "to": 128,
+            "rule": "ikhfa"
+          },{
+            "from": 149,
+            "to": 150,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "يا معشر الجن والإنس، إن قَدَرْتم على النفاذ من أمر الله وحكمه هاربين من أطراف السموات والأرض فافعلوا، ولستم قادرين على ذلك إلا بقوة وحجة، وأمر من الله تعالى (وأنَّى لكم ذلك وأنتم لا تملكون لأنفسكم نفعًا ولا ضرًا؟). فبأي نِعَم ربكما - أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+            "tafseer": "يُرْسَل عليكم لهب من نار، ونحاس مذاب يُصَبُّ على رؤوسكم، فلا ينصر بعضكم بعضًا يا معشر الجن والإنس. فبأي نِعَم ربكما- أيها الثقلان- تكذِّبان؟",
+            "EN_text": "There will be sent upon you a flame of fire and smoke, and you will not defend yourselves.",
+            "tajweed": [{
+            "from": 27,
+            "to": 32,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 32,
+            "to": 37,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 39,
+            "to": 43,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 49,
+            "to": 53,
+            "rule": "ikhfa"
+          },{
+            "from": 59,
+            "to": 62,
+            "rule": "ikhfa"
+          },{
+            "from": 66,
+            "to": 67,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "يُرْسَل عليكم لهب من نار، ونحاس مذاب يُصَبُّ على رؤوسكم، فلا ينصر بعضكم بعضًا يا معشر الجن والإنس. فبأي نِعَم ربكما- أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ",
+            "tafseer": "فإذا انشقت السماء وتفطرت يوم القيامة، فكانت حمراء كلون الورد، وكالزيت المغلي والرصاص المذاب؛ من شدة الأمر وهول يوم القيامة.",
+            "EN_text": "And when the heaven is split open and becomes rose-colored like oil -",
+            "tajweed": [{
+            "from": 8,
+            "to": 9,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 9,
+            "to": 12,
+            "rule": "ikhfa"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 25,
+            "to": 27,
+            "rule": "madd_muttasil"
+          },{
+            "from": 47,
+            "to": 51,
+            "rule": "ikhfa"
+          },{
+            "from": 51,
+            "to": 52,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 52,
+            "to": 53,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 58,
+            "to": 59,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما- أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny? -",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ",
+            "tafseer": "ففي ذلك اليوم لا تسأل الملائكة المجرمين من الإنس والجن عن ذنوبهم.",
+            "EN_text": "Then on that Day none will be asked about his sin among men or jinn.",
+            "tajweed": [{
+            "from": 11,
+            "to": 16,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 30,
+            "to": 34,
+            "rule": "ikhfa"
+          },{
+            "from": 35,
+            "to": 37,
+            "rule": "iqlab"
+          },{
+            "from": 40,
+            "to": 42,
+            "rule": "madd_munfasil"
+          },{
+            "from": 45,
+            "to": 48,
+            "rule": "ikhfa"
+          },{
+            "from": 47,
+            "to": 51,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 57,
+            "to": 59,
+            "rule": "madd_6"
+          },{
+            "from": 59,
+            "to": 61,
+            "rule": "ghunnah"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+            "tafseer": "تَعرِف الملائكة المجرمين بعلاماتهم، فتأخذهم بمقدمة رؤوسهم وبأقدامهم، فترميهم في النار.",
+            "EN_text": "The criminals will be known by their marks, and they will be seized by the forelocks and the feet.",
+            "tajweed": [{
+            "from": 9,
+            "to": 10,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 14,
+            "to": 16,
+            "rule": "qalqalah"
+          },{
+            "from": 31,
+            "to": 32,
+            "rule": "madd_2"
+          },{
+            "from": 50,
+            "to": 51,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 51,
+            "to": 52,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 52,
+            "to": 55,
+            "rule": "ghunnah"
+          },{
+            "from": 57,
+            "to": 58,
+            "rule": "madd_2"
+          },{
+            "from": 64,
+            "to": 65,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 69,
+            "to": 71,
+            "rule": "qalqalah"
+          },{
+            "from": 73,
+            "to": 74,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "هَٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+            "tafseer": "يقال لهؤلاء المجرمين -توبيخًا وتحقيرًا لهم-: هذه جهنم التي يكذِّب بها المجرمون في الدنيا: تارة يُعذَّبون في الجحيم، وتارة يُسقون من الحميم، وهو شراب بلغ منتهى الحرارة، يقطِّع الأمعاء والأحشاء.",
+            "EN_text": "This is Hell, which the criminals deny.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "madd_2"
+          },{
+            "from": 7,
+            "to": 8,
+            "rule": "madd_2"
+          },{
+            "from": 13,
+            "to": 16,
+            "rule": "ghunnah"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 48,
+            "to": 50,
+            "rule": "qalqalah"
+          },{
+            "from": 54,
+            "to": 55,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+            "tafseer": "يقال لهؤلاء المجرمين -توبيخًا وتحقيرًا لهم-: هذه جهنم التي يكذِّب بها المجرمون في الدنيا: تارة يُعذَّبون في الجحيم، وتارة يُسقون من الحميم، وهو شراب بلغ منتهى الحرارة، يقطِّع الأمعاء والأحشاء.",
+            "EN_text": "They will go around between it and scalding water, heated [to the utmost degree].",
+            "tajweed": [{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+            "tafseer": "ولمن اتقى الله من عباده من الإنس والجن، فخاف مقامه بين يديه، فأطاعه، وترك معاصيه، جنتان.",
+            "EN_text": "But for he who has feared the position of his Lord are two gardens -",
+            "tajweed": [{
+            "from": 30,
+            "to": 31,
+            "rule": "madd_2"
+          },{
+            "from": 34,
+            "to": 37,
+            "rule": "ghunnah"
+          },{
+            "from": 39,
+            "to": 40,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny? -",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ذَوَاتَآ أَفْنَانٍ",
+            "tafseer": "الجنتان ذواتا أغصان نضرة من الفواكه والثمار.",
+            "EN_text": "Having [spreading] branches.",
+            "tajweed": [{
+            "from": 7,
+            "to": 9,
+            "rule": "madd_munfasil"
+          },{
+            "from": 16,
+            "to": 17,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+            "tafseer": "في هاتين الجنتين عينان من الماء تجريان خلالهما.",
+            "EN_text": "In both of them are two springs, flowing.",
+            "tajweed": [{
+            "from": 21,
+            "to": 23,
+            "rule": "qalqalah"
+          },{
+            "from": 27,
+            "to": 28,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فِيهِمَا مِن كُلِّ فَٰكِهَةٍ زَوْجَانِ",
+            "tafseer": "في هاتين الجنتين من كل نوع من الفواكه صنفان.",
+            "EN_text": "In both of them are of every fruit, two kinds.",
+            "tajweed": [{
+            "from": 11,
+            "to": 15,
+            "rule": "ikhfa"
+          },{
+            "from": 21,
+            "to": 22,
+            "rule": "madd_2"
+          },{
+            "from": 27,
+            "to": 31,
+            "rule": "ikhfa"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ",
+            "tafseer": "وللذين خافوا مقام ربهم جنتان يتنعمون فيهما، متكئين على فرش مبطَّنة من غليظ الديباج، وثمر الجنتين قريب إليهم.",
+            "EN_text": "[They are] reclining on beds whose linings are of silk brocade, and the fruit of the two gardens is hanging low.",
+            "tajweed": [{
+            "from": 26,
+            "to": 30,
+            "rule": "iqlab"
+          },{
+            "from": 33,
+            "to": 35,
+            "rule": "madd_muttasil"
+          },{
+            "from": 54,
+            "to": 56,
+            "rule": "qalqalah"
+          },{
+            "from": 59,
+            "to": 63,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 69,
+            "to": 70,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 74,
+            "to": 77,
+            "rule": "ghunnah"
+          },{
+            "from": 86,
+            "to": 87,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فِيهِنَّ قَٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+            "tafseer": "في هذه الفرش زوجات قاصرات أبصارهن على أزواجهن، لا ينظرن إلى غيرهم متعلقات بهم، لم يطأهن إنس قبلهم ولا جان.",
+            "EN_text": "In them are women limiting [their] glances, untouched before them by man or jinni -",
+            "tajweed": [{
+            "from": 5,
+            "to": 8,
+            "rule": "ghunnah"
+          },{
+            "from": 11,
+            "to": 12,
+            "rule": "madd_2"
+          },{
+            "from": 16,
+            "to": 17,
+            "rule": "madd_2"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 21,
+            "to": 22,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 37,
+            "to": 39,
+            "rule": "qalqalah"
+          },{
+            "from": 45,
+            "to": 48,
+            "rule": "ghunnah"
+          },{
+            "from": 51,
+            "to": 54,
+            "rule": "ikhfa"
+          },{
+            "from": 53,
+            "to": 57,
+            "rule": "ikhfa"
+          },{
+            "from": 57,
+            "to": 59,
+            "rule": "qalqalah"
+          },{
+            "from": 74,
+            "to": 76,
+            "rule": "madd_6"
+          },{
+            "from": 76,
+            "to": 78,
+            "rule": "ghunnah"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny? -",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+            "tafseer": "كأن هؤلاء الزوجاتِ من الحور الياقوتُ والمَرْجانُ في صفائهن وجمالهن.",
+            "EN_text": "As if they were rubies and coral.",
+            "tajweed": [{
+            "from": 4,
+            "to": 7,
+            "rule": "ghunnah"
+          },{
+            "from": 9,
+            "to": 12,
+            "rule": "ghunnah"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 27,
+            "to": 28,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "هَلْ جَزَآءُ ٱلْإِحْسَٰنِ إِلَّا ٱلْإِحْسَٰنُ",
+            "tafseer": "هل جزاء مَن أحسن بعمله في الدنيا إلا الإحسان إليه بالجنة في الآخرة؟ فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "Is the reward for good [anything] but good?",
+            "tajweed": [{
+            "from": 9,
+            "to": 11,
+            "rule": "madd_muttasil"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 23,
+            "to": 24,
+            "rule": "madd_2"
+          },{
+            "from": 34,
+            "to": 35,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "هل جزاء مَن أحسن بعمله في الدنيا إلا الإحسان إليه بالجنة في الآخرة؟ فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَمِن دُونِهِمَا جَنَّتَانِ",
+            "tafseer": "ومن دون الجنتين السابقتين جنتان أخريان. فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "And below them both [in excellence] are two [other] gardens -",
+            "tajweed": [{
+            "from": 4,
+            "to": 8,
+            "rule": "ikhfa"
+          },{
+            "from": 19,
+            "to": 22,
+            "rule": "ghunnah"
+          },{
+            "from": 24,
+            "to": 25,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "ومن دون الجنتين السابقتين جنتان أخريان. فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny? -",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "مُدْهَآمَّتَانِ",
+            "tafseer": "هاتان الجنتان خضراوان، قد اشتدَّت خضرتهما حتى مالت إلى السواد. فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "Dark green [in color].",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "qalqalah"
+          },{
+            "from": 6,
+            "to": 8,
+            "rule": "madd_6"
+          },{
+            "from": 8,
+            "to": 11,
+            "rule": "ghunnah"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "هاتان الجنتان خضراوان، قد اشتدَّت خضرتهما حتى مالت إلى السواد. فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+            "tafseer": "فيهما عينان فوَّارتان بالماء لا تنقطعان. فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "In both of them are two springs, spouting.",
+            "tajweed": [{
+            "from": 29,
+            "to": 30,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فيهما عينان فوَّارتان بالماء لا تنقطعان. فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فِيهِمَا فَٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+            "tafseer": "في هاتين الجنتين أنواع الفواكه ونخل ورمان.",
+            "EN_text": "In both of them are fruit and palm trees and pomegranates.",
+            "tajweed": [{
+            "from": 11,
+            "to": 12,
+            "rule": "madd_2"
+          },{
+            "from": 17,
+            "to": 21,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 26,
+            "to": 30,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 32,
+            "to": 35,
+            "rule": "ghunnah"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+            "tafseer": "في هذه الجنان الأربع زوجات طيبات الأخلاق حسان الوجوه.",
+            "EN_text": "In them are good and beautiful women -",
+            "tajweed": [{
+            "from": 5,
+            "to": 8,
+            "rule": "ghunnah"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "madd_2"
+          },{
+            "from": 23,
+            "to": 24,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny? -",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ",
+            "tafseer": "حور مستورات مصونات في الخيام.",
+            "EN_text": "Fair ones reserved in pavilions -",
+            "tajweed": [{
+            "from": 4,
+            "to": 9,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 9,
+            "to": 11,
+            "rule": "qalqalah"
+          },{
+            "from": 16,
+            "to": 17,
+            "rule": "madd_2"
+          },{
+            "from": 18,
+            "to": 22,
+            "rule": "ikhfa"
+          },{
+            "from": 24,
+            "to": 25,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 31,
+            "to": 32,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny? -",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+            "tafseer": "لم يطأ هؤلاء الحور إنس قبل أزواجهن ولا جان.",
+            "EN_text": "Untouched before them by man or jinni -",
+            "tajweed": [{
+            "from": 7,
+            "to": 9,
+            "rule": "qalqalah"
+          },{
+            "from": 15,
+            "to": 18,
+            "rule": "ghunnah"
+          },{
+            "from": 21,
+            "to": 24,
+            "rule": "ikhfa"
+          },{
+            "from": 23,
+            "to": 27,
+            "rule": "ikhfa"
+          },{
+            "from": 27,
+            "to": 29,
+            "rule": "qalqalah"
+          },{
+            "from": 44,
+            "to": 46,
+            "rule": "madd_6"
+          },{
+            "from": 46,
+            "to": 48,
+            "rule": "ghunnah"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny? -",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ",
+            "tafseer": "متكئين على وسائد ذوات أغطية خضر وفرش حسان.",
+            "EN_text": "Reclining on green cushions and beautiful fine carpets.",
+            "tajweed": [{
+            "from": 35,
+            "to": 39,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 41,
+            "to": 43,
+            "rule": "qalqalah"
+          },{
+            "from": 55,
+            "to": 56,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+            "tafseer": "فبأي نِعَم ربكما -أيها الثقلان- تكذِّبان؟",
+            "EN_text": "So which of the favors of your Lord would you deny?",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "madd_muttasil"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "تَبَٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَٰلِ وَٱلْإِكْرَامِ",
+            "tafseer": "تكاثرت بركة اسم ربك وكثر خيره، ذي الجلال الباهر، والمجد الكامل، والإكرام لأوليائه.",
+            "EN_text": "Blessed is the name of your Lord, Owner of Majesty and Honor.",
+            "tajweed": [{
+            "from": 4,
+            "to": 5,
+            "rule": "madd_2"
+          },{
+            "from": 10,
+            "to": 11,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "madd_2"
+          },{
+            "from": 41,
+            "to": 42,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 50,
+            "to": 51,
+            "rule": "madd_246"
+          }]
+          }]
+    }

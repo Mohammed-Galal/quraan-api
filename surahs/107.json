@@ -1,0 +1,117 @@
+
+    {
+      "id": 107,
+      "name": {
+        "AR": "الماعون",
+        "EN": ["Al-Maa'un", "Almsgiving"]
+      },
+      "versesLength": 7,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+            "tafseer": "أرأيت حال ذلك الذي يكذِّب بالبعث والجزاء؟",
+            "EN_text": "Have you seen the one who denies the Recompense?",
+            "tajweed": [{
+            "from": 50,
+            "to": 51,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 70,
+            "to": 71,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 71,
+            "to": 72,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 75,
+            "to": 76,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+            "tafseer": "فذلك الذي يدفع اليتيم بعنف وشدة عن حقه؛ لقساوة قلبه.",
+            "EN_text": "For that is the one who drives away the orphan",
+            "tajweed": [{
+            "from": 4,
+            "to": 5,
+            "rule": "madd_2"
+          },{
+            "from": 10,
+            "to": 11,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 26,
+            "to": 27,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 33,
+            "to": 34,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+            "tafseer": "ولا يحضُّ غيره على إطعام المسكين، فكيف له أن يطعمه بنفسه؟",
+            "EN_text": "And does not encourage the feeding of the poor.",
+            "tajweed": [{
+            "from": 29,
+            "to": 30,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 38,
+            "to": 39,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+            "tafseer": "فعذاب شديد للمصلين الذين هم عن صلاتهم لاهون، لا يقيمونها على وجهها، ولا يؤدونها في وقتها.",
+            "EN_text": "So woe to those who pray",
+            "tajweed": [{
+            "from": 7,
+            "to": 12,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 21,
+            "to": 22,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+            "tafseer": "فعذاب شديد للمصلين الذين هم عن صلاتهم لاهون، لا يقيمونها على وجهها، ولا يؤدونها في وقتها.",
+            "EN_text": "[But] who are heedless of their prayer -",
+            "tajweed": [{
+            "from": 17,
+            "to": 21,
+            "rule": "ikhfa"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+            "tafseer": "الذين هم يتظاهرون بأعمال الخير مراءاة للناس.",
+            "EN_text": "Those who make show [of their deeds]",
+            "tajweed": [{
+            "from": 19,
+            "to": 21,
+            "rule": "madd_muttasil"
+          },{
+            "from": 23,
+            "to": 24,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+            "tafseer": "ويمنعون إعارة ما لا تضر إعارته من الآنية وغيرها، فلا هم أحسنوا عبادة ربهم، ولا هم أحسنوا إلى خلقه.",
+            "EN_text": "And withhold [simple] assistance.",
+            "tajweed": [{
+            "from": 14,
+            "to": 15,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 22,
+            "to": 23,
+            "rule": "madd_246"
+          }]
+          }]
+    }

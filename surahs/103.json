@@ -1,0 +1,97 @@
+
+    {
+      "id": 103,
+      "name": {
+        "AR": "العصر",
+        "EN": ["Al-Asr", "The Declining Day, Epoch"]
+      },
+      "versesLength": 3,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+            "tafseer": "أقسم الله بالدهر على أن بني آدم لفي هلكة ونقصان. ولا يجوز للعبد أن يقسم إلا بالله، فإن القسم بغير الله شرك.",
+            "EN_text": "By time,",
+            "tajweed": [{
+            "from": 41,
+            "to": 42,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+            "tafseer": "أقسم الله بالدهر على أن بني آدم لفي هلكة ونقصان. ولا يجوز للعبد أن يقسم إلا بالله، فإن القسم بغير الله شرك.",
+            "EN_text": "Indeed, mankind is in loss,",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 6,
+            "to": 7,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 11,
+            "to": 14,
+            "rule": "ikhfa"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+            "tafseer": "إلا الذين آمنوا بالله وعملوا عملا صالحًا، وأوصى بعضهم بعضًا بالاستمساك بالحق، والعمل بطاعة الله، والصبر على ذلك.",
+            "EN_text": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+            "tajweed": [{
+            "from": 7,
+            "to": 8,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 25,
+            "to": 27,
+            "rule": "silent"
+          },{
+            "from": 37,
+            "to": 39,
+            "rule": "silent"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 41,
+            "to": 42,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 45,
+            "to": 46,
+            "rule": "madd_2"
+          },{
+            "from": 50,
+            "to": 51,
+            "rule": "madd_2"
+          },{
+            "from": 65,
+            "to": 67,
+            "rule": "silent"
+          },{
+            "from": 70,
+            "to": 71,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 90,
+            "to": 92,
+            "rule": "silent"
+          },{
+            "from": 95,
+            "to": 96,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 96,
+            "to": 97,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 100,
+            "to": 102,
+            "rule": "qalqalah"
+          }]
+          }]
+    }

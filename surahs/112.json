@@ -1,0 +1,70 @@
+
+    {
+      "id": 112,
+      "name": {
+        "AR": "الإخلاص",
+        "EN": ["Al-Ikhlaas", "Sincerity"]
+      },
+      "versesLength": 4,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+            "tafseer": "قل -أيها الرسول-: هو الله المتفرد بالألوهية والربوبية والأسماء والصفات، لا يشاركه أحد فيها.",
+            "EN_text": "Say, 'He is Allah, [who is] One,",
+            "tajweed": [{
+            "from": 49,
+            "to": 50,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 61,
+            "to": 62,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "ٱللَّهُ ٱلصَّمَدُ",
+            "tafseer": "الله وحده المقصود في قضاء الحوائج والرغائب.",
+            "EN_text": "Allah, the Eternal Refuge.",
+            "tajweed": [{
+            "from": 8,
+            "to": 9,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 9,
+            "to": 10,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+            "tafseer": "ليس له ولد ولا والد ولا صاحبة.",
+            "EN_text": "He neither begets nor is born,",
+            "tajweed": [{
+            "from": 9,
+            "to": 11,
+            "rule": "qalqalah"
+          },{
+            "from": 24,
+            "to": 26,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+            "tafseer": "ولم يكن له مماثلا ولا مشابهًا أحد من خلقه، لا في أسمائه ولا في صفاته، ولا في أفعاله، تبارك وتعالى وتقدَّس.",
+            "EN_text": "Nor is there to Him any equivalent.'",
+            "tajweed": [{
+            "from": 11,
+            "to": 16,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "madd_2"
+          },{
+            "from": 32,
+            "to": 33,
+            "rule": "qalqalah"
+          }]
+          }]
+    }

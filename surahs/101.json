@@ -1,0 +1,177 @@
+
+    {
+      "id": 101,
+      "name": {
+        "AR": "القارعة",
+        "EN": ["Al-Qaari'a", "The Calamity"]
+      },
+      "versesLength": 11,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱلْقَارِعَةُ",
+            "tafseer": "الساعة التي تقرع قلوب الناس بأهوالها.",
+            "EN_text": "The Striking Calamity -",
+            "tajweed": []
+          },{
+            "AR_text": "مَا ٱلْقَارِعَةُ",
+            "tafseer": "أيُّ شيء هذه القارعة؟",
+            "EN_text": "What is the Striking Calamity?",
+            "tajweed": [{
+            "from": 4,
+            "to": 5,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+            "tafseer": "وأيُّ شيء أعلمك بها؟",
+            "EN_text": "And what can make you know what is the Striking Calamity?",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "madd_munfasil"
+          },{
+            "from": 9,
+            "to": 11,
+            "rule": "qalqalah"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "madd_2"
+          },{
+            "from": 22,
+            "to": 23,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+            "tafseer": "في ذلك اليوم يكون الناس في كثرتهم وتفرقهم وحركتهم كالفراش المنتشر، وهو الذي يتساقط في النار.",
+            "EN_text": "It is the Day when people will be like moths, dispersed,",
+            "tajweed": [{
+            "from": 15,
+            "to": 16,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 16,
+            "to": 17,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 17,
+            "to": 20,
+            "rule": "ghunnah"
+          },{
+            "from": 26,
+            "to": 27,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 42,
+            "to": 44,
+            "rule": "qalqalah"
+          },{
+            "from": 46,
+            "to": 47,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+            "tafseer": "وتكون الجبال كالصوف متعدد الألوان الذي يُنْفَش باليد، فيصير هباء ويزول.",
+            "EN_text": "And the mountains will be like wool, fluffed up.",
+            "tajweed": [{
+            "from": 10,
+            "to": 11,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 23,
+            "to": 24,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 33,
+            "to": 34,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 38,
+            "to": 41,
+            "rule": "ikhfa"
+          },{
+            "from": 41,
+            "to": 42,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+            "tafseer": "فأما من رجحت موازين حسناته، فهو في حياة مرضية في الجنة.",
+            "EN_text": "Then as for one whose scales are heavy [with good deeds],",
+            "tajweed": [{
+            "from": 4,
+            "to": 7,
+            "rule": "ghunnah"
+          },{
+            "from": 11,
+            "to": 15,
+            "rule": "ikhfa"
+          },{
+            "from": 26,
+            "to": 27,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+            "tafseer": "فأما من رجحت موازين حسناته، فهو في حياة مرضية في الجنة.",
+            "EN_text": "He will be in a pleasant life.",
+            "tajweed": [{
+            "from": 17,
+            "to": 22,
+            "rule": "idghaam_no_ghunnah"
+          }]
+          },{
+            "AR_text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+            "tafseer": "وأما من خفت موازين حسناته، ورجحت موازين سيئاته، فمأواه جهنم.",
+            "EN_text": "But as for one whose scales are light,",
+            "tajweed": [{
+            "from": 4,
+            "to": 7,
+            "rule": "ghunnah"
+          },{
+            "from": 26,
+            "to": 27,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "فَأُمُّهُۥ هَاوِيَةٌ",
+            "tafseer": "وأما من خفت موازين حسناته، ورجحت موازين سيئاته، فمأواه جهنم.",
+            "EN_text": "His refuge will be an abyss.",
+            "tajweed": [{
+            "from": 4,
+            "to": 7,
+            "rule": "ghunnah"
+          },{
+            "from": 9,
+            "to": 10,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+            "tafseer": "وما أدراك -أيها الرسول- ما هذه الهاوية؟",
+            "EN_text": "And what can make you know what that is?",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "madd_munfasil"
+          },{
+            "from": 9,
+            "to": 11,
+            "rule": "qalqalah"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "نَارٌ حَامِيَةٌۢ",
+            "tafseer": "إنها نار قد حَمِيت من الوقود عليها.",
+            "EN_text": "It is a Fire, intensely hot.",
+            "tajweed": []
+          }]
+    }

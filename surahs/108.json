@@ -1,0 +1,57 @@
+
+    {
+      "id": 108,
+      "name": {
+        "AR": "الكوثر",
+        "EN": ["Al-Kawthar", "Abundance"]
+      },
+      "versesLength": 3,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+            "tafseer": "إنا أعطيناك -أيها النبي- الخير الكثير في الدنيا والآخرة، ومن ذلك نهر الكوثر في الجنة الذي حافتاه خيام اللؤلؤ المجوَّف، وطينه المسك.",
+            "EN_text": "Indeed, We have granted you, [O Muhammad], al-Kawthar.",
+            "tajweed": [{
+            "from": 41,
+            "to": 44,
+            "rule": "ghunnah"
+          },{
+            "from": 44,
+            "to": 46,
+            "rule": "madd_munfasil"
+          },{
+            "from": 57,
+            "to": 58,
+            "rule": "madd_2"
+          },{
+            "from": 61,
+            "to": 62,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+            "tafseer": "فأخلص لربك صلاتك كلها، واذبح ذبيحتك له وعلى اسمه وحده.",
+            "EN_text": "So pray to your Lord and sacrifice [to Him alone].",
+            "tajweed": [{
+            "from": 20,
+            "to": 21,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+            "tafseer": "إن مبغضك ومبغض ما جئت به من الهدى والنور، هو المنقطع أثره، المقطوع من كل خير.",
+            "EN_text": "Indeed, your enemy is the one cut off.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 21,
+            "to": 22,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 26,
+            "to": 28,
+            "rule": "qalqalah"
+          }]
+          }]
+    }

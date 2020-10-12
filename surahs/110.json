@@ -1,0 +1,69 @@
+
+    {
+      "id": 110,
+      "name": {
+        "AR": "النصر",
+        "EN": ["An-Nasr", "Divine Support"]
+      },
+      "versesLength": 3,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+            "tafseer": "إذا تمَّ لك -أيها الرسول- النصر على كفار قريش، وتم لك فتح 'مكة'.",
+            "EN_text": "When the victory of Allah has come and the conquest,",
+            "tajweed": [{
+            "from": 47,
+            "to": 49,
+            "rule": "madd_muttasil"
+          },{
+            "from": 59,
+            "to": 60,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 69,
+            "to": 70,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+            "tafseer": "ورأيت الكثير من الناس يدخلون في الإسلام جماعات جماعات.",
+            "EN_text": "And you see the people entering into the religion of Allah in multitudes,",
+            "tajweed": [{
+            "from": 11,
+            "to": 12,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 12,
+            "to": 13,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 13,
+            "to": 16,
+            "rule": "ghunnah"
+          },{
+            "from": 22,
+            "to": 24,
+            "rule": "qalqalah"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ إِنَّهُۥ كَانَ تَوَّابًۢا",
+            "tafseer": "إذا وقع ذلك فتهيأ للقاء ربك بالإكثار من التسبيح بحمده والإكثار من استغفاره، إنه كان توابًا على المسبحين والمستغفرين، يتوب عليهم ويرحمهم ويقبل توبتهم.",
+            "EN_text": "Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of repentance.",
+            "tajweed": [{
+            "from": 29,
+            "to": 30,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 45,
+            "to": 48,
+            "rule": "ghunnah"
+          },{
+            "from": 50,
+            "to": 51,
+            "rule": "madd_2"
+          }]
+          }]
+    }

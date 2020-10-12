@@ -1,0 +1,138 @@
+
+    {
+      "id": 102,
+      "name": {
+        "AR": "التكاثر",
+        "EN": ["At-Takaathur", "Competition"]
+      },
+      "versesLength": 8,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+            "tafseer": "شغلكم عن طاعة الله التفاخر بكثرة الأموال والأولاد.",
+            "EN_text": "Competition in [worldly] increase diverts you",
+            "tajweed": [{
+            "from": 46,
+            "to": 47,
+            "rule": "madd_2"
+          },{
+            "from": 52,
+            "to": 53,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 53,
+            "to": 54,
+            "rule": "lam_shamsiyyah"
+          }]
+          },{
+            "AR_text": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+            "tafseer": "واستمر اشتغالكم بذلك إلى أن صرتم إلى المقابر، ودُفنتم فيها.",
+            "EN_text": "Until you visit the graveyards.",
+            "tajweed": [{
+            "from": 17,
+            "to": 18,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "كَلَّا سَوْفَ تَعْلَمُونَ",
+            "tafseer": "ما هكذا ينبغي أن يُلْهيكم التكاثر بالأموال، سوف تتبيَّنون أن الدار الآخرة خير لكم.",
+            "EN_text": "No! You are going to know.",
+            "tajweed": [{
+            "from": 22,
+            "to": 23,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+            "tafseer": "ثم احذروا سوف تعلمون سوء عاقبة انشغالكم عنها.",
+            "EN_text": "Then no! You are going to know.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+            "tafseer": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم.",
+            "EN_text": "No! If you only knew with knowledge of certainty...",
+            "tajweed": [{
+            "from": 31,
+            "to": 32,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 38,
+            "to": 39,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+            "tafseer": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم.",
+            "EN_text": "You will surely see the Hellfire.",
+            "tajweed": [{
+            "from": 8,
+            "to": 11,
+            "rule": "ghunnah"
+          },{
+            "from": 12,
+            "to": 13,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+            "tafseer": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم.",
+            "EN_text": "Then you will surely see it with the eye of certainty.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 14,
+            "to": 17,
+            "rule": "ghunnah"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+            "tafseer": "ما هكذا ينبغي أن يلهيكم التكاثر بالأموال، لو تعلمون حق العلم لانزجرتم، ولبادرتم إلى إنقاذ أنفسكم من الهلاك. لتبصرُنَّ الجحيم، ثم لتبصرُنَّها دون ريب، ثم لتسألُنَّ يوم القيامة عن كل أنواع النعيم.",
+            "EN_text": "Then you will surely be asked that Day about pleasure.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 17,
+            "to": 20,
+            "rule": "ghunnah"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 38,
+            "to": 39,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 39,
+            "to": 42,
+            "rule": "ghunnah"
+          },{
+            "from": 44,
+            "to": 45,
+            "rule": "madd_246"
+          }]
+          }]
+    }

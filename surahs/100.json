@@ -1,0 +1,225 @@
+
+    {
+      "id": 100,
+      "name": {
+        "AR": "العاديات",
+        "EN": ["Al-Aadiyaat", "The Chargers"]
+      },
+      "versesLength": 11,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَٰدِيَٰتِ ضَبْحًا",
+            "tafseer": "أقسم الله تعالى بالخيل الجاريات في سبيله نحو العدوِّ، حين يظهر صوتها من سرعة عَدْوِها. ولا يجوز للمخلوق أن يقسم إلا بالله، فإن القسم بغير الله شرك.",
+            "EN_text": "By the racers, panting,",
+            "tajweed": [{
+            "from": 41,
+            "to": 42,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 46,
+            "to": 47,
+            "rule": "madd_2"
+          },{
+            "from": 51,
+            "to": 52,
+            "rule": "madd_2"
+          },{
+            "from": 57,
+            "to": 59,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "فَٱلْمُورِيَٰتِ قَدْحًا",
+            "tafseer": "فالخيل اللاتي تنقدح النار من صلابة حوافرها؛ من شدَّة عَدْوها.",
+            "EN_text": "And the producers of sparks [when] striking",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 12,
+            "to": 13,
+            "rule": "madd_2"
+          },{
+            "from": 18,
+            "to": 20,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+            "tafseer": "فالمغيرات على الأعداء عند الصبح.",
+            "EN_text": "And the chargers at dawn,",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 12,
+            "to": 13,
+            "rule": "madd_2"
+          },{
+            "from": 18,
+            "to": 20,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+            "tafseer": "فهيَّجْنَ بهذا العَدْو غبارًا.",
+            "EN_text": "Stirring up thereby [clouds of] dust,",
+            "tajweed": [{
+            "from": 15,
+            "to": 16,
+            "rule": "madd_2"
+          },{
+            "from": 19,
+            "to": 21,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+            "tafseer": "فتوسَّطن بركبانهن جموع الأعداء.",
+            "EN_text": "Arriving thereby in the center collectively,",
+            "tajweed": [{
+            "from": 6,
+            "to": 8,
+            "rule": "qalqalah"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+            "tafseer": "إن الإنسان لِنعم ربه لَجحود، وإنه بجحوده ذلك لمقر. وإنه لحب المال لشديد.",
+            "EN_text": "Indeed mankind, to his Lord, is ungrateful.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 6,
+            "to": 7,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 11,
+            "to": 14,
+            "rule": "ikhfa"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "madd_2"
+          },{
+            "from": 27,
+            "to": 28,
+            "rule": "madd_2"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "madd_246"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+            "tafseer": "إن الإنسان لِنعم ربه لَجحود، وإنه بجحوده ذلك لمقر. وإنه لحب المال لشديد.",
+            "EN_text": "And indeed, he is to that a witness.",
+            "tajweed": [{
+            "from": 4,
+            "to": 7,
+            "rule": "ghunnah"
+          },{
+            "from": 9,
+            "to": 10,
+            "rule": "madd_2"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "madd_2"
+          },{
+            "from": 32,
+            "to": 33,
+            "rule": "madd_246"
+          },{
+            "from": 33,
+            "to": 34,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+            "tafseer": "إن الإنسان لِنعم ربه لَجحود، وإنه بجحوده ذلك لمقر. وإنه لحب المال لشديد.",
+            "EN_text": "And indeed he is, in love of wealth, intense.",
+            "tajweed": [{
+            "from": 4,
+            "to": 7,
+            "rule": "ghunnah"
+          },{
+            "from": 9,
+            "to": 10,
+            "rule": "madd_2"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 35,
+            "to": 36,
+            "rule": "madd_246"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+            "tafseer": "أفلا يعلم الإنسان ما ينتظره إذا أخرج الله الأموات من القبور للحساب والجزاء؟",
+            "EN_text": "But does he not know that when the contents of the graves are scattered",
+            "tajweed": [{
+            "from": 40,
+            "to": 41,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 47,
+            "to": 48,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+            "tafseer": "واستُخرج ما استتر في الصدور من خير أو شر.",
+            "EN_text": "And that within the breasts is obtained,",
+            "tajweed": [{
+            "from": 18,
+            "to": 19,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 25,
+            "to": 26,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+            "tafseer": "إن ربهم بهم وبأعمالهم يومئذ لخبير، لا يخفى عليه شيء من ذلك.",
+            "EN_text": "Indeed, their Lord with them, that Day, is [fully] Acquainted.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 13,
+            "to": 17,
+            "rule": "ikhfa_shafawi"
+          },{
+            "from": 31,
+            "to": 36,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "madd_246"
+          }]
+          }]
+    }

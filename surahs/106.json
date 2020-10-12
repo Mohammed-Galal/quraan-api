@@ -1,0 +1,114 @@
+
+    {
+      "id": 106,
+      "name": {
+        "AR": "قريش",
+        "EN": ["Quraish", "Quraysh"]
+      },
+      "versesLength": 4,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لِإِيلَٰفِ قُرَيْشٍ",
+            "tafseer": "اعْجَبوا لإلف قريش، وأمنهم، واستقامة مصالحهم، وانتظام رحلتيهم في الشتاء إلى 'اليمن'، وفي الصيف إلى 'الشام'، وتيسير ذلك؛ لجلب ما يحتاجون إليه.",
+            "EN_text": "For the accustomed security of the Quraysh -",
+            "tajweed": [{
+            "from": 46,
+            "to": 47,
+            "rule": "madd_2"
+          },{
+            "from": 54,
+            "to": 55,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "إِۦلَٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+            "tafseer": "اعْجَبوا لإلف قريش، وأمنهم، واستقامة مصالحهم، وانتظام رحلتيهم في الشتاء إلى 'اليمن'، وفي الصيف إلى 'الشام'، وتيسير ذلك؛ لجلب ما يحتاجون إليه.",
+            "EN_text": "Their accustomed security [in] the caravan of winter and summer -",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "madd_2"
+          },{
+            "from": 5,
+            "to": 6,
+            "rule": "madd_2"
+          },{
+            "from": 22,
+            "to": 23,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 23,
+            "to": 24,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 29,
+            "to": 31,
+            "rule": "madd_muttasil"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 41,
+            "to": 42,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَلْيَعْبُدُوا۟ رَبَّ هَٰذَا ٱلْبَيْتِ",
+            "tafseer": "فليشكروا، وليعبدوا رب هذا البيت -وهو الكعبة- الذي شرفوا به، وليوحدوه ويخلصوا له العبادة.",
+            "EN_text": "Let them worship the Lord of this House,",
+            "tajweed": [{
+            "from": 13,
+            "to": 15,
+            "rule": "silent"
+          },{
+            "from": 24,
+            "to": 25,
+            "rule": "madd_2"
+          },{
+            "from": 29,
+            "to": 30,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 34,
+            "to": 35,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+            "tafseer": "الذي أطعمهم من جوع شديد، وآمنهم من فزع وخوف عظيم.",
+            "EN_text": "Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.",
+            "tajweed": [{
+            "from": 6,
+            "to": 8,
+            "rule": "madd_munfasil"
+          },{
+            "from": 11,
+            "to": 13,
+            "rule": "qalqalah"
+          },{
+            "from": 19,
+            "to": 24,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 24,
+            "to": 28,
+            "rule": "ikhfa"
+          },{
+            "from": 30,
+            "to": 34,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 43,
+            "to": 48,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 53,
+            "to": 54,
+            "rule": "madd_246"
+          }]
+          }]
+    }

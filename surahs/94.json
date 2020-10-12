@@ -1,0 +1,102 @@
+
+    {
+      "id": 94,
+      "name": {
+        "AR": "الشرح",
+        "EN": ["Ash-Sharh", "The Consolation"]
+      },
+      "versesLength": 8,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+            "tafseer": "ألم نوسع -أيها النبي- لك صدرك لشرائع الدين، والدعوة إلى الله، والاتصاف بمكارم الأخلاق، وحططنا عنك بذلك حِمْلك الذي أثقل ظهرك، وجعلناك -بما أنعمنا عليك من المكارم- في منزلة رفيعة عالية؟",
+            "EN_text": "Did We not expand for you, [O Muhammad], your breast?",
+            "tajweed": [{
+            "from": 62,
+            "to": 64,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+            "tafseer": "ألم نوسع -أيها النبي- لك صدرك لشرائع الدين، والدعوة إلى الله، والاتصاف بمكارم الأخلاق، وحططنا عنك بذلك حِمْلك الذي أثقل ظهرك، وجعلناك -بما أنعمنا عليك من المكارم- في منزلة رفيعة عالية؟",
+            "EN_text": "And We removed from you your burden",
+            "tajweed": [{
+            "from": 14,
+            "to": 17,
+            "rule": "ikhfa"
+          }]
+          },{
+            "AR_text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+            "tafseer": "ألم نوسع -أيها النبي- لك صدرك لشرائع الدين، والدعوة إلى الله، والاتصاف بمكارم الأخلاق، وحططنا عنك بذلك حِمْلك الذي أثقل ظهرك، وجعلناك -بما أنعمنا عليك من المكارم- في منزلة رفيعة عالية؟",
+            "EN_text": "Which had weighed upon your back",
+            "tajweed": [{
+            "from": 6,
+            "to": 8,
+            "rule": "madd_munfasil"
+          },{
+            "from": 11,
+            "to": 14,
+            "rule": "ikhfa"
+          }]
+          },{
+            "AR_text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+            "tafseer": "ألم نوسع -أيها النبي- لك صدرك لشرائع الدين، والدعوة إلى الله، والاتصاف بمكارم الأخلاق، وحططنا عنك بذلك حِمْلك الذي أثقل ظهرك، وجعلناك -بما أنعمنا عليك من المكارم- في منزلة رفيعة عالية؟",
+            "EN_text": "And raised high for you your repute.",
+            "tajweed": []
+          },{
+            "AR_text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+            "tafseer": "فلا يثنك أذى أعدائك عن نشر الرسالة؛ فإن مع الضيق فرجًا، إن مع الضيق فرجًا.",
+            "EN_text": "For indeed, with hardship [will be] ease.",
+            "tajweed": [{
+            "from": 4,
+            "to": 7,
+            "rule": "ghunnah"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+            "tafseer": "فلا يثنك أذى أعدائك عن نشر الرسالة؛ فإن مع الضيق فرجًا، إن مع الضيق فرجًا.",
+            "EN_text": "Indeed, with hardship [will be] ease.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 11,
+            "to": 12,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+            "tafseer": "فإذا فرغت من أمور الدنيا وأشغالها فَجِدَّ في العبادة، وإلى ربك وحده فارغب فيما عنده.",
+            "EN_text": "So when you have finished [your duties], then stand up [for worship].",
+            "tajweed": [{
+            "from": 19,
+            "to": 20,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 20,
+            "to": 23,
+            "rule": "ikhfa"
+          },{
+            "from": 23,
+            "to": 25,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+            "tafseer": "فإذا فرغت من أمور الدنيا وأشغالها فَجِدَّ في العبادة، وإلى ربك وحده فارغب فيما عنده.",
+            "EN_text": "And to your Lord direct [your] longing.",
+            "tajweed": [{
+            "from": 19,
+            "to": 20,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 24,
+            "to": 25,
+            "rule": "qalqalah"
+          }]
+          }]
+    }

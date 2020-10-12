@@ -1,0 +1,126 @@
+
+    {
+      "id": 99,
+      "name": {
+        "AR": "الزلزلة",
+        "EN": ["Az-Zalzala", "The Earthquake"]
+      },
+      "versesLength": 8,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+            "tafseer": "إذا رُجَّت الأرض رجًّا شديدًا، وأخرجت ما في بطنها من موتى وكنوز، وتساءل الإنسان فزعًا: ما الذي حدث لها؟",
+            "EN_text": "When the earth is shaken with its [final] earthquake",
+            "tajweed": [{
+            "from": 56,
+            "to": 57,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+            "tafseer": "إذا رُجَّت الأرض رجًّا شديدًا، وأخرجت ما في بطنها من موتى وكنوز، وتساءل الإنسان فزعًا: ما الذي حدث لها؟",
+            "EN_text": "And the earth discharges its burdens",
+            "tajweed": [{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا",
+            "tafseer": "إذا رُجَّت الأرض رجًّا شديدًا، وأخرجت ما في بطنها من موتى وكنوز، وتساءل الإنسان فزعًا: ما الذي حدث لها؟",
+            "EN_text": "And man says, 'What is [wrong] with it?' -",
+            "tajweed": [{
+            "from": 8,
+            "to": 9,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 13,
+            "to": 16,
+            "rule": "ikhfa"
+          },{
+            "from": 16,
+            "to": 17,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+            "tafseer": "يوم القيامة تخبر الأرض بما عُمل عليها من خير أو شر، وبأن الله سبحانه وتعالى أمرها بأن تخبر بما عُمل عليها.",
+            "EN_text": "That Day, it will report its news",
+            "tajweed": [{
+            "from": 9,
+            "to": 13,
+            "rule": "ikhfa"
+          }]
+          },{
+            "AR_text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+            "tafseer": "يوم القيامة تخبر الأرض بما عُمل عليها من خير أو شر، وبأن الله سبحانه وتعالى أمرها بأن تخبر بما عُمل عليها.",
+            "EN_text": "Because your Lord has commanded it.",
+            "tajweed": [{
+            "from": 4,
+            "to": 7,
+            "rule": "ghunnah"
+          }]
+          },{
+            "AR_text": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَٰلَهُمْ",
+            "tafseer": "يومئذ يرجع الناس عن موقف الحساب أصنافًا متفرقين؛ ليريهم الله ما عملوا من السيئات والحسنات، ويجازيهم عليها.",
+            "EN_text": "That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.",
+            "tajweed": [{
+            "from": 9,
+            "to": 13,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 21,
+            "to": 22,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 22,
+            "to": 25,
+            "rule": "ghunnah"
+          },{
+            "from": 37,
+            "to": 43,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 49,
+            "to": 51,
+            "rule": "silent"
+          },{
+            "from": 58,
+            "to": 59,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+            "tafseer": "فمن يعمل وزن نملة صغيرة خيرًا، ير ثوابه في الآخرة، ومن يعمل وزن نملة صغيرة شرًا، ير عقابه في الآخرة.",
+            "EN_text": "So whoever does an atom's weight of good will see it,",
+            "tajweed": [{
+            "from": 4,
+            "to": 8,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 38,
+            "to": 43,
+            "rule": "idghaam_ghunnah"
+          }]
+          },{
+            "AR_text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+            "tafseer": "فمن يعمل وزن نملة صغيرة خيرًا، ير ثوابه في الآخرة، ومن يعمل وزن نملة صغيرة شرًا، ير عقابه في الآخرة.",
+            "EN_text": "And whoever does an atom's weight of evil will see it.",
+            "tajweed": [{
+            "from": 4,
+            "to": 8,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 31,
+            "to": 35,
+            "rule": "ikhfa"
+          },{
+            "from": 37,
+            "to": 42,
+            "rule": "idghaam_ghunnah"
+          }]
+          }]
+    }

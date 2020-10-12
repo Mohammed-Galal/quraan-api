@@ -1,0 +1,678 @@
+
+    {
+      "id": 73,
+      "name": {
+        "AR": "المزمل",
+        "EN": ["Al-Muzzammil", "The Enshrouded One"]
+      },
+      "versesLength": 20,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلْمُزَّمِّلُ",
+            "tafseer": "يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.",
+            "EN_text": "O you who wraps himself [in clothing],",
+            "tajweed": [{
+            "from": 41,
+            "to": 43,
+            "rule": "madd_munfasil"
+          },{
+            "from": 52,
+            "to": 53,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 60,
+            "to": 63,
+            "rule": "ghunnah"
+          }]
+          },{
+            "AR_text": "قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا",
+            "tafseer": "يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.",
+            "EN_text": "Arise [to pray] the night, except for a little -",
+            "tajweed": [{
+            "from": 5,
+            "to": 6,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا",
+            "tafseer": "يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.",
+            "EN_text": "Half of it - or subtract from it a little",
+            "tajweed": [{
+            "from": 9,
+            "to": 11,
+            "rule": "madd_munfasil"
+          },{
+            "from": 17,
+            "to": 18,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 18,
+            "to": 21,
+            "rule": "ikhfa"
+          }]
+          },{
+            "AR_text": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا",
+            "tafseer": "يا أيها المتغطي بثيابه، قم للصلاة في الليل إلا يسيرًا منه. قم نصف الليل أو انقص من النصف قليلا حتى تَصِلَ إلى الثلث، أو زد على النصف حتى تصل إلى الثلثين، واقرأ القرآن بتُؤَدَة وتمهُّلٍ مبيِّنًا الحروف والوقوف.",
+            "EN_text": "Or add to it, and recite the Qur'an with measured recitation.",
+            "tajweed": [{
+            "from": 7,
+            "to": 9,
+            "rule": "qalqalah"
+          },{
+            "from": 29,
+            "to": 30,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا",
+            "tafseer": "إنا سننزل عليك -أيها النبي- قرآنًا عظيمًا مشتملا على الأوامر والنواهي والأحكام الشرعية.",
+            "EN_text": "Indeed, We will cast upon you a heavy word.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 31,
+            "to": 36,
+            "rule": "ikhfa"
+          }]
+          },{
+            "AR_text": "إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا",
+            "tafseer": "إن العبادة التي تنشأ في جوف الليل هي أشد تأثيرًا في القلب، وأبين قولا لفراغ القلب مِن مشاغل الدنيا.",
+            "EN_text": "Indeed, the hours of the night are more effective for concurrence [of heart and tongue] and more suitable for words.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 16,
+            "to": 17,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 40,
+            "to": 42,
+            "rule": "qalqalah"
+          },{
+            "from": 44,
+            "to": 49,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 51,
+            "to": 53,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا",
+            "tafseer": "إن لك في النهار تصرفًا وتقلبًا في مصالحك، واشتغالا واسعًا بأمور الرسالة، ففرِّغْ نفسك ليلا لعبادة ربك.",
+            "EN_text": "Indeed, for you by day is prolonged occupation.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 16,
+            "to": 17,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 17,
+            "to": 20,
+            "rule": "ghunnah"
+          },{
+            "from": 28,
+            "to": 30,
+            "rule": "qalqalah"
+          },{
+            "from": 31,
+            "to": 36,
+            "rule": "ikhfa"
+          }]
+          },{
+            "AR_text": "وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+            "tafseer": "واذكر -أيها النبي- اسم ربك، فادعه به، وانقطع إليه انقطاعًا تامًا في عبادتك، وتوكل عليه. هو مالك المشرق والمغرب لا معبود بحق إلا هو، فاعتمد عليه، وفوِّض أمورك إليه.",
+            "EN_text": "And remember the name of your Lord and devote yourself to Him with [complete] devotion.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 10,
+            "to": 11,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 47,
+            "to": 49,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا",
+            "tafseer": "واذكر -أيها النبي- اسم ربك، فادعه به، وانقطع إليه انقطاعًا تامًا في عبادتك، وتوكل عليه. هو مالك المشرق والمغرب لا معبود بحق إلا هو، فاعتمد عليه، وفوِّض أمورك إليه.",
+            "EN_text": "[He is] the Lord of the East and the West; there is no deity except Him, so take Him as Disposer of [your] affairs.",
+            "tajweed": [{
+            "from": 7,
+            "to": 8,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 21,
+            "to": 22,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 35,
+            "to": 37,
+            "rule": "madd_munfasil"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "madd_2"
+          },{
+            "from": 60,
+            "to": 61,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا",
+            "tafseer": "واصبر على ما يقوله المشركون فيك وفي دينك، وخالفهم في أفعالهم الباطلة، مع الإعراض عنهم، وترك الانتقام منهم.",
+            "EN_text": "And be patient over what they say and avoid them with gracious avoidance.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 34,
+            "to": 35,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 48,
+            "to": 50,
+            "rule": "qalqalah"
+          },{
+            "from": 51,
+            "to": 56,
+            "rule": "ikhfa"
+          }]
+          },{
+            "AR_text": "وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+            "tafseer": "دعني -أيها الرسول- وهؤلاء المكذبين بآياتي أصحاب النعيم والترف في الدنيا، ومهِّلهم زمنًا قليلا بتأخير العذاب عنهم حتى يبلغ الكتاب أجله بعذابهم.",
+            "EN_text": "And leave Me with [the matter of] the deniers, those of ease [in life], and allow them respite a little.",
+            "tajweed": [{
+            "from": 12,
+            "to": 13,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 30,
+            "to": 32,
+            "rule": "silent"
+          },{
+            "from": 36,
+            "to": 37,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 38,
+            "to": 41,
+            "rule": "ghunnah"
+          }]
+          },{
+            "AR_text": "إِنَّ لَدَيْنَآ أَنكَالًا وَجَحِيمًا",
+            "tafseer": "إن لهم عندنا في الآخرة قيودًا ثقيلة ونارًا مستعرة يُحرقون بها، وطعامًا كريهًا ينشَب في الحلوق لا يستساغ، وعذابًا موجعًا.",
+            "EN_text": "Indeed, with Us [for them] are shackles and burning fire",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 14,
+            "to": 16,
+            "rule": "madd_munfasil"
+          },{
+            "from": 19,
+            "to": 22,
+            "rule": "ikhfa"
+          },{
+            "from": 24,
+            "to": 29,
+            "rule": "idghaam_ghunnah"
+          }]
+          },{
+            "AR_text": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+            "tafseer": "إن لهم عندنا في الآخرة قيودًا ثقيلة ونارًا مستعرة يُحرقون بها، وطعامًا كريهًا ينشَب في الحلوق لا يستساغ، وعذابًا موجعًا.",
+            "EN_text": "And food that chokes and a painful punishment -",
+            "tajweed": [{
+            "from": 8,
+            "to": 13,
+            "rule": "ikhfa"
+          },{
+            "from": 21,
+            "to": 25,
+            "rule": "idghaam_ghunnah"
+          }]
+          },{
+            "AR_text": "يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا",
+            "tafseer": "يوم تضطرب الأرض والجبال وتتزلزل حتى تصير الجبال تَلا من الرمل سائلا متناثرًا، بعد أن كانت صُلبة جامدة.",
+            "EN_text": "On the Day the earth and the mountains will convulse and the mountains will become a heap of sand pouring down.",
+            "tajweed": [{
+            "from": 16,
+            "to": 17,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 49,
+            "to": 50,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 66,
+            "to": 72,
+            "rule": "idghaam_ghunnah"
+          }]
+          },{
+            "AR_text": "إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا",
+            "tafseer": "إنا أرسلنا إليكم- يا أهل 'مكة'- محمدًا رسولا شاهدًا عليكم بما صدر منكم من الكفر والعصيان، كما أرسلنا موسى رسولا إلى الطاغية فرعون، فكذَّب فرعون بموسى، ولم يؤمن برسالته، وعصى أمره، فأهلكناه إهلاكًا شديدًا. وفي هذا تحذير من معصية الرسول محمد، صلى الله عليه وسلم؛ خشية أن يصيب العاصي مثل ما أصاب فرعون وقومه.",
+            "EN_text": "Indeed, We have sent to you a Messenger as a witness upon you just as We sent to Pharaoh a messenger.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 5,
+            "to": 7,
+            "rule": "madd_munfasil"
+          },{
+            "from": 18,
+            "to": 20,
+            "rule": "madd_munfasil"
+          },{
+            "from": 38,
+            "to": 43,
+            "rule": "ikhfa"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "madd_2"
+          },{
+            "from": 65,
+            "to": 67,
+            "rule": "madd_munfasil"
+          },{
+            "from": 78,
+            "to": 80,
+            "rule": "madd_munfasil"
+          }]
+          },{
+            "AR_text": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَٰهُ أَخْذًا وَبِيلًا",
+            "tafseer": "إنا أرسلنا إليكم- يا أهل 'مكة'- محمدًا رسولا شاهدًا عليكم بما صدر منكم من الكفر والعصيان، كما أرسلنا موسى رسولا إلى الطاغية فرعون، فكذَّب فرعون بموسى، ولم يؤمن برسالته، وعصى أمره، فأهلكناه إهلاكًا شديدًا. وفي هذا تحذير من معصية الرسول محمد، صلى الله عليه وسلم؛ خشية أن يصيب العاصي مثل ما أصاب فرعون وقومه.",
+            "EN_text": "But Pharaoh disobeyed the messenger, so We seized him with a ruinous seizure.",
+            "tajweed": [{
+            "from": 20,
+            "to": 21,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 21,
+            "to": 22,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 41,
+            "to": 42,
+            "rule": "madd_2"
+          },{
+            "from": 50,
+            "to": 55,
+            "rule": "idghaam_ghunnah"
+          }]
+          },{
+            "AR_text": "فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا",
+            "tafseer": "فكيف تَقُون أنفسكم- إن كفرتم- عذاب يوم القيامة الذي يشيب فيه الولدان الصغار؛ مِن شدة هوله وكربه؟",
+            "EN_text": "Then how can you fear, if you disbelieve, a Day that will make the children white- haired?",
+            "tajweed": [{
+            "from": 22,
+            "to": 26,
+            "rule": "ikhfa"
+          },{
+            "from": 40,
+            "to": 45,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 45,
+            "to": 47,
+            "rule": "qalqalah"
+          },{
+            "from": 52,
+            "to": 53,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 61,
+            "to": 62,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ كَانَ وَعْدُهُۥ مَفْعُولًا",
+            "tafseer": "السماء متصدعة في ذلك اليوم؛ لشدة هوله، كان وعد الله تعالى بمجيء ذلك اليوم واقعًا لا محالة.",
+            "EN_text": "The heaven will break apart therefrom; ever is His promise fulfilled.",
+            "tajweed": [{
+            "from": 1,
+            "to": 2,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 7,
+            "to": 9,
+            "rule": "madd_muttasil"
+          },{
+            "from": 14,
+            "to": 17,
+            "rule": "ikhfa"
+          },{
+            "from": 20,
+            "to": 24,
+            "rule": "iqlab"
+          },{
+            "from": 27,
+            "to": 28,
+            "rule": "madd_2"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "إِنَّ هَٰذِهِۦ تَذْكِرَةٌ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا",
+            "tafseer": "إن هذه الآيات المخوفة التي فيها القوارع والزواجر عظة وعبرة للناس، فمن أراد الاتعاظ والانتفاع بها اتخذ الطاعة والتقوى طريقًا توصله إلى رضوان ربه الذي خلقه وربَّاه.",
+            "EN_text": "Indeed, this is a reminder, so whoever wills may take to his Lord a way.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 8,
+            "to": 9,
+            "rule": "madd_2"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "madd_2"
+          },{
+            "from": 24,
+            "to": 28,
+            "rule": "ikhfa"
+          },{
+            "from": 30,
+            "to": 34,
+            "rule": "ikhfa"
+          },{
+            "from": 34,
+            "to": 36,
+            "rule": "madd_muttasil"
+          },{
+            "from": 39,
+            "to": 40,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 62,
+            "to": 63,
+            "rule": "madd_2"
+          }]
+          },{
+            "AR_text": "إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ وَءَاخَرُونَ يُقَٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا وَٱسْتَغْفِرُوا۟ ٱللَّهَ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+            "tafseer": "إن ربك -أيها النبي- يعلم أنك تقوم للتهجد من الليل أقل من ثلثيه حينًا، وتقوم نصفه حينًا، وتقوم ثلثه حينًا آخر، ويقوم معك طائفة من أصحابك. والله وحده هو الذي يقدِّر الليل والنهار، ويعلم مقاديرهما، وما يمضي ويبقى منهما، علم الله أنه لا يمكنكم قيام الليل كله، فخفَّف عليكم، فاقرؤوا في الصلاة بالليل ما تيسر لكم قراءته من القرآن، علم الله أنه سيوجد فيكم مَن يُعجزه المرض عن قيام الليل، ويوجد قوم آخرون يتنقَّلون في الأرض للتجارة والعمل يطلبون من رزق الله الحلال، وقوم آخرون يجاهدون في سبيل الله؛ لإعلاء كلمته ونشر دينه، فاقرؤوا في صلاتكم ما تيسَّر لكم من القرآن، وواظبوا على فرائض الصلاة، وأعطوا الزكاة الواجبة عليكم، وتصدَّقوا في وجوه البر والإحسان مِن أموالكم؛ ابتغاء وجه الله، وما تفعلوا مِن وجوه البر والخير وعمل الطاعات، تلقَوا أجره وثوابه عند الله يوم القيامة خيرًا مما قدَّمتم في الدنيا، وأعظم منه ثوابًا، واطلبوا مغفرة الله في جميع أحوالكم، إن الله غفور لكم رحيم بكم.",
+            "EN_text": "Indeed, your Lord knows, [O Muhammad], that you stand [in prayer] almost two thirds of the night or half of it or a third of it, and [so do] a group of those with you. And Allah determines [the extent of] the night and the day. He has known that you [Muslims] will not be able to do it and has turned to you in forgiveness, so recite what is easy [for you] of the Qur'an. He has known that there will be among you those who are ill and others traveling throughout the land seeking [something] of the bounty of Allah and others fighting for the cause of Allah. So recite what is easy from it and establish prayer and give zakah and loan Allah a goodly loan. And whatever good you put forward for yourselves - you will find it with Allah. It is better and greater in reward. And seek forgiveness of Allah. Indeed, Allah is Forgiving and Merciful.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 25,
+            "to": 28,
+            "rule": "ghunnah"
+          },{
+            "from": 41,
+            "to": 43,
+            "rule": "qalqalah"
+          },{
+            "from": 50,
+            "to": 54,
+            "rule": "ikhfa"
+          },{
+            "from": 61,
+            "to": 62,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 80,
+            "to": 81,
+            "rule": "madd_2"
+          },{
+            "from": 92,
+            "to": 93,
+            "rule": "madd_2"
+          },{
+            "from": 98,
+            "to": 100,
+            "rule": "madd_muttasil"
+          },{
+            "from": 105,
+            "to": 110,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 113,
+            "to": 114,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 132,
+            "to": 133,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 150,
+            "to": 151,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 161,
+            "to": 162,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 162,
+            "to": 163,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 163,
+            "to": 166,
+            "rule": "ghunnah"
+          },{
+            "from": 181,
+            "to": 186,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 186,
+            "to": 190,
+            "rule": "ikhfa"
+          },{
+            "from": 219,
+            "to": 220,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 220,
+            "to": 222,
+            "rule": "qalqalah"
+          },{
+            "from": 227,
+            "to": 229,
+            "rule": "silent"
+          },{
+            "from": 249,
+            "to": 250,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 271,
+            "to": 275,
+            "rule": "ikhfa"
+          },{
+            "from": 285,
+            "to": 288,
+            "rule": "ikhfa"
+          },{
+            "from": 288,
+            "to": 293,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 329,
+            "to": 330,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 341,
+            "to": 343,
+            "rule": "qalqalah"
+          },{
+            "from": 353,
+            "to": 357,
+            "rule": "ikhfa"
+          },{
+            "from": 362,
+            "to": 363,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 387,
+            "to": 388,
+            "rule": "madd_2"
+          },{
+            "from": 408,
+            "to": 409,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 418,
+            "to": 419,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 419,
+            "to": 421,
+            "rule": "qalqalah"
+          },{
+            "from": 426,
+            "to": 428,
+            "rule": "silent"
+          },{
+            "from": 460,
+            "to": 462,
+            "rule": "silent"
+          },{
+            "from": 463,
+            "to": 464,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 464,
+            "to": 465,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 470,
+            "to": 471,
+            "rule": "silent"
+          },{
+            "from": 471,
+            "to": 472,
+            "rule": "madd_2"
+          },{
+            "from": 483,
+            "to": 485,
+            "rule": "silent"
+          },{
+            "from": 486,
+            "to": 487,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 487,
+            "to": 488,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 493,
+            "to": 494,
+            "rule": "silent"
+          },{
+            "from": 494,
+            "to": 495,
+            "rule": "madd_2"
+          },{
+            "from": 502,
+            "to": 504,
+            "rule": "qalqalah"
+          },{
+            "from": 509,
+            "to": 511,
+            "rule": "silent"
+          },{
+            "from": 512,
+            "to": 513,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 533,
+            "to": 538,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 552,
+            "to": 554,
+            "rule": "silent"
+          },{
+            "from": 559,
+            "to": 562,
+            "rule": "ikhfa"
+          },{
+            "from": 566,
+            "to": 571,
+            "rule": "idghaam_shafawi"
+          },{
+            "from": 579,
+            "to": 583,
+            "rule": "ikhfa"
+          },{
+            "from": 593,
+            "to": 596,
+            "rule": "ikhfa"
+          },{
+            "from": 597,
+            "to": 598,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 615,
+            "to": 620,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 631,
+            "to": 633,
+            "rule": "qalqalah"
+          },{
+            "from": 634,
+            "to": 639,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 639,
+            "to": 640,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 651,
+            "to": 653,
+            "rule": "silent"
+          },{
+            "from": 654,
+            "to": 655,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 664,
+            "to": 667,
+            "rule": "ghunnah"
+          },{
+            "from": 668,
+            "to": 669,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 682,
+            "to": 687,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 689,
+            "to": 690,
+            "rule": "madd_246"
+          }]
+          }]
+    }

@@ -1,0 +1,120 @@
+
+    {
+      "id": 109,
+      "name": {
+        "AR": "الكافرون",
+        "EN": ["Al-Kaafiroon", "The Disbelievers"]
+      },
+      "versesLength": 6,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ",
+            "tafseer": "قل -أيها الرسول- للذين كفروا بالله ورسوله: يا أيها الكافرون بالله.",
+            "EN_text": "Say, 'O disbelievers,",
+            "tajweed": [{
+            "from": 46,
+            "to": 48,
+            "rule": "madd_munfasil"
+          },{
+            "from": 57,
+            "to": 58,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 62,
+            "to": 63,
+            "rule": "madd_2"
+          },{
+            "from": 67,
+            "to": 68,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+            "tafseer": "لا أعبد ما تعبدون من الأصنام والآلهة الزائفة.",
+            "EN_text": "I do not worship what you worship.",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "madd_munfasil"
+          },{
+            "from": 26,
+            "to": 27,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+            "tafseer": "ولا أنتم عابدون ما أعبد من إله واحد، هو الله رب العالمين المستحق وحده للعبادة.",
+            "EN_text": "Nor are you worshippers of what I worship.",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "madd_munfasil"
+          },{
+            "from": 9,
+            "to": 12,
+            "rule": "ikhfa"
+          },{
+            "from": 17,
+            "to": 18,
+            "rule": "madd_2"
+          },{
+            "from": 28,
+            "to": 30,
+            "rule": "madd_munfasil"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+            "tafseer": "ولا أنا عابد ما عبدتم من الأصنام والآلهة الباطلة.",
+            "EN_text": "Nor will I be a worshipper of what you worship.",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "madd_munfasil"
+          },{
+            "from": 20,
+            "to": 25,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 31,
+            "to": 32,
+            "rule": "idghaam_mutajanisayn"
+          }]
+          },{
+            "AR_text": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+            "tafseer": "ولا أنتم عابدون مستقبلا ما أعبد. وهذه الآية نزلت في أشخاص بأعيانهم من المشركين، قد علم الله أنهم لا يؤمنون أبدًا.",
+            "EN_text": "Nor will you be worshippers of what I worship.",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "madd_munfasil"
+          },{
+            "from": 9,
+            "to": 12,
+            "rule": "ikhfa"
+          },{
+            "from": 17,
+            "to": 18,
+            "rule": "madd_2"
+          },{
+            "from": 28,
+            "to": 30,
+            "rule": "madd_munfasil"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+            "tafseer": "لكم دينكم الذي أصررتم على اتباعه، ولي ديني الذي لا أبغي غيره.",
+            "EN_text": "For you is your religion, and for me is my religion.'",
+            "tajweed": [{
+            "from": 26,
+            "to": 27,
+            "rule": "madd_246"
+          }]
+          }]
+    }

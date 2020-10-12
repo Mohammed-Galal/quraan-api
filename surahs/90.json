@@ -1,0 +1,390 @@
+
+    {
+      "id": 90,
+      "name": {
+        "AR": "البلد",
+        "EN": ["Al-Balad", "The City"]
+      },
+      "versesLength": 20,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ",
+            "tafseer": "أقسم الله بهذا البلد الحرام، وهو 'مكة'، وأنت -أيها النبي- مقيم في هذا 'البلد الحرام'، وأقسم بوالد البشرية- وهو آدم عليه السلام- وما تناسل منه من ولد، لقد خلقنا الإنسان في شدة وعناء من مكابدة الدنيا.",
+            "EN_text": "I swear by this city, Makkah -",
+            "tajweed": [{
+            "from": 41,
+            "to": 43,
+            "rule": "madd_munfasil"
+          },{
+            "from": 46,
+            "to": 48,
+            "rule": "qalqalah"
+          },{
+            "from": 57,
+            "to": 58,
+            "rule": "madd_2"
+          },{
+            "from": 62,
+            "to": 63,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 69,
+            "to": 70,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ",
+            "tafseer": "أقسم الله بهذا البلد الحرام، وهو 'مكة'، وأنت -أيها النبي- مقيم في هذا 'البلد الحرام'، وأقسم بوالد البشرية- وهو آدم عليه السلام- وما تناسل منه من ولد، لقد خلقنا الإنسان في شدة وعناء من مكابدة الدنيا.",
+            "EN_text": "And you, [O Muhammad], are free of restriction in this city -",
+            "tajweed": [{
+            "from": 4,
+            "to": 7,
+            "rule": "ikhfa"
+          },{
+            "from": 12,
+            "to": 16,
+            "rule": "iqlab"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "madd_2"
+          },{
+            "from": 24,
+            "to": 25,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 31,
+            "to": 32,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَوَالِدٍ وَمَا وَلَدَ",
+            "tafseer": "أقسم الله بهذا البلد الحرام، وهو 'مكة'، وأنت -أيها النبي- مقيم في هذا 'البلد الحرام'، وأقسم بوالد البشرية- وهو آدم عليه السلام- وما تناسل منه من ولد، لقد خلقنا الإنسان في شدة وعناء من مكابدة الدنيا.",
+            "EN_text": "And [by] the father and that which was born [of him],",
+            "tajweed": [{
+            "from": 8,
+            "to": 12,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ",
+            "tafseer": "أقسم الله بهذا البلد الحرام، وهو 'مكة'، وأنت -أيها النبي- مقيم في هذا 'البلد الحرام'، وأقسم بوالد البشرية- وهو آدم عليه السلام- وما تناسل منه من ولد، لقد خلقنا الإنسان في شدة وعناء من مكابدة الدنيا.",
+            "EN_text": "We have certainly created man into hardship.",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "qalqalah"
+          },{
+            "from": 11,
+            "to": 13,
+            "rule": "qalqalah"
+          },{
+            "from": 17,
+            "to": 18,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 22,
+            "to": 25,
+            "rule": "ikhfa"
+          },{
+            "from": 25,
+            "to": 26,
+            "rule": "madd_2"
+          },{
+            "from": 37,
+            "to": 38,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+            "tafseer": "أيظنُّ بما جمعه من مال أن الله لن يقدر عليه؟",
+            "EN_text": "Does he think that never will anyone overcome him?",
+            "tajweed": [{
+            "from": 13,
+            "to": 18,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 18,
+            "to": 22,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 22,
+            "to": 24,
+            "rule": "qalqalah"
+          },{
+            "from": 42,
+            "to": 43,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+            "tafseer": "يقول متباهيًا: أنفقت مالا كثيرًا. أيظنُّ في فعله هذا أن الله عز وجل لا يراه، ولا يحاسبه على الصغير والكبير؟",
+            "EN_text": "He says, 'I have spent wealth in abundance.'",
+            "tajweed": [{
+            "from": 23,
+            "to": 29,
+            "rule": "idghaam_no_ghunnah"
+          }]
+          },{
+            "AR_text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+            "tafseer": "يقول متباهيًا: أنفقت مالا كثيرًا. أيظنُّ في فعله هذا أن الله عز وجل لا يراه، ولا يحاسبه على الصغير والكبير؟",
+            "EN_text": "Does he think that no one has seen him?",
+            "tajweed": [{
+            "from": 13,
+            "to": 18,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 27,
+            "to": 29,
+            "rule": "madd_munfasil"
+          },{
+            "from": 34,
+            "to": 35,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+            "tafseer": "ألم نجعل له عينين يبصر بهما، ولسانًا وشفتين ينطق بها، وبينَّا له سبيلَي الخير والشر؟",
+            "EN_text": "Have We not made for him two eyes?",
+            "tajweed": [{
+            "from": 9,
+            "to": 11,
+            "rule": "qalqalah"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "madd_2"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَلِسَانًا وَشَفَتَيْنِ",
+            "tafseer": "ألم نجعل له عينين يبصر بهما، ولسانًا وشفتين ينطق بها، وبينَّا له سبيلَي الخير والشر؟",
+            "EN_text": "And a tongue and two lips?",
+            "tajweed": [{
+            "from": 8,
+            "to": 13,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+            "tafseer": "ألم نجعل له عينين يبصر بهما، ولسانًا وشفتين ينطق بها، وبينَّا له سبيلَي الخير والشر؟",
+            "EN_text": "And have shown him the two ways?",
+            "tajweed": [{
+            "from": 10,
+            "to": 11,
+            "rule": "madd_2"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 15,
+            "to": 16,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 16,
+            "to": 19,
+            "rule": "ghunnah"
+          },{
+            "from": 19,
+            "to": 21,
+            "rule": "qalqalah"
+          },{
+            "from": 23,
+            "to": 24,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+            "tafseer": "فهلا تجاوز مشقة الآخرة بإنفاق ماله، فيأمن.",
+            "EN_text": "But he has not broken through the difficult pass.",
+            "tajweed": [{
+            "from": 6,
+            "to": 7,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 7,
+            "to": 9,
+            "rule": "qalqalah"
+          },{
+            "from": 16,
+            "to": 17,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+            "tafseer": "وأيُّ شيء أعلمك: ما مشقة الآخرة، وما يعين على تجاوزها؟",
+            "EN_text": "And what can make you know what is [breaking through] the difficult pass?",
+            "tajweed": [{
+            "from": 4,
+            "to": 6,
+            "rule": "madd_munfasil"
+          },{
+            "from": 9,
+            "to": 11,
+            "rule": "qalqalah"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "madd_2"
+          },{
+            "from": 22,
+            "to": 23,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "فَكُّ رَقَبَةٍ",
+            "tafseer": "إنه عتق رقبة مؤمنة من أسر الرِّق.",
+            "EN_text": "It is the freeing of a slave",
+            "tajweed": []
+          },{
+            "AR_text": "أَوْ إِطْعَٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+            "tafseer": "أو إطعام في يوم ذي مجاعة شديدة، يتيمًا من ذوي القرابة يجتمع فيه فضل الصدقة وصلة الرحم، أو فقيرًا معدمًا لا شيء عنده.",
+            "EN_text": "Or feeding on a day of severe hunger",
+            "tajweed": [{
+            "from": 7,
+            "to": 9,
+            "rule": "qalqalah"
+          },{
+            "from": 11,
+            "to": 12,
+            "rule": "madd_2"
+          },{
+            "from": 13,
+            "to": 17,
+            "rule": "ikhfa"
+          },{
+            "from": 24,
+            "to": 28,
+            "rule": "ikhfa"
+          }]
+          },{
+            "AR_text": "يَتِيمًا ذَا مَقْرَبَةٍ",
+            "tafseer": "أو إطعام في يوم ذي مجاعة شديدة، يتيمًا من ذوي القرابة يجتمع فيه فضل الصدقة وصلة الرحم، أو فقيرًا معدمًا لا شيء عنده.",
+            "EN_text": "An orphan of near relationship",
+            "tajweed": [{
+            "from": 6,
+            "to": 11,
+            "rule": "ikhfa"
+          },{
+            "from": 15,
+            "to": 17,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+            "tafseer": "أو إطعام في يوم ذي مجاعة شديدة، يتيمًا من ذوي القرابة يجتمع فيه فضل الصدقة وصلة الرحم، أو فقيرًا معدمًا لا شيء عنده.",
+            "EN_text": "Or a needy person in misery",
+            "tajweed": [{
+            "from": 13,
+            "to": 18,
+            "rule": "ikhfa"
+          }]
+          },{
+            "AR_text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+            "tafseer": "ثم كان مع فِعْل ما ذُكر من أعمال الخير من الذين أخلصوا الإيمان لله، وأوصى بعضهم بعضًا بالصبر على طاعة الله وعن معاصيه، وتواصوا بالرحمة بالخلق.",
+            "EN_text": "And then being among those who believed and advised one another to patience and advised one another to compassion.",
+            "tajweed": [{
+            "from": 2,
+            "to": 5,
+            "rule": "ghunnah"
+          },{
+            "from": 17,
+            "to": 18,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 35,
+            "to": 37,
+            "rule": "silent"
+          },{
+            "from": 49,
+            "to": 51,
+            "rule": "silent"
+          },{
+            "from": 54,
+            "to": 55,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 55,
+            "to": 56,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 59,
+            "to": 61,
+            "rule": "qalqalah"
+          },{
+            "from": 75,
+            "to": 77,
+            "rule": "silent"
+          },{
+            "from": 80,
+            "to": 81,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+            "tafseer": "الذين فعلوا هذه الأفعال، هم أصحاب اليمين، الذين يؤخذ بهم يوم القيامة ذات اليمين إلى الجنة.",
+            "EN_text": "Those are the companions of the right.",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "silent"
+          },{
+            "from": 6,
+            "to": 8,
+            "rule": "madd_muttasil"
+          },{
+            "from": 19,
+            "to": 20,
+            "rule": "madd_2"
+          },{
+            "from": 23,
+            "to": 24,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+            "tafseer": "والذين كفروا بالقرآن هم الذين يؤخذ بهم يوم القيامة ذات الشمال إلى النار.",
+            "EN_text": "But they who disbelieved in Our signs - those are the companions of the left.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 19,
+            "to": 21,
+            "rule": "silent"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "madd_2"
+          },{
+            "from": 48,
+            "to": 49,
+            "rule": "madd_2"
+          },{
+            "from": 52,
+            "to": 53,
+            "rule": "hamzat_wasl"
+          }]
+          },{
+            "AR_text": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+            "tafseer": "جزاؤهم جهنم مطبَقةٌ مغلقة عليهم.",
+            "EN_text": "Over them will be fire closed in.",
+            "tajweed": [{
+            "from": 15,
+            "to": 20,
+            "rule": "idghaam_ghunnah"
+          }]
+          }]
+    }

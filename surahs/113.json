@@ -1,0 +1,99 @@
+
+    {
+      "id": 113,
+      "name": {
+        "AR": "الفلق",
+        "EN": ["Al-Falaq", "The Dawn"]
+      },
+      "versesLength": 5,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+            "tafseer": "قل -أيها الرسول-: أعوذ وأعتصم برب الفلق، وهو الصبح.",
+            "EN_text": "Say, 'I seek refuge in the Lord of daybreak",
+            "tajweed": [{
+            "from": 60,
+            "to": 61,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 67,
+            "to": 68,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "مِن شَرِّ مَا خَلَقَ",
+            "tafseer": "من شر جميع المخلوقات وأذاها.",
+            "EN_text": "From the evil of that which He created",
+            "tajweed": [{
+            "from": 2,
+            "to": 6,
+            "rule": "ikhfa"
+          },{
+            "from": 18,
+            "to": 19,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+            "tafseer": "ومن شر ليل شديد الظلمة إذا دخل وتغلغل، وما فيه من الشرور والمؤذيات.",
+            "EN_text": "And from the evil of darkness when it settles",
+            "tajweed": [{
+            "from": 4,
+            "to": 8,
+            "rule": "ikhfa"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+            "tafseer": "ومن شر الساحرات اللاتي ينفخن فيما يعقدن من عُقَد بقصد السحر.",
+            "EN_text": "And from the evil of the blowers in knots",
+            "tajweed": [{
+            "from": 4,
+            "to": 8,
+            "rule": "ikhfa"
+          },{
+            "from": 12,
+            "to": 13,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 14,
+            "to": 17,
+            "rule": "ghunnah"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "madd_2"
+          },{
+            "from": 23,
+            "to": 24,
+            "rule": "madd_2"
+          },{
+            "from": 31,
+            "to": 32,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 38,
+            "to": 39,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+            "tafseer": "ومن شر حاسد مبغض للناس إذا حسدهم على ما وهبهم الله من نعم، وأراد زوالها عنهم، وإيقاع الأذى بهم.",
+            "EN_text": "And from the evil of an envier when he envies.'",
+            "tajweed": [{
+            "from": 4,
+            "to": 8,
+            "rule": "ikhfa"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "qalqalah"
+          }]
+          }]
+    }

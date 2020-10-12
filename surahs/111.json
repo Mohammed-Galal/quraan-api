@@ -1,0 +1,103 @@
+
+    {
+      "id": 111,
+      "name": {
+        "AR": "المسد",
+        "EN": ["Al-Masad", "The Palm Fibre"]
+      },
+      "versesLength": 5,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+            "tafseer": "خسرت يدا أبي لهب وشقي بإيذائه رسول الله محمدا صلى الله عليه وسلم، وقد تحقق خسران أبي لهب.",
+            "EN_text": "May the hands of Abu Lahab be ruined, and ruined is he.",
+            "tajweed": [{
+            "from": 51,
+            "to": 53,
+            "rule": "madd_munfasil"
+          },{
+            "from": 65,
+            "to": 69,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 71,
+            "to": 72,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+            "tafseer": "ما أغنى عنه ماله وولده، فلن يَرُدَّا عنه شيئًا من عذاب الله إذا نزل به.",
+            "EN_text": "His wealth will not avail him or that which he gained.",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "madd_munfasil"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "madd_2"
+          },{
+            "from": 40,
+            "to": 41,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+            "tafseer": "سيدخل نارًا متأججة، هو وامرأته التي كانت تحمل الشوك، فتطرحه في طريق النبي صلى الله عليه وسلم؛ لأذيَّته.",
+            "EN_text": "He will [enter to] burn in a Fire of [blazing] flame",
+            "tajweed": [{
+            "from": 15,
+            "to": 20,
+            "rule": "ikhfa"
+          },{
+            "from": 28,
+            "to": 29,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+            "tafseer": "سيدخل نارًا متأججة، هو وامرأته التي كانت تحمل الشوك، فتطرحه في طريق النبي صلى الله عليه وسلم؛ لأذيَّته.",
+            "EN_text": "And his wife [as well] - the carrier of firewood.",
+            "tajweed": [{
+            "from": 2,
+            "to": 3,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "madd_2"
+          },{
+            "from": 17,
+            "to": 20,
+            "rule": "ghunnah"
+          },{
+            "from": 26,
+            "to": 27,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 33,
+            "to": 34,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+            "tafseer": "في عنقها حبل محكم الفَتْلِ مِن ليف شديد خشن، تُرْفَع به في نار جهنم، ثم تُرْمى إلى أسفلها.",
+            "EN_text": "Around her neck is a rope of [twisted] fiber.",
+            "tajweed": [{
+            "from": 15,
+            "to": 17,
+            "rule": "qalqalah"
+          },{
+            "from": 18,
+            "to": 23,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 23,
+            "to": 28,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 30,
+            "to": 31,
+            "rule": "qalqalah"
+          }]
+          }]
+    }

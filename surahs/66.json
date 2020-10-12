@@ -1,0 +1,870 @@
+
+    {
+      "id": 66,
+      "name": {
+        "AR": "التحريم",
+        "EN": ["At-Tahrim", "The Prohibition"]
+      },
+      "versesLength": 12,
+      "verses": [{
+            "AR_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+            "tafseer": "يا أيها النبي لِمَ تمنع نفسك عن الحلال الذي أحله الله لك، تبتغي إرضاء زوجاتك؟ والله غفور لك، رحيم بك.",
+            "EN_text": "O Prophet, why do you prohibit [yourself from] what Allah has made lawful for you, seeking the approval of your wives? And Allah is Forgiving and Merciful.",
+            "tajweed": [{
+            "from": 41,
+            "to": 43,
+            "rule": "madd_munfasil"
+          },{
+            "from": 52,
+            "to": 53,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 53,
+            "to": 54,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 54,
+            "to": 57,
+            "rule": "ghunnah"
+          },{
+            "from": 80,
+            "to": 82,
+            "rule": "madd_munfasil"
+          },{
+            "from": 91,
+            "to": 92,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 106,
+            "to": 108,
+            "rule": "qalqalah"
+          },{
+            "from": 130,
+            "to": 131,
+            "rule": "madd_2"
+          },{
+            "from": 138,
+            "to": 139,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 152,
+            "to": 157,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 159,
+            "to": 160,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَٰنِكُمْ وَٱللَّهُ مَوْلَىٰكُمْ وَهُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+            "tafseer": "قد شرع الله لكم -أيها المؤمنون- تحليل أيمانكم بأداء الكفارة عنها، وهي: إطعام عشرة مساكين، أو كسوتهم، أو تحرير رقبة، فمن لم يجد فصيام ثلاثة أيام. والله ناصركم ومتولي أموركم، وهو العليم بما يصلحكم فيشرعه لكم، الحكيم في أقواله وأفعاله.",
+            "EN_text": "Allah has already ordained for you [Muslims] the dissolution of your oaths. And Allah is your protector, and He is the Knowing, the Wise.",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "qalqalah"
+          },{
+            "from": 12,
+            "to": 13,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 43,
+            "to": 44,
+            "rule": "madd_2"
+          },{
+            "from": 53,
+            "to": 54,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 68,
+            "to": 69,
+            "rule": "madd_2"
+          },{
+            "from": 81,
+            "to": 82,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 92,
+            "to": 93,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 99,
+            "to": 100,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ هَٰذَا قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ",
+            "tafseer": "وإذ أسرَّ النبي إلى زوجته حفصة - رضي الله عنها- حديثا، فلما أخبرت به عائشة رضي الله عنها، وأطلعه الله على إفشائها سرَّه، أعلم حفصة بعض ما أخبرت به، وأعرض عن إعلامها بعضه تكرما، فلما أخبرها بما أفشت من الحديث، قالت: مَن أخبرك بهذا؟ قال: أخبرني به الله العليم الخبير، الذي لا تخفى عليه خافية.",
+            "EN_text": "And [remember] when the Prophet confided to one of his wives a statement; and when she informed [another] of it and Allah showed it to him, he made known part of it and ignored a part. And when he informed her about it, she said, 'Who told you this?' He said, 'I was informed by the Knowing, the Acquainted.'",
+            "tajweed": [{
+            "from": 15,
+            "to": 16,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 16,
+            "to": 17,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 17,
+            "to": 20,
+            "rule": "ghunnah"
+          },{
+            "from": 46,
+            "to": 47,
+            "rule": "madd_2"
+          },{
+            "from": 51,
+            "to": 52,
+            "rule": "madd_2"
+          },{
+            "from": 59,
+            "to": 64,
+            "rule": "ikhfa"
+          },{
+            "from": 66,
+            "to": 69,
+            "rule": "ghunnah"
+          },{
+            "from": 85,
+            "to": 86,
+            "rule": "madd_2"
+          },{
+            "from": 100,
+            "to": 101,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 133,
+            "to": 134,
+            "rule": "madd_2"
+          },{
+            "from": 149,
+            "to": 152,
+            "rule": "iqlab"
+          },{
+            "from": 156,
+            "to": 160,
+            "rule": "ikhfa"
+          },{
+            "from": 162,
+            "to": 165,
+            "rule": "ghunnah"
+          },{
+            "from": 182,
+            "to": 183,
+            "rule": "madd_2"
+          },{
+            "from": 200,
+            "to": 202,
+            "rule": "iqlab"
+          },{
+            "from": 210,
+            "to": 211,
+            "rule": "madd_2"
+          },{
+            "from": 233,
+            "to": 234,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 244,
+            "to": 245,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 251,
+            "to": 252,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا وَإِن تَظَٰهَرَا عَلَيْهِ فَإِنَّ ٱللَّهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَٰلِحُ ٱلْمُؤْمِنِينَ وَٱلْمَلَٰٓئِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+            "tafseer": "إن ترجعا (حفصة وعائشة) إلى الله فقد وُجد منكما ما يوجب التوبة حيث مالت قلوبكما إلى محبة ما كرهه رسول الله صلى الله عليه وسلم، من إفشاء سرِّه، وإن تتعاونا عليه بما يسوءه، فإن الله وليه وناصره، وجبريل وصالح المؤمنين، والملائكة بعد نصرة الله أعوان له ونصراء على مَن يؤذيه ويعاديه.",
+            "EN_text": "If you two [wives] repent to Allah, [it is best], for your hearts have deviated. But if you cooperate against him - then indeed Allah is his protector, and Gabriel and the righteous of the believers and the angels, moreover, are [his] assistants.",
+            "tajweed": [{
+            "from": 2,
+            "to": 6,
+            "rule": "ikhfa"
+          },{
+            "from": 11,
+            "to": 13,
+            "rule": "madd_munfasil"
+          },{
+            "from": 20,
+            "to": 21,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 32,
+            "to": 34,
+            "rule": "qalqalah"
+          },{
+            "from": 59,
+            "to": 63,
+            "rule": "ikhfa"
+          },{
+            "from": 65,
+            "to": 66,
+            "rule": "madd_2"
+          },{
+            "from": 85,
+            "to": 88,
+            "rule": "ghunnah"
+          },{
+            "from": 89,
+            "to": 90,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 109,
+            "to": 110,
+            "rule": "madd_2"
+          },{
+            "from": 117,
+            "to": 119,
+            "rule": "qalqalah"
+          },{
+            "from": 129,
+            "to": 130,
+            "rule": "madd_2"
+          },{
+            "from": 135,
+            "to": 136,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 152,
+            "to": 153,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 159,
+            "to": 161,
+            "rule": "madd_muttasil"
+          },{
+            "from": 177,
+            "to": 178,
+            "rule": "madd_2"
+          },{
+            "from": 187,
+            "to": 188,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُۥٓ أَزْوَٰجًا خَيْرًا مِّنكُنَّ مُسْلِمَٰتٍ مُّؤْمِنَٰتٍ قَٰنِتَٰتٍ تَٰٓئِبَٰتٍ عَٰبِدَٰتٍ سَٰٓئِحَٰتٍ ثَيِّبَٰتٍ وَأَبْكَارًا",
+            "tafseer": "عسى ربُّه إن طلقكنَّ- أيتها الزوجات- أن يزوِّجه بدلا منكن زوجات خاضعات لله بالطاعة، مؤمنات بالله ورسوله، مطيعات لله، راجعات إلى ما يحبه الله مِن طاعته، كثيرات العبادة له، صائمات، منهنَّ الثيِّبات، ومنهن الأبكار.",
+            "EN_text": "Perhaps his Lord, if he divorced you [all], would substitute for him wives better than you - submitting [to Allah], believing, devoutly obedient, repentant, worshipping, and traveling - [ones] previously married and virgins.",
+            "tajweed": [{
+            "from": 14,
+            "to": 16,
+            "rule": "madd_munfasil"
+          },{
+            "from": 19,
+            "to": 23,
+            "rule": "ikhfa"
+          },{
+            "from": 30,
+            "to": 33,
+            "rule": "ghunnah"
+          },{
+            "from": 36,
+            "to": 40,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 40,
+            "to": 42,
+            "rule": "qalqalah"
+          },{
+            "from": 48,
+            "to": 50,
+            "rule": "madd_munfasil"
+          },{
+            "from": 57,
+            "to": 58,
+            "rule": "madd_2"
+          },{
+            "from": 67,
+            "to": 73,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 73,
+            "to": 76,
+            "rule": "ikhfa"
+          },{
+            "from": 76,
+            "to": 79,
+            "rule": "ghunnah"
+          },{
+            "from": 88,
+            "to": 89,
+            "rule": "madd_2"
+          },{
+            "from": 90,
+            "to": 95,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 101,
+            "to": 102,
+            "rule": "madd_2"
+          },{
+            "from": 103,
+            "to": 107,
+            "rule": "ikhfa"
+          },{
+            "from": 107,
+            "to": 108,
+            "rule": "madd_2"
+          },{
+            "from": 112,
+            "to": 113,
+            "rule": "madd_2"
+          },{
+            "from": 114,
+            "to": 118,
+            "rule": "ikhfa"
+          },{
+            "from": 118,
+            "to": 120,
+            "rule": "madd_muttasil"
+          },{
+            "from": 124,
+            "to": 125,
+            "rule": "madd_2"
+          },{
+            "from": 130,
+            "to": 131,
+            "rule": "madd_2"
+          },{
+            "from": 135,
+            "to": 136,
+            "rule": "madd_2"
+          },{
+            "from": 137,
+            "to": 141,
+            "rule": "ikhfa"
+          },{
+            "from": 141,
+            "to": 143,
+            "rule": "madd_muttasil"
+          },{
+            "from": 147,
+            "to": 148,
+            "rule": "madd_2"
+          },{
+            "from": 149,
+            "to": 153,
+            "rule": "ikhfa"
+          },{
+            "from": 158,
+            "to": 159,
+            "rule": "madd_2"
+          },{
+            "from": 160,
+            "to": 164,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 166,
+            "to": 168,
+            "rule": "qalqalah"
+          }]
+          },{
+            "AR_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَٰٓئِكَةٌ غِلَاظٌ شِدَادٌ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+            "tafseer": "يا أيها الذين صدَّقوا الله ورسوله وعملوا بشرعه، احفظوا أنفسكم بفعل ما أمركم الله به وترك ما نهاكم عنه، واحفظوا أهليكم بما تحفظون به أنفسكم من نار وقودها الناس والحجارة، يقوم على تعذيب أهلها ملائكة أقوياء قساة في معاملاتهم، لا يخالفون الله في أمره، وينفذون ما يؤمرون به.",
+            "EN_text": "O you who have believed, protect yourselves and your families from a Fire whose fuel is people and stones, over which are [appointed] angels, harsh and severe; they do not disobey Allah in what He commands them but do what they are commanded.",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "madd_munfasil"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 31,
+            "to": 33,
+            "rule": "silent"
+          },{
+            "from": 36,
+            "to": 38,
+            "rule": "madd_munfasil"
+          },{
+            "from": 38,
+            "to": 40,
+            "rule": "silent"
+          },{
+            "from": 43,
+            "to": 46,
+            "rule": "ikhfa"
+          },{
+            "from": 71,
+            "to": 76,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 85,
+            "to": 86,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 86,
+            "to": 87,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 87,
+            "to": 90,
+            "rule": "ghunnah"
+          },{
+            "from": 96,
+            "to": 97,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 123,
+            "to": 125,
+            "rule": "madd_muttasil"
+          },{
+            "from": 138,
+            "to": 142,
+            "rule": "ikhfa"
+          },{
+            "from": 146,
+            "to": 151,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 163,
+            "to": 164,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 173,
+            "to": 175,
+            "rule": "madd_munfasil"
+          },{
+            "from": 213,
+            "to": 214,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يَٰٓأَيُّهَا ٱلَّذِينَ كَفَرُوا۟ لَا تَعْتَذِرُوا۟ ٱلْيَوْمَ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+            "tafseer": "ويقال للذين جحدوا أن الله هو الإله الحق وكفروا به عند إدخالهم النار: لا تلتمسوا المعاذير في هذا اليوم؛ إنما تعطون جزاء الذي كنتم تعملونه في الدنيا.",
+            "EN_text": "O you who have disbelieved, make no excuses that Day. You will only be recompensed for what you used to do.",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "madd_munfasil"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 30,
+            "to": 32,
+            "rule": "silent"
+          },{
+            "from": 48,
+            "to": 50,
+            "rule": "silent"
+          },{
+            "from": 51,
+            "to": 52,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 63,
+            "to": 66,
+            "rule": "ghunnah"
+          },{
+            "from": 72,
+            "to": 74,
+            "rule": "qalqalah"
+          },{
+            "from": 87,
+            "to": 90,
+            "rule": "ikhfa"
+          },{
+            "from": 101,
+            "to": 102,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةً نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+            "tafseer": "يا أيها الذين صدَّقوا الله ورسوله وعملوا بشرعه، ارجعوا عن ذنوبكم إلى طاعة الله رجوعا لا معصية بعده، عسى ربكم أن يمحو عنكم سيئات أعمالكم، وأن يدخلكم جنات تجري من تحت قصورها الأنهار، يوم لا يخزي الله النبي والذين آمنوا معه، ولا يعذبهم، بل يُعلي شأنهم، نور هؤلاء يسير أمامهم وبأيمانهم، يقولون: ربنا أتمم لنا نورنا حتى نجوز الصراط، ونهتدي إلى الجنة، واعف عنَّا وتجاوز عن ذنوبنا واسترها علينا، إنك على كل شيء قدير.",
+            "EN_text": "O you who have believed, repent to Allah with sincere repentance. Perhaps your Lord will remove from you your misdeeds and admit you into gardens beneath which rivers flow [on] the Day when Allah will not disgrace the Prophet and those who believed with him. Their light will proceed before them and on their right; they will say, 'Our Lord, perfect for us our light and forgive us. Indeed, You are over all things competent.'",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "madd_munfasil"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 31,
+            "to": 33,
+            "rule": "silent"
+          },{
+            "from": 39,
+            "to": 41,
+            "rule": "madd_munfasil"
+          },{
+            "from": 41,
+            "to": 43,
+            "rule": "silent"
+          },{
+            "from": 50,
+            "to": 51,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 65,
+            "to": 70,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 96,
+            "to": 100,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 110,
+            "to": 113,
+            "rule": "ikhfa"
+          },{
+            "from": 136,
+            "to": 138,
+            "rule": "qalqalah"
+          },{
+            "from": 149,
+            "to": 152,
+            "rule": "ghunnah"
+          },{
+            "from": 152,
+            "to": 153,
+            "rule": "madd_2"
+          },{
+            "from": 154,
+            "to": 158,
+            "rule": "ikhfa"
+          },{
+            "from": 158,
+            "to": 160,
+            "rule": "qalqalah"
+          },{
+            "from": 166,
+            "to": 170,
+            "rule": "ikhfa"
+          },{
+            "from": 178,
+            "to": 179,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 187,
+            "to": 188,
+            "rule": "madd_2"
+          },{
+            "from": 210,
+            "to": 211,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 218,
+            "to": 219,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 219,
+            "to": 220,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 220,
+            "to": 223,
+            "rule": "ghunnah"
+          },{
+            "from": 231,
+            "to": 232,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 249,
+            "to": 251,
+            "rule": "silent"
+          },{
+            "from": 258,
+            "to": 259,
+            "rule": "madd_2"
+          },{
+            "from": 308,
+            "to": 309,
+            "rule": "madd_2"
+          },{
+            "from": 334,
+            "to": 336,
+            "rule": "madd_munfasil"
+          },{
+            "from": 363,
+            "to": 364,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 375,
+            "to": 377,
+            "rule": "madd_munfasil"
+          },{
+            "from": 380,
+            "to": 383,
+            "rule": "ghunnah"
+          },{
+            "from": 404,
+            "to": 408,
+            "rule": "ikhfa"
+          },{
+            "from": 410,
+            "to": 411,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "يَٰٓأَيُّهَا ٱلنَّبِىُّ جَٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ وَمَأْوَىٰهُمْ جَهَنَّمُ وَبِئْسَ ٱلْمَصِيرُ",
+            "tafseer": "يا أيها النبي جاهد الذين أظهروا الكفر وأعلنوه، وقاتلهم بالسيف، وجاهد الذين أبطنوا الكفر وأخفوه بالحجة وإقامة الحدود وشعائر الدين، واستعمل مع الفريقين الشدة والخشونة في جهادهما، ومسكنهم الذي يصيرون إليه في الآخرة جهنم، وقَبُح ذلك المرجع الذي يرجعون إليه.",
+            "EN_text": "O Prophet, strive against the disbelievers and the hypocrites and be harsh upon them. And their refuge is Hell, and wretched is the destination.",
+            "tajweed": [{
+            "from": 2,
+            "to": 4,
+            "rule": "madd_munfasil"
+          },{
+            "from": 13,
+            "to": 14,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 14,
+            "to": 15,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 15,
+            "to": 18,
+            "rule": "ghunnah"
+          },{
+            "from": 26,
+            "to": 27,
+            "rule": "madd_2"
+          },{
+            "from": 32,
+            "to": 33,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 46,
+            "to": 47,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 53,
+            "to": 54,
+            "rule": "madd_2"
+          },{
+            "from": 64,
+            "to": 65,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 92,
+            "to": 93,
+            "rule": "madd_2"
+          },{
+            "from": 102,
+            "to": 105,
+            "rule": "ghunnah"
+          },{
+            "from": 117,
+            "to": 118,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 124,
+            "to": 125,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍ وَٱمْرَأَتَ لُوطٍ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+            "tafseer": "ضرب الله مثلا لحال الكفرة - في مخالطتهم المسلمين وقربهم منهم ومعاشرتهم لهم، وأن ذلك لا ينفعهم لكفرهم بالله- بحال زوجة نبي الله نوح، وزوجة نبي الله لوط: حيث كانتا في عصمة عبدَين من عبادنا صالحين، فوقعت منهما الخيانة لهما في الدين، فقد كانتا كافرتين، فلم يدفع هذان الرسولان عن زوجتيهما من عذاب الله شيئًا، وقيل للزوجتين: ادخلا النار مع الداخلين فيها. وفي ضرب هذا المثل دليل على أن القرب من الأنبياء، والصالحين، لا يفيد شيئا مع العمل السيِّئ.",
+            "EN_text": "Allah presents an example of those who disbelieved: the wife of Noah and the wife of Lot. They were under two of Our righteous servants but betrayed them, so those prophets did not avail them from Allah at all, and it was said, 'Enter the Fire with those who enter.'",
+            "tajweed": [{
+            "from": 7,
+            "to": 8,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 20,
+            "to": 26,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 42,
+            "to": 44,
+            "rule": "silent"
+          },{
+            "from": 45,
+            "to": 46,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 59,
+            "to": 63,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 63,
+            "to": 64,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 77,
+            "to": 81,
+            "rule": "ikhfa"
+          },{
+            "from": 97,
+            "to": 99,
+            "rule": "qalqalah"
+          },{
+            "from": 124,
+            "to": 125,
+            "rule": "madd_2"
+          },{
+            "from": 182,
+            "to": 183,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 196,
+            "to": 201,
+            "rule": "idghaam_ghunnah"
+          },{
+            "from": 207,
+            "to": 208,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 208,
+            "to": 210,
+            "rule": "qalqalah"
+          },{
+            "from": 216,
+            "to": 217,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 217,
+            "to": 218,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 218,
+            "to": 221,
+            "rule": "ghunnah"
+          },{
+            "from": 230,
+            "to": 231,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 231,
+            "to": 232,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 235,
+            "to": 236,
+            "rule": "madd_2"
+          },{
+            "from": 240,
+            "to": 241,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّٰلِمِينَ",
+            "tafseer": "وضرب الله مثلا لحال المؤمنين- الذين صدَّقوا الله، وعبدوه وحده، وعملوا بشرعه، وأنهم لا تضرهم مخالطة الكافرين في معاملتهم- بحال زوجة فرعون التي كانت في عصمة أشد الكافرين بالله، وهي مؤمنة بالله، حين قالت: رب ابْنِ لي دارًا عندك في الجنة، وأنقذني من سلطان فرعون وفتنته، ومما يصدر عنه من أعمال الشر، وأنقذني من القوم التابعين له في الظلم والضلال، ومن عذابهم.",
+            "EN_text": "And Allah presents an example of those who believed: the wife of Pharaoh, when she said, 'My Lord, build for me near You a house in Paradise and save me from Pharaoh and his deeds and save me from the wrongdoing people.'",
+            "tajweed": [{
+            "from": 9,
+            "to": 10,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 22,
+            "to": 28,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 45,
+            "to": 47,
+            "rule": "silent"
+          },{
+            "from": 48,
+            "to": 49,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 88,
+            "to": 89,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 89,
+            "to": 91,
+            "rule": "qalqalah"
+          },{
+            "from": 100,
+            "to": 103,
+            "rule": "ikhfa"
+          },{
+            "from": 111,
+            "to": 116,
+            "rule": "ikhfa"
+          },{
+            "from": 118,
+            "to": 119,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 123,
+            "to": 126,
+            "rule": "ghunnah"
+          },{
+            "from": 142,
+            "to": 146,
+            "rule": "ikhfa"
+          },{
+            "from": 165,
+            "to": 166,
+            "rule": "madd_2"
+          },{
+            "from": 183,
+            "to": 184,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 193,
+            "to": 194,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 194,
+            "to": 195,
+            "rule": "lam_shamsiyyah"
+          },{
+            "from": 198,
+            "to": 199,
+            "rule": "madd_2"
+          },{
+            "from": 203,
+            "to": 204,
+            "rule": "madd_246"
+          }]
+          },{
+            "AR_text": "وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَٰنِتِينَ",
+            "tafseer": "وضرب الله مثلا للذين آمنوا مريم بنت عمران التي حفظت فرجها، وصانته عن الزنى، فأمر الله تعالى جبريل عليه السلام أن ينفخ في جيب قميصها، فوصلت النفخة إلى رحمها، فحملت بعيسى عليه السلام، وصدَّقت بكلمات ربها، وعملت بشرائعه التي شرعها لعباده، وكتبه المنزلة على رسله، وكانت من المطيعين له.",
+            "EN_text": "And [the example of] Mary, the daughter of 'Imran, who guarded her chastity, so We blew into [her garment] through Our angel, and she believed in the words of her Lord and His scriptures and was of the devoutly obedient.",
+            "tajweed": [{
+            "from": 11,
+            "to": 12,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 12,
+            "to": 14,
+            "rule": "qalqalah"
+          },{
+            "from": 25,
+            "to": 26,
+            "rule": "madd_2"
+          },{
+            "from": 29,
+            "to": 30,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 35,
+            "to": 37,
+            "rule": "madd_munfasil"
+          },{
+            "from": 79,
+            "to": 84,
+            "rule": "idghaam_no_ghunnah"
+          },{
+            "from": 111,
+            "to": 112,
+            "rule": "madd_2"
+          },{
+            "from": 134,
+            "to": 135,
+            "rule": "madd_2"
+          },{
+            "from": 151,
+            "to": 152,
+            "rule": "hamzat_wasl"
+          },{
+            "from": 156,
+            "to": 157,
+            "rule": "madd_2"
+          },{
+            "from": 161,
+            "to": 162,
+            "rule": "madd_246"
+          }]
+          }]
+    }
